@@ -1,0 +1,1610 @@
+{
+  "document_id": "70736d19-7d59-4e12-8310-bae54d6acff4",
+  "document_hash": "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc",
+  "source": {
+    "file_name": "VestasAnnualReport2025.pdf",
+    "file_type": "pdf",
+    "file_size_bytes": 7656538,
+    "source_path": "D:\\Coding\\Vestas\\Pipeline\\data\\VestasAnnualReport2025.pdf"
+  },
+  "document_metadata": {
+    "page_count": 1,
+    "processed_page_range": [
+      13,
+      13
+    ],
+    "title": "VestasAnnualReport2025"
+  },
+  "processing": {
+    "parser_name": "docling-adaptive-pdf-parser",
+    "parser_version": "3.0.0",
+    "processing_started_at": "2026-08-06T14:51:35.817957+00:00",
+    "processing_completed_at": "2026-08-06T14:52:03.464626+00:00",
+    "status": "completed",
+    "strategy": "adaptive_two_pass",
+    "pass_1": {
+      "purpose": "Layout and native-content detection",
+      "ocr_enabled": false
+    },
+    "pass_2": {
+      "purpose": "OCR only on candidate pages",
+      "ocr_enabled": true,
+      "candidate_pages": [],
+      "processed_pages": []
+    }
+  },
+  "content_summary": {
+    "total_blocks": 20,
+    "total_tables": 0,
+    "total_pictures": 1,
+    "label_counts": {
+      "section_header": 7,
+      "text": 3,
+      "picture": 1,
+      "list_item": 9
+    },
+    "page_type_counts": {
+      "mixed": 1
+    },
+    "ocr_required_page_count": 0,
+    "ocr_required_pages": []
+  },
+  "pages": [
+    {
+      "page_number": 13,
+      "page_type": "mixed",
+      "contains": {
+        "text": true,
+        "table": false,
+        "picture": true,
+        "chart": true,
+        "diagram": false
+      },
+      "native_text": "Vision and strategy\nOur vision and purpose\nWind is our heritage and core competence, and Vestas stands at the forefront of the energy transition to provide affordable, secure, and sustainable energy to the energy systems of the future. Our vision is to become the Global Leader in Sustainable Energy Solutions.\nA sustainable transition must be both affordable and secure\nVestas' business model (see page 24) supports the energy transition by offering a cost-competitive, fuel-free and decentralised electricity generation source that is readily deployable. Our comprehensive range of onshore and offshore turbines are tailored to various wind conditions and relevant for any geography with a suitable wind resource.\nWe operate globally with a track record of 201 GW capacity installed in 88 countries. Our main customers are utility companies, developers, infrastructure funds, and independent power producers that develop and operate wind farms to integrate renewable energy into their portfolios.\nWind energy value drivers\nEnergy affordability\nLevelised cost of electricity (LCoE) for wind energy is lower than wholesale power prices in most markets\nOnshore wind is, alongside Solar PV, the most cost-effective and readily deployable form of new generation\nMay provide price stability by insulating power markets from global fuel price volatility\nEnergy security\nNational generation, promoting the use of the wind resource available on land or at sea\nEnergy independence by reducing the need for imported energy\nDecentralised power generation is more resilient to cyber or military threats\nEnergy sustainability\nWind is a non-depletable source of energy\nClimate change mitigation, as wind energy is one of the most carbon-efficient ways to generate electricity\nStimulating long-term local investments and generational jobs",
+      "ocr_text": "",
+      "final_text": "Vision and strategy\nOur vision and purpose\nWind is our heritage and core competence, and Vestas stands at the forefront of the energy transition to provide affordable, secure, and sustainable energy to the energy systems of the future. Our vision is to become the Global Leader in Sustainable Energy Solutions.\nA sustainable transition must be both affordable and secure\nVestas' business model (see page 24) supports the energy transition by offering a cost-competitive, fuel-free and decentralised electricity generation source that is readily deployable. Our comprehensive range of onshore and offshore turbines are tailored to various wind conditions and relevant for any geography with a suitable wind resource.\nWe operate globally with a track record of 201 GW capacity installed in 88 countries. Our main customers are utility companies, developers, infrastructure funds, and independent power producers that develop and operate wind farms to integrate renewable energy into their portfolios.\nWind energy value drivers\nEnergy affordability\nLevelised cost of electricity (LCoE) for wind energy is lower than wholesale power prices in most markets\nOnshore wind is, alongside Solar PV, the most cost-effective and readily deployable form of new generation\nMay provide price stability by insulating power markets from global fuel price volatility\nEnergy security\nNational generation, promoting the use of the wind resource available on land or at sea\nEnergy independence by reducing the need for imported energy\nDecentralised power generation is more resilient to cyber or military threats\nEnergy sustainability\nWind is a non-depletable source of energy\nClimate change mitigation, as wind energy is one of the most carbon-efficient ways to generate electricity\nStimulating long-term local investments and generational jobs",
+      "ocr": {
+        "required": false,
+        "reason": null,
+        "applied": false,
+        "success": false,
+        "error": null
+      },
+      "content": [
+        {
+          "type": "section_header",
+          "text": "Vision and strategy",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 34.0157,
+                "t": 518.9534009765625,
+                "r": 209.06269999999998,
+                "b": 447.8352702881145,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                19
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Our vision and purpose",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 34.0157,
+                "t": 296.35340097656257,
+                "r": 205.12550000000002,
+                "b": 281.24598838914994,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Wind is our heritage and core competence, and Vestas stands at the forefront of the energy transition to provide affordable, secure, and sustainable energy to the energy systems of the future. Our vision is to become the Global Leader in Sustainable Energy Solutions.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 34.0157,
+                "t": 256.89340097656253,
+                "r": 273.06120000000004,
+                "b": 216.8970769672386,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                267
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "A sustainable transition must be both affordable and secure",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 34.01570000000001,
+                "t": 201.89840097656258,
+                "r": 255.7382000000002,
+                "b": 194.8746035082081,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                59
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Vestas' business model (see page 24) supports the energy transition by offering a cost-competitive, fuel-free and decentralised electricity generation source that is readily deployable. Our comprehensive range of onshore and offshore turbines are tailored to various wind conditions and relevant for any geography with a suitable wind resource.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 34.01570000000001,
+                "t": 190.89940097656256,
+                "r": 282.20804999999996,
+                "b": 128.90507696723864,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                344
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "We operate globally with a track record of 201 GW capacity installed in 88 countries. Our main customers are utility companies, developers, infrastructure funds, and independent power producers that develop and operate wind farms to integrate renewable energy into their portfolios.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 34.01570000000001,
+                "t": 113.90640097656262,
+                "r": 281.7626499999999,
+                "b": 62.911076967238614,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                282
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Wind energy value drivers",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 429.4488,
+                "t": 193.27340097656258,
+                "r": 558.054,
+                "b": 183.392002375164,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                25
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Energy affordability",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 429.4488,
+                "t": 157.8934009765626,
+                "r": 501.77105000000046,
+                "b": 150.89407696723856,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list_item",
+          "text": "Levelised cost of electricity (LCoE) for wind energy is lower than wholesale power prices in most markets",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 429.4488,
+                "t": 139.27340097656253,
+                "r": 544.3608000000003,
+                "b": 115.91125179241334,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                107
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list_item",
+          "text": "Onshore wind is, alongside Solar PV, the most cost-effective and readily deployable form of new generation",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 429.4488,
+                "t": 112.87640097656254,
+                "r": 542.8754,
+                "b": 89.51425179241335,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                108
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list_item",
+          "text": "May provide price stability by insulating power markets from global fuel price volatility",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 429.4488,
+                "t": 86.47940097656249,
+                "r": 527.9310999999999,
+                "b": 63.1172517924133,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                91
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Energy security",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 561.2622000000001,
+                "t": 157.91090097656263,
+                "r": 617.8636999999999,
+                "b": 150.9115769672386,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list_item",
+          "text": "National generation, promoting the use of the wind resource available on land or at sea",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 561.2599,
+                "t": 139.27340097656253,
+                "r": 672.9932000000001,
+                "b": 115.91125179241334,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                89
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list_item",
+          "text": "Energy independence by reducing the need for imported energy",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 561.2599,
+                "t": 112.87640097656254,
+                "r": 669.6122000000003,
+                "b": 98.31325179241333,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                62
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list_item",
+          "text": "Decentralised power generation is more resilient to cyber or military threats",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 561.2599,
+                "t": 95.27840097656252,
+                "r": 669.9832,
+                "b": 71.91625179241328,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                79
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Energy sustainability",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 693.0709,
+                "t": 157.8934009765626,
+                "r": 769.3958000000005,
+                "b": 150.89407696723856,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                21
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list_item",
+          "text": "Wind is a non-depletable source of energy",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 693.0709,
+                "t": 139.27340097656253,
+                "r": 803.2509000000002,
+                "b": 124.71025179241337,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                43
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list_item",
+          "text": "Climate change mitigation, as wind energy is one of the most carbon-efficient ways to generate electricity",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 693.0709,
+                "t": 121.67540097656251,
+                "r": 803.8739000000002,
+                "b": 89.51425179241335,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                108
+              ]
+            }
+          ]
+        },
+        {
+          "type": "list_item",
+          "text": "Stimulating long-term local investments and generational jobs",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 693.0709,
+                "t": 86.47940097656249,
+                "r": 802.0251999999999,
+                "b": 71.91625179241328,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                63
+              ]
+            }
+          ]
+        },
+        {
+          "type": "flow_chart",
+          "classification": {
+            "primary_label": "flow_chart",
+            "labels": [
+              "flow_chart",
+              "pie_chart",
+              "icon",
+              "logo",
+              "other",
+              "calendar",
+              "full_page_image",
+              "screenshot_from_computer",
+              "engineering_drawing",
+              "geographical_map",
+              "bar_chart",
+              "screenshot_from_manual",
+              "page_thumbnail",
+              "stamp",
+              "table",
+              "photograph",
+              "line_chart",
+              "chemistry_structure",
+              "signature",
+              "music",
+              "qr_code",
+              "scatter_plot",
+              "crossword_puzzle",
+              "bar_code",
+              "box_plot",
+              "topographical_map",
+              "chart",
+              "photo"
+            ],
+            "confidence_scores": [
+              0.3033389747142792,
+              0.2932625114917755,
+              0.2648736834526062,
+              0.05956374108791351,
+              0.01845654472708702,
+              0.010336006991565228,
+              0.009128157049417496,
+              0.005456538405269384,
+              0.004800011403858662,
+              0.004227562807500362,
+              0.004004103131592274,
+              0.0035687738563865423,
+              0.0034552039578557014,
+              0.003325200406834483,
+              0.0030800446402281523,
+              0.002740859752520919,
+              0.002440192736685276,
+              0.001703451736830175,
+              0.0008667423389852047,
+              0.0004684097075369209,
+              0.0003688621800392866,
+              0.00023456642520613968,
+              0.00020492599287535995,
+              5.773228622274473e-05,
+              2.4757897335803136e-05,
+              1.2464864084904548e-05
+            ]
+          },
+          "annotations": [
+            {
+              "kind": "classification",
+              "provenance": "DocumentPictureClassifier",
+              "predicted_classes": [
+                {
+                  "class_name": "flow_chart",
+                  "confidence": 0.3033389747142792
+                },
+                {
+                  "class_name": "pie_chart",
+                  "confidence": 0.2932625114917755
+                },
+                {
+                  "class_name": "icon",
+                  "confidence": 0.2648736834526062
+                },
+                {
+                  "class_name": "logo",
+                  "confidence": 0.05956374108791351
+                },
+                {
+                  "class_name": "other",
+                  "confidence": 0.01845654472708702
+                },
+                {
+                  "class_name": "calendar",
+                  "confidence": 0.010336006991565228
+                },
+                {
+                  "class_name": "full_page_image",
+                  "confidence": 0.009128157049417496
+                },
+                {
+                  "class_name": "screenshot_from_computer",
+                  "confidence": 0.005456538405269384
+                },
+                {
+                  "class_name": "engineering_drawing",
+                  "confidence": 0.004800011403858662
+                },
+                {
+                  "class_name": "geographical_map",
+                  "confidence": 0.004227562807500362
+                },
+                {
+                  "class_name": "bar_chart",
+                  "confidence": 0.004004103131592274
+                },
+                {
+                  "class_name": "screenshot_from_manual",
+                  "confidence": 0.0035687738563865423
+                },
+                {
+                  "class_name": "page_thumbnail",
+                  "confidence": 0.0034552039578557014
+                },
+                {
+                  "class_name": "stamp",
+                  "confidence": 0.003325200406834483
+                },
+                {
+                  "class_name": "table",
+                  "confidence": 0.0030800446402281523
+                },
+                {
+                  "class_name": "photograph",
+                  "confidence": 0.002740859752520919
+                },
+                {
+                  "class_name": "line_chart",
+                  "confidence": 0.002440192736685276
+                },
+                {
+                  "class_name": "chemistry_structure",
+                  "confidence": 0.001703451736830175
+                },
+                {
+                  "class_name": "signature",
+                  "confidence": 0.0008667423389852047
+                },
+                {
+                  "class_name": "music",
+                  "confidence": 0.0004684097075369209
+                },
+                {
+                  "class_name": "qr_code",
+                  "confidence": 0.0003688621800392866
+                },
+                {
+                  "class_name": "scatter_plot",
+                  "confidence": 0.00023456642520613968
+                },
+                {
+                  "class_name": "crossword_puzzle",
+                  "confidence": 0.00020492599287535995
+                },
+                {
+                  "class_name": "bar_code",
+                  "confidence": 5.773228622274473e-05
+                },
+                {
+                  "class_name": "box_plot",
+                  "confidence": 2.4757897335803136e-05
+                },
+                {
+                  "class_name": "topographical_map",
+                  "confidence": 1.2464864084904548e-05
+                }
+              ]
+            }
+          ],
+          "extraction_method": "docling_picture_analysis",
+          "provenance": [
+            {
+              "page_number": 13,
+              "bbox": {
+                "l": 460.77391048188093,
+                "t": 505.16336587574335,
+                "r": 774.9252522496281,
+                "b": 228.32159054800871,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ],
+      "block_ids": [
+        "#/texts/5",
+        "#/texts/6",
+        "#/texts/7",
+        "#/texts/8",
+        "#/texts/9",
+        "#/texts/10",
+        "#/pictures/0",
+        "#/texts/16",
+        "#/texts/17",
+        "#/texts/18",
+        "#/texts/19",
+        "#/texts/20",
+        "#/texts/21",
+        "#/texts/22",
+        "#/texts/23",
+        "#/texts/24",
+        "#/texts/25",
+        "#/texts/26",
+        "#/texts/27",
+        "#/texts/28"
+      ],
+      "table_ids": [],
+      "picture_ids": [
+        "#/pictures/0"
+      ],
+      "metadata": {
+        "block_count": 20,
+        "text_block_count": 19,
+        "table_count": 0,
+        "picture_count": 1,
+        "chart_count": 1,
+        "diagram_count": 0
+      },
+      "warnings": []
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "#/texts/5",
+      "sequence_number": 1,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Vision and strategy",
+      "character_count": 19,
+      "word_count": 3,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 34.0157,
+            "t": 518.9534009765625,
+            "r": 209.06269999999998,
+            "b": 447.8352702881145,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            19
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/6",
+      "sequence_number": 2,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Our vision and purpose",
+      "character_count": 22,
+      "word_count": 4,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 34.0157,
+            "t": 296.35340097656257,
+            "r": 205.12550000000002,
+            "b": 281.24598838914994,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            22
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/7",
+      "sequence_number": 3,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "Wind is our heritage and core competence, and Vestas stands at the forefront of the energy transition to provide affordable, secure, and sustainable energy to the energy systems of the future. Our vision is to become the Global Leader in Sustainable Energy Solutions.",
+      "character_count": 267,
+      "word_count": 43,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 34.0157,
+            "t": 256.89340097656253,
+            "r": 273.06120000000004,
+            "b": 216.8970769672386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            267
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/8",
+      "sequence_number": 4,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "A sustainable transition must be both affordable and secure",
+      "character_count": 59,
+      "word_count": 9,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 34.01570000000001,
+            "t": 201.89840097656258,
+            "r": 255.7382000000002,
+            "b": 194.8746035082081,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            59
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/9",
+      "sequence_number": 5,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "Vestas' business model (see page 24) supports the energy transition by offering a cost-competitive, fuel-free and decentralised electricity generation source that is readily deployable. Our comprehensive range of onshore and offshore turbines are tailored to various wind conditions and relevant for any geography with a suitable wind resource.",
+      "character_count": 344,
+      "word_count": 48,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 34.01570000000001,
+            "t": 190.89940097656256,
+            "r": 282.20804999999996,
+            "b": 128.90507696723864,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            344
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/10",
+      "sequence_number": 6,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "We operate globally with a track record of 201 GW capacity installed in 88 countries. Our main customers are utility companies, developers, infrastructure funds, and independent power producers that develop and operate wind farms to integrate renewable energy into their portfolios.",
+      "character_count": 282,
+      "word_count": 41,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 34.01570000000001,
+            "t": 113.90640097656262,
+            "r": 281.7626499999999,
+            "b": 62.911076967238614,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            282
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/pictures/0",
+      "sequence_number": 7,
+      "hierarchy_level": 1,
+      "type": "picture",
+      "text": "",
+      "character_count": 0,
+      "word_count": 0,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 460.77391048188093,
+            "t": 505.16336587574335,
+            "r": 774.9252522496281,
+            "b": 228.32159054800871,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            0
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "kind": "classification",
+          "provenance": "DocumentPictureClassifier",
+          "predicted_classes": [
+            {
+              "class_name": "flow_chart",
+              "confidence": 0.3033389747142792
+            },
+            {
+              "class_name": "pie_chart",
+              "confidence": 0.2932625114917755
+            },
+            {
+              "class_name": "icon",
+              "confidence": 0.2648736834526062
+            },
+            {
+              "class_name": "logo",
+              "confidence": 0.05956374108791351
+            },
+            {
+              "class_name": "other",
+              "confidence": 0.01845654472708702
+            },
+            {
+              "class_name": "calendar",
+              "confidence": 0.010336006991565228
+            },
+            {
+              "class_name": "full_page_image",
+              "confidence": 0.009128157049417496
+            },
+            {
+              "class_name": "screenshot_from_computer",
+              "confidence": 0.005456538405269384
+            },
+            {
+              "class_name": "engineering_drawing",
+              "confidence": 0.004800011403858662
+            },
+            {
+              "class_name": "geographical_map",
+              "confidence": 0.004227562807500362
+            },
+            {
+              "class_name": "bar_chart",
+              "confidence": 0.004004103131592274
+            },
+            {
+              "class_name": "screenshot_from_manual",
+              "confidence": 0.0035687738563865423
+            },
+            {
+              "class_name": "page_thumbnail",
+              "confidence": 0.0034552039578557014
+            },
+            {
+              "class_name": "stamp",
+              "confidence": 0.003325200406834483
+            },
+            {
+              "class_name": "table",
+              "confidence": 0.0030800446402281523
+            },
+            {
+              "class_name": "photograph",
+              "confidence": 0.002740859752520919
+            },
+            {
+              "class_name": "line_chart",
+              "confidence": 0.002440192736685276
+            },
+            {
+              "class_name": "chemistry_structure",
+              "confidence": 0.001703451736830175
+            },
+            {
+              "class_name": "signature",
+              "confidence": 0.0008667423389852047
+            },
+            {
+              "class_name": "music",
+              "confidence": 0.0004684097075369209
+            },
+            {
+              "class_name": "qr_code",
+              "confidence": 0.0003688621800392866
+            },
+            {
+              "class_name": "scatter_plot",
+              "confidence": 0.00023456642520613968
+            },
+            {
+              "class_name": "crossword_puzzle",
+              "confidence": 0.00020492599287535995
+            },
+            {
+              "class_name": "bar_code",
+              "confidence": 5.773228622274473e-05
+            },
+            {
+              "class_name": "box_plot",
+              "confidence": 2.4757897335803136e-05
+            },
+            {
+              "class_name": "topographical_map",
+              "confidence": 1.2464864084904548e-05
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block_id": "#/texts/16",
+      "sequence_number": 8,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Wind energy value drivers",
+      "character_count": 25,
+      "word_count": 4,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 429.4488,
+            "t": 193.27340097656258,
+            "r": 558.054,
+            "b": 183.392002375164,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            25
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/17",
+      "sequence_number": 9,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Energy affordability",
+      "character_count": 20,
+      "word_count": 2,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 429.4488,
+            "t": 157.8934009765626,
+            "r": 501.77105000000046,
+            "b": 150.89407696723856,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            20
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/18",
+      "sequence_number": 10,
+      "hierarchy_level": 2,
+      "type": "list_item",
+      "text": "Levelised cost of electricity (LCoE) for wind energy is lower than wholesale power prices in most markets",
+      "character_count": 105,
+      "word_count": 17,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 429.4488,
+            "t": 139.27340097656253,
+            "r": 544.3608000000003,
+            "b": 115.91125179241334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            107
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/19",
+      "sequence_number": 11,
+      "hierarchy_level": 2,
+      "type": "list_item",
+      "text": "Onshore wind is, alongside Solar PV, the most cost-effective and readily deployable form of new generation",
+      "character_count": 106,
+      "word_count": 16,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 429.4488,
+            "t": 112.87640097656254,
+            "r": 542.8754,
+            "b": 89.51425179241335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            108
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/20",
+      "sequence_number": 12,
+      "hierarchy_level": 2,
+      "type": "list_item",
+      "text": "May provide price stability by insulating power markets from global fuel price volatility",
+      "character_count": 89,
+      "word_count": 13,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 429.4488,
+            "t": 86.47940097656249,
+            "r": 527.9310999999999,
+            "b": 63.1172517924133,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            91
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/21",
+      "sequence_number": 13,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Energy security",
+      "character_count": 15,
+      "word_count": 2,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 561.2622000000001,
+            "t": 157.91090097656263,
+            "r": 617.8636999999999,
+            "b": 150.9115769672386,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            15
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/22",
+      "sequence_number": 14,
+      "hierarchy_level": 2,
+      "type": "list_item",
+      "text": "National generation, promoting the use of the wind resource available on land or at sea",
+      "character_count": 87,
+      "word_count": 15,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 561.2599,
+            "t": 139.27340097656253,
+            "r": 672.9932000000001,
+            "b": 115.91125179241334,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            89
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/23",
+      "sequence_number": 15,
+      "hierarchy_level": 2,
+      "type": "list_item",
+      "text": "Energy independence by reducing the need for imported energy",
+      "character_count": 60,
+      "word_count": 9,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 561.2599,
+            "t": 112.87640097656254,
+            "r": 669.6122000000003,
+            "b": 98.31325179241333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            62
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/24",
+      "sequence_number": 16,
+      "hierarchy_level": 2,
+      "type": "list_item",
+      "text": "Decentralised power generation is more resilient to cyber or military threats",
+      "character_count": 77,
+      "word_count": 11,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 561.2599,
+            "t": 95.27840097656252,
+            "r": 669.9832,
+            "b": 71.91625179241328,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            79
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/25",
+      "sequence_number": 17,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Energy sustainability",
+      "character_count": 21,
+      "word_count": 2,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 693.0709,
+            "t": 157.8934009765626,
+            "r": 769.3958000000005,
+            "b": 150.89407696723856,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            21
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/26",
+      "sequence_number": 18,
+      "hierarchy_level": 2,
+      "type": "list_item",
+      "text": "Wind is a non-depletable source of energy",
+      "character_count": 41,
+      "word_count": 7,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 693.0709,
+            "t": 139.27340097656253,
+            "r": 803.2509000000002,
+            "b": 124.71025179241337,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            43
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/27",
+      "sequence_number": 19,
+      "hierarchy_level": 2,
+      "type": "list_item",
+      "text": "Climate change mitigation, as wind energy is one of the most carbon-efficient ways to generate electricity",
+      "character_count": 106,
+      "word_count": 16,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 693.0709,
+            "t": 121.67540097656251,
+            "r": 803.8739000000002,
+            "b": 89.51425179241335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            108
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/28",
+      "sequence_number": 20,
+      "hierarchy_level": 2,
+      "type": "list_item",
+      "text": "Stimulating long-term local investments and generational jobs",
+      "character_count": 61,
+      "word_count": 7,
+      "page_numbers": [
+        13
+      ],
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 693.0709,
+            "t": 86.47940097656249,
+            "r": 802.0251999999999,
+            "b": 71.91625179241328,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            63
+          ]
+        }
+      ],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "pictures": [
+    {
+      "picture_id": "#/pictures/0",
+      "picture_number": 1,
+      "page_numbers": [
+        13
+      ],
+      "classification": {
+        "primary_label": "flow_chart",
+        "labels": [
+          "flow_chart",
+          "pie_chart",
+          "icon",
+          "logo",
+          "other",
+          "calendar",
+          "full_page_image",
+          "screenshot_from_computer",
+          "engineering_drawing",
+          "geographical_map",
+          "bar_chart",
+          "screenshot_from_manual",
+          "page_thumbnail",
+          "stamp",
+          "table",
+          "photograph",
+          "line_chart",
+          "chemistry_structure",
+          "signature",
+          "music",
+          "qr_code",
+          "scatter_plot",
+          "crossword_puzzle",
+          "bar_code",
+          "box_plot",
+          "topographical_map",
+          "chart",
+          "photo"
+        ],
+        "confidence_scores": [
+          0.3033389747142792,
+          0.2932625114917755,
+          0.2648736834526062,
+          0.05956374108791351,
+          0.01845654472708702,
+          0.010336006991565228,
+          0.009128157049417496,
+          0.005456538405269384,
+          0.004800011403858662,
+          0.004227562807500362,
+          0.004004103131592274,
+          0.0035687738563865423,
+          0.0034552039578557014,
+          0.003325200406834483,
+          0.0030800446402281523,
+          0.002740859752520919,
+          0.002440192736685276,
+          0.001703451736830175,
+          0.0008667423389852047,
+          0.0004684097075369209,
+          0.0003688621800392866,
+          0.00023456642520613968,
+          0.00020492599287535995,
+          5.773228622274473e-05,
+          2.4757897335803136e-05,
+          1.2464864084904548e-05
+        ]
+      },
+      "provenance": [
+        {
+          "page_number": 13,
+          "bbox": {
+            "l": 460.77391048188093,
+            "t": 505.16336587574335,
+            "r": 774.9252522496281,
+            "b": 228.32159054800871,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            0
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "kind": "classification",
+          "provenance": "DocumentPictureClassifier",
+          "predicted_classes": [
+            {
+              "class_name": "flow_chart",
+              "confidence": 0.3033389747142792
+            },
+            {
+              "class_name": "pie_chart",
+              "confidence": 0.2932625114917755
+            },
+            {
+              "class_name": "icon",
+              "confidence": 0.2648736834526062
+            },
+            {
+              "class_name": "logo",
+              "confidence": 0.05956374108791351
+            },
+            {
+              "class_name": "other",
+              "confidence": 0.01845654472708702
+            },
+            {
+              "class_name": "calendar",
+              "confidence": 0.010336006991565228
+            },
+            {
+              "class_name": "full_page_image",
+              "confidence": 0.009128157049417496
+            },
+            {
+              "class_name": "screenshot_from_computer",
+              "confidence": 0.005456538405269384
+            },
+            {
+              "class_name": "engineering_drawing",
+              "confidence": 0.004800011403858662
+            },
+            {
+              "class_name": "geographical_map",
+              "confidence": 0.004227562807500362
+            },
+            {
+              "class_name": "bar_chart",
+              "confidence": 0.004004103131592274
+            },
+            {
+              "class_name": "screenshot_from_manual",
+              "confidence": 0.0035687738563865423
+            },
+            {
+              "class_name": "page_thumbnail",
+              "confidence": 0.0034552039578557014
+            },
+            {
+              "class_name": "stamp",
+              "confidence": 0.003325200406834483
+            },
+            {
+              "class_name": "table",
+              "confidence": 0.0030800446402281523
+            },
+            {
+              "class_name": "photograph",
+              "confidence": 0.002740859752520919
+            },
+            {
+              "class_name": "line_chart",
+              "confidence": 0.002440192736685276
+            },
+            {
+              "class_name": "chemistry_structure",
+              "confidence": 0.001703451736830175
+            },
+            {
+              "class_name": "signature",
+              "confidence": 0.0008667423389852047
+            },
+            {
+              "class_name": "music",
+              "confidence": 0.0004684097075369209
+            },
+            {
+              "class_name": "qr_code",
+              "confidence": 0.0003688621800392866
+            },
+            {
+              "class_name": "scatter_plot",
+              "confidence": 0.00023456642520613968
+            },
+            {
+              "class_name": "crossword_puzzle",
+              "confidence": 0.00020492599287535995
+            },
+            {
+              "class_name": "bar_code",
+              "confidence": 5.773228622274473e-05
+            },
+            {
+              "class_name": "box_plot",
+              "confidence": 2.4757897335803136e-05
+            },
+            {
+              "class_name": "topographical_map",
+              "confidence": 1.2464864084904548e-05
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "markdown": "## Vision and strategy\n\n## Our vision and purpose\n\nWind is our heritage and core competence, and Vestas stands at the forefront of the energy transition to provide affordable, secure, and sustainable energy to the energy systems of the future. Our vision is to become the Global Leader in Sustainable Energy Solutions.\n\n## A sustainable transition must be both affordable and secure\n\nVestas' business model (see page 24) supports the energy transition by offering a cost-competitive, fuel-free and decentralised electricity generation source that is readily deployable. Our comprehensive range of onshore and offshore turbines are tailored to various wind conditions and relevant for any geography with a suitable wind resource.\n\nWe operate globally with a track record of 201 GW capacity installed in 88 countries. Our main customers are utility companies, developers, infrastructure funds, and independent power producers that develop and operate wind farms to integrate renewable energy into their portfolios.\n\n<!-- image -->\n\nFlow chart\n\n## Wind energy value drivers\n\n## Energy affordability\n\n- Levelised cost of electricity (LCoE) for wind energy is lower than wholesale power prices in most markets\n- Onshore wind is, alongside Solar PV, the most cost-effective and readily deployable form of new generation\n- May provide price stability by insulating power markets from global fuel price volatility\n\n## Energy security\n\n- National generation, promoting the use of the wind resource available on land or at sea\n- Energy independence by reducing the need for imported energy\n- Decentralised power generation is more resilient to cyber or military threats\n\n## Energy sustainability\n\n- Wind is a non-depletable source of energy\n- Climate change mitigation, as wind energy is one of the most carbon-efficient ways to generate electricity\n- Stimulating long-term local investments and generational jobs",
+  "quality": {
+    "pages_processed": 1,
+    "pages_with_text": 1,
+    "pages_with_tables": 0,
+    "pages_with_pictures": 1,
+    "pages_requiring_ocr": 0,
+    "ocr_pages_processed": 0,
+    "empty_pages": 0,
+    "failed_pages": 0,
+    "overall_quality_score": 1.0
+  },
+  "warnings": [],
+  "errors": []
+}

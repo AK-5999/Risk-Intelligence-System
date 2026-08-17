@@ -1,0 +1,20 @@
+{
+  "page_number": 10,
+  "description": "Our people - narrative text, no tables/diagrams",
+  "expected_headings": [
+    "Our people",
+    "Safety, always",
+    "Our workforce",
+    "Growing leadership at every level",
+    "Acting responsibly across our value chain",
+    "Looking ahead"
+  ],
+  "required_text_fragments": [
+    "Operating Model Reset",
+    "Vestas Leadership Forum",
+    "Employee Engagement Survey",
+    "Pauline Manesse, Service Technician, France"
+  ],
+  "expected_tables": [],
+  "provenance_required": true
+}

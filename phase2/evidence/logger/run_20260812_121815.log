@@ -1,0 +1,140 @@
+2026-08-12 12:18:15,926 | INFO | PIPELINE | run_id=20260812_121815 | STARTED
+2026-08-12 12:18:15,926 | INFO | PIPELINE | log_file=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\logger\run_20260812_121815.log
+2026-08-12 12:18:15,926 | INFO | PIPELINE | run_id=20260812_121815 | STEP_1 | STARTED
+2026-08-12 12:18:15,926 | INFO | STEP_1 | risk_analysis | STARTED
+2026-08-12 12:18:15,926 | INFO | STEP_1 | input_load | STARTED
+2026-08-12 12:18:15,926 | INFO | STEP_1 | input_file=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\InputJson\VestasAnnualReport2025.json
+2026-08-12 12:18:15,926 | INFO | STEP_1 | input_load | SUCCESS | pages=6
+2026-08-12 12:18:15,926 | INFO | STEP_1 | enterprise_table | page=51 | block=block-5 | rows=3
+2026-08-12 12:18:15,938 | INFO | STEP_1 | topic_detected | page=71 | code=E1 | topic=Climate Change | block=block-3
+2026-08-12 12:18:15,938 | INFO | STEP_1 | topic_detected | page=72 | code=E4 | topic=Biodiversity and ecosystems | block=block-1
+2026-08-12 12:18:15,938 | INFO | STEP_1 | topic_detected | page=72 | code=E5 | topic=Circular economy and resource use | block=block-2
+2026-08-12 12:18:15,938 | INFO | STEP_1 | topic_detected | page=73 | code=S1 | topic=Own Workforce | block=block-1
+2026-08-12 12:18:15,939 | INFO | STEP_1 | topic_detected | page=73 | code=S2 | topic=Workers in the value chain | block=block-6
+2026-08-12 12:18:15,939 | INFO | STEP_1 | topic_detected | page=74 | code=S3 | topic=Affected communities | block=block-1
+2026-08-12 12:18:15,939 | INFO | STEP_1 | topic_detected | page=74 | code=G1 | topic=Business Conduct | block=block-7
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_detected | page=71 | block=block-13 | rows=5
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_detected | page=72 | block=block-9 | rows=1
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_detected | page=72 | block=block-10 | rows=3
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_detected | page=73 | block=block-12 | rows=3
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_detected | page=73 | block=block-13 | rows=3
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_detected | page=74 | block=block-15 | rows=2
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_detected | page=74 | block=block-16 | rows=1
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_detected | page=74 | block=block-17 | rows=3
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_match | page=71 | table=block-13 | topic=E1 | distance=36.35 | overlap=1.00
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_attached | topic=E1 | page=71 | block=block-13 | rows=5
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_match | page=72 | table=block-9 | topic=E4 | distance=17.61 | overlap=1.00
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_attached | topic=E4 | page=72 | block=block-9 | rows=1
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_match | page=72 | table=block-10 | topic=E5 | distance=32.82 | overlap=1.00
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_attached | topic=E5 | page=72 | block=block-10 | rows=3
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_match | page=73 | table=block-12 | topic=S1 | distance=35.06 | overlap=1.00
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_attached | topic=S1 | page=73 | block=block-12 | rows=3
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_match | page=73 | table=block-13 | topic=S2 | distance=34.15 | overlap=1.00
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_attached | topic=S2 | page=73 | block=block-13 | rows=3
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_match | page=74 | table=block-15 | topic=S3 | distance=35.02 | overlap=0.57
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_attached | topic=S3 | page=74 | block=block-15 | rows=2
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_match | page=74 | table=block-16 | topic=S3 | distance=35.38 | overlap=0.00
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_attached | topic=S3 | page=74 | block=block-16 | rows=1
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_match | page=74 | table=block-17 | topic=G1 | distance=35.54 | overlap=1.00
+2026-08-12 12:18:15,939 | INFO | STEP_1 | table_attached | topic=G1 | page=74 | block=block-17 | rows=3
+2026-08-12 12:18:15,939 | INFO | STEP_1 | risk_analysis | SUCCESS | topics=7 | material_tables=8 | topics_without_tables=0
+2026-08-12 12:18:15,939 | INFO | STEP_1 | output_write | SUCCESS | output=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\output\risk_analysis.json
+2026-08-12 12:18:15,939 | INFO | PIPELINE | run_id=20260812_121815 | STEP_1 | SUCCESS
+2026-08-12 12:18:15,939 | INFO | PIPELINE | run_id=20260812_121815 | STEP_1_5 | STARTED
+2026-08-12 12:18:15,939 | INFO | STEP_1_5 | candidate_extraction | STARTED
+2026-08-12 12:18:15,939 | INFO | STEP_1_5 | candidate_extraction | input_load | STARTED
+2026-08-12 12:18:15,939 | INFO | STEP_1_5 | candidate_extraction | input_file=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\output\risk_analysis.json
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_extraction | input_load | SUCCESS
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_created | id=enterprise_001 | type=enterprise | page=51 | title=Geopolitics and regulatory framework
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_created | id=enterprise_002 | type=enterprise | page=51 | title=Project execution
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_created | id=enterprise_003 | type=enterprise | page=51 | title=Cyber attacks
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_excluded | topic=E1 Climate Change | page=71 | block=block-13 | row=0 | reason=financial_opportunity
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_excluded | topic=E1 Climate Change | page=71 | block=block-13 | row=1 | reason=blank_financial_cell
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_excluded | topic=E1 Climate Change | page=71 | block=block-13 | row=2 | reason=financial_opportunity
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_excluded | topic=E1 Climate Change | page=71 | block=block-13 | row=3 | reason=immaterial
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_created | id=iro_004 | type=material_financial_risk | topic=E1 Climate Change | page=71 | block=block-13
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_excluded | topic=E4 Biodiversity and ecosystems | page=72 | block=block-9 | row=0 | reason=immaterial
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_excluded | topic=E5 Circular economy and resource use | page=72 | block=block-10 | row=0 | reason=financial_opportunity
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_excluded | topic=E5 Circular economy and resource use | page=72 | block=block-10 | row=1 | reason=immaterial
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_excluded | topic=E5 Circular economy and resource use | page=72 | block=block-10 | row=2 | reason=immaterial
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_created | id=iro_005 | type=material_financial_risk | topic=S1 Own Workforce | page=73 | block=block-12
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_excluded | topic=S1 Own Workforce | page=73 | block=block-12 | row=1 | reason=immaterial
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_excluded | topic=S1 Own Workforce | page=73 | block=block-12 | row=2 | reason=immaterial
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_excluded | topic=S2 Workers in the value chain | page=73 | block=block-13 | row=0 | reason=immaterial
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_created | id=iro_006 | type=material_financial_risk | topic=S2 Workers in the value chain | page=73 | block=block-13
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_created | id=iro_007 | type=material_financial_risk | topic=S2 Workers in the value chain | page=73 | block=block-13
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_excluded | topic=S3 Affected communities | page=74 | block=block-15 | row=0 | reason=blank_financial_cell
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_excluded | topic=S3 Affected communities | page=74 | block=block-15 | row=1 | reason=blank_financial_cell
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_excluded | topic=S3 Affected communities | page=74 | block=block-16 | row=0 | reason=immaterial
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_created | id=iro_008 | type=material_financial_risk | topic=G1 Business Conduct | page=74 | block=block-17
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_created | id=iro_009 | type=material_financial_risk | topic=G1 Business Conduct | page=74 | block=block-17
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_created | id=iro_010 | type=material_financial_risk | topic=G1 Business Conduct | page=74 | block=block-17
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_extraction | SUCCESS | candidates=10 | enterprise=3 | material=7 | excluded=14
+2026-08-12 12:18:15,955 | INFO | STEP_1_5 | candidate_output | SUCCESS | output=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\output\risk_candidates.json
+2026-08-12 12:18:15,955 | INFO | PIPELINE | run_id=20260812_121815 | STEP_1_5 | SUCCESS
+2026-08-12 12:18:15,955 | INFO | PIPELINE | run_id=20260812_121815 | STEP_2 | STARTED
+2026-08-12 12:18:15,961 | INFO | STEP_2 | generation | STARTED
+2026-08-12 12:18:15,961 | INFO | STEP_2 | candidate_load | STARTED | file=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\output\risk_candidates.json
+2026-08-12 12:18:15,973 | INFO | STEP_2 | candidate_load | SUCCESS | candidates=10
+2026-08-12 12:18:15,973 | INFO | STEP_2 | llm_health | STARTED | provider=openrouter | model=google/gemma-4-26b-a4b-it:free
+2026-08-12 12:18:16,232 | INFO | STEP_2 | llm_health | SUCCESS | status=200 | latency_ms=260.55
+2026-08-12 12:18:16,232 | INFO | STEP_2 | prompt_load | name=risk_extraction | version=2.0 | hash=d1c4a7678578
+2026-08-12 12:18:16,232 | INFO | STEP_2 | contexts | count=5 | candidates=10
+2026-08-12 12:18:16,232 | INFO | STEP_2 | context_generation | STARTED | 1/5 | topic=Main risks | candidates=3
+2026-08-12 12:18:16,232 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_generation
+2026-08-12 12:18:22,558 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=6325.75 | prompt_tokens=1444 | completion_tokens=201
+2026-08-12 12:18:22,558 | INFO | STEP_2 | category_resolution | source=llm | candidate=enterprise_001 | category=geopolitical
+2026-08-12 12:18:22,558 | INFO | STEP_2 | category_resolution | source=llm | candidate=enterprise_002 | category=operational
+2026-08-12 12:18:22,558 | INFO | STEP_2 | category_resolution | source=llm | candidate=enterprise_003 | category=cyber
+2026-08-12 12:18:22,558 | INFO | STEP_2 | semantic_validation | SUCCESS | topic=Main risks | candidates=3
+2026-08-12 12:18:22,558 | INFO | STEP_2 | context_generation | SUCCESS | topic=Main risks | risks=3
+2026-08-12 12:18:22,558 | INFO | STEP_2 | context_generation | STARTED | 2/5 | topic=E1 Climate Change | candidates=1
+2026-08-12 12:18:22,558 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_generation
+2026-08-12 12:18:23,369 | WARNING | STEP_2 | llm_retry | status=429 | attempt=1/5 | wait_seconds=22.92
+2026-08-12 12:18:46,932 | WARNING | STEP_2 | llm_retry | status=429 | attempt=2/5 | wait_seconds=24.63
+2026-08-12 12:19:15,205 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=52654.60 | prompt_tokens=726 | completion_tokens=55
+2026-08-12 12:19:15,219 | INFO | STEP_2 | category_resolution | source=llm | candidate=iro_004 | category=regulatory
+2026-08-12 12:19:15,219 | INFO | STEP_2 | semantic_validation | SUCCESS | topic=E1 Climate Change | candidates=1
+2026-08-12 12:19:15,219 | INFO | STEP_2 | context_generation | SUCCESS | topic=E1 Climate Change | risks=1
+2026-08-12 12:19:15,219 | INFO | STEP_2 | context_generation | STARTED | 3/5 | topic=S1 Own Workforce | candidates=1
+2026-08-12 12:19:15,219 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_generation
+2026-08-12 12:19:19,495 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=4276.66 | prompt_tokens=723 | completion_tokens=60
+2026-08-12 12:19:19,495 | INFO | STEP_2 | category_resolution | source=llm | candidate=iro_005 | category=workforce
+2026-08-12 12:19:19,495 | INFO | STEP_2 | semantic_validation | SUCCESS | topic=S1 Own Workforce | candidates=1
+2026-08-12 12:19:19,495 | INFO | STEP_2 | context_generation | SUCCESS | topic=S1 Own Workforce | risks=1
+2026-08-12 12:19:19,495 | INFO | STEP_2 | context_generation | STARTED | 4/5 | topic=S2 Workers in the value chain | candidates=2
+2026-08-12 12:19:19,495 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_generation
+2026-08-12 12:19:20,110 | WARNING | STEP_2 | llm_retry | status=429 | attempt=1/5 | wait_seconds=22.77
+2026-08-12 12:19:43,864 | WARNING | STEP_2 | llm_retry | status=429 | attempt=2/5 | wait_seconds=3.50
+2026-08-12 12:19:47,810 | WARNING | STEP_2 | llm_retry | status=429 | attempt=3/5 | wait_seconds=21.81
+2026-08-12 12:20:23,783 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=64288.12 | prompt_tokens=869 | completion_tokens=129
+2026-08-12 12:20:23,783 | INFO | STEP_2 | category_resolution | source=llm | candidate=iro_006 | category=operational
+2026-08-12 12:20:23,783 | INFO | STEP_2 | category_resolution | source=llm | candidate=iro_007 | category=regulatory
+2026-08-12 12:20:23,783 | INFO | STEP_2 | semantic_validation | SUCCESS | topic=S2 Workers in the value chain | candidates=2
+2026-08-12 12:20:23,783 | INFO | STEP_2 | context_generation | SUCCESS | topic=S2 Workers in the value chain | risks=2
+2026-08-12 12:20:23,783 | INFO | STEP_2 | context_generation | STARTED | 5/5 | topic=G1 Business Conduct | candidates=3
+2026-08-12 12:20:23,783 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_generation
+2026-08-12 12:20:40,544 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=16767.66 | prompt_tokens=954 | completion_tokens=172
+2026-08-12 12:20:40,544 | INFO | STEP_2 | category_resolution | source=llm | candidate=iro_008 | category=market
+2026-08-12 12:20:40,544 | INFO | STEP_2 | category_resolution | source=llm | candidate=iro_009 | category=cyber
+2026-08-12 12:20:40,544 | INFO | STEP_2 | category_resolution | source=llm | candidate=iro_010 | category=governance
+2026-08-12 12:20:40,544 | INFO | STEP_2 | semantic_validation | SUCCESS | topic=G1 Business Conduct | candidates=3
+2026-08-12 12:20:40,544 | INFO | STEP_2 | context_generation | SUCCESS | topic=G1 Business Conduct | risks=3
+2026-08-12 12:20:40,544 | INFO | STEP_2 | generation | SUCCESS | risks=10
+2026-08-12 12:20:40,554 | INFO | STEP_2 | output_write | SUCCESS | output=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\output\raw_generation.json
+2026-08-12 12:20:40,554 | INFO | PIPELINE | run_id=20260812_121815 | STEP_2 | SUCCESS
+2026-08-12 12:20:40,554 | INFO | PIPELINE | run_id=20260812_121815 | STEP_3 | STARTED
+2026-08-12 12:20:40,554 | INFO | STEP_3 | validation | STARTED
+2026-08-12 12:20:40,556 | INFO | STEP_3 | schema_validation | PASS | title=Geopolitics and regulatory framework
+2026-08-12 12:20:40,556 | INFO | STEP_3 | schema_validation | PASS | title=Project execution
+2026-08-12 12:20:40,556 | INFO | STEP_3 | schema_validation | PASS | title=Cyber attacks
+2026-08-12 12:20:40,556 | INFO | STEP_3 | schema_validation | PASS | title=Carbon taxes and tariffs
+2026-08-12 12:20:40,556 | INFO | STEP_3 | schema_validation | PASS | title=Cost implication of injuries in own workforce
+2026-08-12 12:20:40,556 | INFO | STEP_3 | schema_validation | PASS | title=Cost implications of injuries to contractors and sub-contractors
+2026-08-12 12:20:40,556 | INFO | STEP_3 | schema_validation | PASS | title=Fines related to forced or child labour
+2026-08-12 12:20:40,556 | INFO | STEP_3 | schema_validation | PASS | title=Insufficient market conditions
+2026-08-12 12:20:40,556 | INFO | STEP_3 | schema_validation | PASS | title=Cyber security risks
+2026-08-12 12:20:40,556 | INFO | STEP_3 | schema_validation | PASS | title=Risk of corruption and bribery
+2026-08-12 12:20:40,556 | INFO | STEP_3 | validation | SUCCESS | final_risks=10
+2026-08-12 12:20:40,556 | INFO | PIPELINE | run_id=20260812_121815 | STEP_3 | SUCCESS
+2026-08-12 12:20:40,556 | INFO | PIPELINE | run_id=20260812_121815 | COMPLETED | final_output=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\output\risks.json

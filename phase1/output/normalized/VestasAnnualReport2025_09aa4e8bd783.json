@@ -1,0 +1,2761 @@
+{
+  "document_id": "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc",
+  "document_hash": "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc",
+  "source": {
+    "file_name": "VestasAnnualReport2025.pdf",
+    "file_type": "pdf",
+    "file_size_bytes": 7656538,
+    "source_path": "D:\\Coding\\Vestas\\Pipeline\\data\\VestasAnnualReport2025.pdf"
+  },
+  "pages": [
+    {
+      "page_number": 50,
+      "page_type": "mixed",
+      "blocks": [
+        {
+          "block_id": "block-1",
+          "page_number": 50,
+          "type": "heading",
+          "text": "Risk management",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 31.1811,
+                "top": 518.9534009765625,
+                "right": 244.77909999999997,
+                "bottom": 447.8352702881145,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 15
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-2",
+          "page_number": 50,
+          "type": "heading",
+          "text": "Enterprise Risk Management annual wheel",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 34.0158,
+                "top": 355.21330097656255,
+                "right": 173.98455,
+                "bottom": 349.01583262213217,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 39
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-3",
+          "page_number": 50,
+          "type": "text",
+          "text": "Audit Committee and Board review Q1 + Q2 topics At Vestas, risk management is an integral part of business operations and strategy. We are committed to proactively identifying and mitigating risks that may affect our short- to medium-term objectives, while addressing long-term risks that could hinder the realisation of our strategic goals. These efforts help us protect Vestas' future and ensure long-term resilience.",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 179.2205,
+                "top": 77.67700097656257,
+                "right": 261.4705,
+                "bottom": 63.11385179241336,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 47
+            },
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 297.6378,
+                "top": 512.2734009765626,
+                "right": 543.2814000000003,
+                "bottom": 406.1280023751639,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 48,
+              "character_end": 419
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-4",
+          "page_number": 50,
+          "type": "heading",
+          "text": "Enterprise Risk Management",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 297.6378,
+                "top": 355.89340097656253,
+                "right": 404.9596499999995,
+                "bottom": 348.8696035082081,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 26
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-5",
+          "page_number": 50,
+          "type": "text",
+          "text": "Operating across diverse markets and a rapidly evolving industry landscape, Vestas is exposed to a wide array of risks that reflect the complexity and global nature of our business. These risks include operational, commercial, macroeconomic, and regulatory challenges.",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 297.6378,
+                "top": 344.8944009765625,
+                "right": 539.2749499999998,
+                "bottom": 304.89807696723847,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 268
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-6",
+          "page_number": 50,
+          "type": "text",
+          "text": "Our Enterprise Risk Management (ERM) framework ensures a structured approach to identifying, assessing, mitigating, and monitoring the risks we face. It promotes transparency and a shared understanding of risk, helping to safeguard our strategic and financial ambitions. Our ERM also aims to create and protect shareholder value, ensuring risk awareness and balancing risk against reward.",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 297.6378,
+                "top": 289.89940097656245,
+                "right": 530.9143499999999,
+                "bottom": 216.90607696723845,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 388
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-7",
+          "page_number": 50,
+          "type": "text",
+          "text": "Vestas' most significant risks, including material sustainability topics such as climate change mitigation and responsible business conduct, are reviewed every six months by the Executive Management Team, the Board of Directors, and the Audit Committee.",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 297.6378,
+                "top": 201.90740097656249,
+                "right": 545.8318500000003,
+                "bottom": 161.9110769672385,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 253
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-8",
+          "page_number": 50,
+          "type": "text",
+          "text": "These reviews are informed by insights from management teams across the organisation and include all types of risk that could materially affect the achievement of our strategic objectives.",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 297.6378,
+                "top": 146.91240097656248,
+                "right": 533.2305999999998,
+                "bottom": 117.91507696723846,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 188
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-9",
+          "page_number": 50,
+          "type": "text",
+          "text": "A condensed overview of our key enterprise risks, is provided on the next page.",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 297.6378,
+                "top": 102.9164009765625,
+                "right": 542.1216,
+                "bottom": 84.91807696723845,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 79
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-10",
+          "page_number": 50,
+          "type": "heading",
+          "text": "Our risk management governance",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 627.1653,
+                "top": 358.2734009765626,
+                "right": 795.8000999999994,
+                "bottom": 348.39200237516394,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 30
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-11",
+          "page_number": 50,
+          "type": "heading",
+          "text": "Audit (3rd line)",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 627.1654,
+                "top": 322.89040097656255,
+                "right": 682.0975000000005,
+                "bottom": 315.86660350820813,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 16
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-12",
+          "page_number": 50,
+          "type": "heading",
+          "text": "Board of Directors/Audit Committee / Executive Management Team",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 627.1653,
+                "top": 305.6284009765625,
+                "right": 735.9453,
+                "bottom": 291.04509717909417,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 62
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-13",
+          "page_number": 50,
+          "type": "text",
+          "text": "Responsible for providing assurance on the design and effectiveness of Vestas' risk management.",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 627.1653,
+                "top": 286.6094009765625,
+                "right": 786.8836000000001,
+                "bottom": 272.04625179241333,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 95
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-14",
+          "page_number": 50,
+          "type": "heading",
+          "text": "Assurance (2nd line)",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 627.1654,
+                "top": 212.8919009765625,
+                "right": 702.2858499999995,
+                "bottom": 205.8681035082081,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 20
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-15",
+          "page_number": 50,
+          "type": "heading",
+          "text": "EVP area and Regional leadership teams / Risk Committee/ Corporate ERM",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 627.1653,
+                "top": 195.62340097656255,
+                "right": 748.4333000000001,
+                "bottom": 181.04009717909423,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 70
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-16",
+          "page_number": 50,
+          "type": "text",
+          "text": "Responsible for designing and supervising risk management systems, and for monitoring risks to ensure they are managed within acceptable limits.",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 627.1653,
+                "top": 178.02540097656254,
+                "right": 807.3018999999997,
+                "bottom": 154.66325179241335,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 144
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-17",
+          "page_number": 50,
+          "type": "heading",
+          "text": "Operational (1st line)",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 627.1654,
+                "top": 102.89340097656253,
+                "right": 705.0347499999998,
+                "bottom": 95.86960350820812,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 22
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-18",
+          "page_number": 50,
+          "type": "heading",
+          "text": "Risk Owners, Risk Officers and Action Owners",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 627.1653,
+                "top": 87.89340097656253,
+                "right": 762.8029,
+                "bottom": 82.10909717909419,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 44
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-19",
+          "page_number": 50,
+          "type": "text",
+          "text": "The individuals responsible for managing risks on a day-to-day basis to achieve Vestas' business objectives.",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 627.1653,
+                "top": 77.67340097656256,
+                "right": 788.8002000000002,
+                "bottom": 63.11025179241335,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 108
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-20",
+          "page_number": 50,
+          "type": "diagram",
+          "text": "",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "left": 32.03231810413538,
+                "top": 343.6476294588298,
+                "right": 263.5187657841674,
+                "bottom": 72.31270274221902,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 0
+            }
+          ],
+          "table": null,
+          "extraction_method": "docling_picture_analysis",
+          "classification": "flow_chart",
+          "confidence": 0.8079414367675781,
+          "metadata": {
+            "original_type": "flow_chart"
+          }
+        }
+      ],
+      "metadata": {
+        "original_contains": {
+          "text": true,
+          "table": false,
+          "picture": true,
+          "chart": true,
+          "diagram": false
+        },
+        "ocr": {
+          "required": false,
+          "reason": null,
+          "applied": false,
+          "success": false,
+          "error": null
+        }
+      }
+    },
+    {
+      "page_number": 51,
+      "page_type": "mixed",
+      "blocks": [
+        {
+          "block_id": "block-1",
+          "page_number": 51,
+          "type": "heading",
+          "text": "Main risks",
+          "provenance": [
+            {
+              "page_number": 51,
+              "bbox": {
+                "left": 34.0157,
+                "top": 499.64270097656254,
+                "right": 107.98310000000001,
+                "bottom": 484.53528838914997,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 10
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-2",
+          "page_number": 51,
+          "type": "heading",
+          "text": "Geopolitics and regulatory framework",
+          "provenance": [
+            {
+              "page_number": 51,
+              "bbox": {
+                "left": 231.7323,
+                "top": 509.31270097656255,
+                "right": 364.97310000000016,
+                "bottom": 485.6793023751639,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 36
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-3",
+          "page_number": 51,
+          "type": "heading",
+          "text": "Project execution",
+          "provenance": [
+            {
+              "page_number": 51,
+              "bbox": {
+                "left": 429.4443,
+                "top": 495.56070097656254,
+                "right": 516.0590999999998,
+                "bottom": 485.6793023751639,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 17
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-4",
+          "page_number": 51,
+          "type": "heading",
+          "text": "Cyber attacks",
+          "provenance": [
+            {
+              "page_number": 51,
+              "bbox": {
+                "left": 627.1563,
+                "top": 495.56070097656254,
+                "right": 695.7266999999999,
+                "bottom": 485.6793023751639,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 13
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-5",
+          "page_number": 51,
+          "type": "table",
+          "text": "",
+          "provenance": [
+            {
+              "page_number": 51,
+              "bbox": {
+                "left": 31.90281460634178,
+                "top": 474.0063569964841,
+                "right": 808.7397433821722,
+                "bottom": 109.50832381471997,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 0
+            }
+          ],
+          "table": {
+            "columns": [
+              "attribute",
+              "Geopolitics and regulatory framework",
+              "Project execution",
+              "Cyber attacks"
+            ],
+            "rows": [
+              [
+                "Description",
+                "In 2025, Vestas continued to navigate significant challenges arising from shifting geopolitical tensions across the world. Conflicts in Ukraine and the Middle East continued to disrupt regional stability, affecting global supply chains and business operations. Trade tensions between major economies have intensified, leading to tariffs, sanctions, export controls, and targeted restrictions on e.g. critical materials which complicate global operations. Governments in the EU, China, and the USA introduced assertive industrial policies aimed at securing domestic manufacturing and energy independence. These shifts are reshaping the regulatory landscape, altering market incentives, and intensifying competition in the clean-tech sector. For Vestas, this situation means navigating an increasingly fragmented and unpredictable global environment, while continuously adapting to external forces beyond our control.",
+                "Project execution at Vestas involves delivering complex onshore and offshore projects within specified parameters relating to quality, cost, and timeline. As the scale and complexity of offshore projects grow, so does the need for precise internal coordination. Execution is affected by delays in production capacity ramp-up, quality control issues during scaling, and supply chain disruptions. The lack of industry-wide standardisation and insufficient logistical infrastructure further complicate timely delivery. Success also depends on external factors, such as supportive regulatory frameworks, the cross-border mobility of skilled workers, and the availability of a sustainable and scalable supply chain, all of which remain vulnerable to geopolitical and market shifts.",
+                "Vestas' digital and other critical assets are exposed to cyber attacks. A cyber attack may have dual implications for both Vestas as a company and for the societies that our energy solutions serve. Electricity producers rely on Vestas' energy solutions for reliable and secure sustainable energy production, making these solutions critical infrastructure for societies around the world. Cyber-threat actors constantly evolve their methods and techniques to attack Vestas' energy solutions, for the purpose of extorsion or to destabilise energy generation. Vestas' technology, data, and operations are a potential target for geopolitical actors and the cyber-criminal industry."
+              ],
+              [
+                "Potential impact",
+                "Geopolitical tensions and regulatory shifts create uncertainty across global markets, which can disrupt and delay supply chains, and increase costs through tariffs and trade barriers. These dynamics may weaken project economics, reduce market volumes, and challenge Vestas' ability to maintain cost efficiency and competitiveness.",
+                "Challenges in project execution can lead to delays in delivery, cost overruns, and margin erosion, particularly as offshore projects grow in scale and complexity. Quality issues may result in formal disputes and reputational damage. These factors can undermine Vestas' ability to secure new business, reduce investor confidence, and weaken long-term competitiveness in the global wind market.",
+                "Politically motivated cyber actors may seek to disrupt energy production. A cyber attack on Vestas may be designed to impact our customers' operations, causing electricity outage and physical damage to assets. A successful cyber attack on Vestas' energy solutions and our infrastructures might result in significant economic loss and reputational damage."
+              ],
+              [
+                "How we manage it",
+                "We manage geopolitical risks by continuously monitoring global developments and implementing appropriate mitigations. By maintaining a global and regionalised manufacturing footprint, Vestas can effectively respond to geopolitical shifts and regulatory changes. Proactive advocacy ensures alignment and compliance with evolving policies and the regulatory climate. Additionally, we exercise commercial discipline and utilise indexation and financial hedging strategies to minimise exposure.",
+                "We mitigate execution risks through project governance, enhanced planning functions, and continuous alignment between commercial and delivery teams. We invest in scalable manufacturing capacity and maintain close coordination with suppliers to secure timely component availability.",
+                "As a global manufacturer and key contributor to critical infrastructure, Vestas is required to continuously address evolving cyber risks, both to our company and to the customers we serve. We are developing cyber security services aimed at helping our customers navigate cyber risks effectively, fulfil industry requirements and standards, and uphold their responsibilities. During 2025, our cyber security efforts were effective and no critical cyber security incidents took place."
+              ]
+            ],
+            "row_count": 3,
+            "column_count": 4,
+            "normalized": true,
+            "inferred_headers": true,
+            "normalization_notes": [
+              "Semantic headers inferred from headings located above the table."
+            ]
+          },
+          "extraction_method": "docling_table_structure",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "table"
+          }
+        }
+      ],
+      "metadata": {
+        "original_contains": {
+          "text": true,
+          "table": true,
+          "picture": false,
+          "chart": false,
+          "diagram": false
+        },
+        "ocr": {
+          "required": false,
+          "reason": null,
+          "applied": false,
+          "success": false,
+          "error": null
+        }
+      }
+    },
+    {
+      "page_number": 71,
+      "page_type": "mixed",
+      "blocks": [
+        {
+          "block_id": "block-1",
+          "page_number": 71,
+          "type": "text",
+          "text": "SBM-3",
+          "provenance": [
+            {
+              "page_number": 71,
+              "bbox": {
+                "left": 34.0157,
+                "top": 523.7695009765625,
+                "right": 54.259699999999995,
+                "bottom": 518.0053517924134,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 5
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-2",
+          "page_number": 71,
+          "type": "heading",
+          "text": "Material impacts, risks, and opportunities",
+          "provenance": [
+            {
+              "page_number": 71,
+              "bbox": {
+                "left": 34.0157,
+                "top": 510.79330097656253,
+                "right": 280.01210000000003,
+                "bottom": 460.9635273476244,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 42
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-3",
+          "page_number": 71,
+          "type": "heading",
+          "text": "E1 Climate Change",
+          "provenance": [
+            {
+              "page_number": 71,
+              "bbox": {
+                "left": 51.0236,
+                "top": 362.35340097656257,
+                "right": 192.39379999999997,
+                "bottom": 347.24598838914994,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 17
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-4",
+          "page_number": 71,
+          "type": "heading",
+          "text": "Sub-topic",
+          "provenance": [
+            {
+              "page_number": 71,
+              "bbox": {
+                "left": 38.2677,
+                "top": 327.27330097656255,
+                "right": 86.41050000000003,
+                "bottom": 317.3919023751639,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 9
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-5",
+          "page_number": 71,
+          "type": "heading",
+          "text": "Impacts on people and environment",
+          "provenance": [
+            {
+              "page_number": 71,
+              "bbox": {
+                "left": 137.12369999999999,
+                "top": 327.27330097656255,
+                "right": 316.21170000000006,
+                "bottom": 317.3919023751639,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 33
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-6",
+          "page_number": 71,
+          "type": "text",
+          "text": "This section provides an overview of our material impacts, risk and opportunities; our methodology for identifying and addressing material topics, and our approach to risk management and governance structures that support oversight of these areas.",
+          "provenance": [
+            {
+              "page_number": 71,
+              "bbox": {
+                "left": 297.6378,
+                "top": 509.8933009765625,
+                "right": 545.5768499999978,
+                "bottom": 469.89697696723846,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 247
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-7",
+          "page_number": 71,
+          "type": "text",
+          "text": "right-hand side outlines the risks and opportunities considered financially material. The overview offers brief descriptions of each IRO at sub-and sub-sub topic level and their positions in the value chain.",
+          "provenance": [
+            {
+              "page_number": 71,
+              "bbox": {
+                "left": 561.2568,
+                "top": 509.90180097656236,
+                "right": 807.8630500000003,
+                "bottom": 480.90447696723834,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 207
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-8",
+          "page_number": 71,
+          "type": "text",
+          "text": "A summary of the material impacts, risks, and opportunities (IROs) identified in Vestas' DMA are presented in the tables below. The left-hand side describes how negative and positive impacts affect, or may affect, people and the environment, while the More information on the nature of impact, whether Vestas is involved through its activities or through its business relationships, as well as relevant policies, actions, metrics and targets, can be found in this Sustianability statement under the respective topical sections to which these IROs are assigned.",
+          "provenance": [
+            {
+              "page_number": 71,
+              "bbox": {
+                "left": 297.6378,
+                "top": 454.89830097656244,
+                "right": 536.6858500000001,
+                "bottom": 414.9019769672384,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 251
+            },
+            {
+              "page_number": 71,
+              "bbox": {
+                "left": 561.2568,
+                "top": 465.9058009765623,
+                "right": 803.9513500000007,
+                "bottom": 414.91047696723825,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 252,
+              "character_end": 560
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-9",
+          "page_number": 71,
+          "type": "heading",
+          "text": "Financial risks or opportunities",
+          "provenance": [
+            {
+              "page_number": 71,
+              "bbox": {
+                "left": 478.8717,
+                "top": 327.27330097656255,
+                "right": 631.3065,
+                "bottom": 317.3919023751639,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 32
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-10",
+          "page_number": 71,
+          "type": "text",
+          "text": "Impact materiality",
+          "provenance": [
+            {
+              "page_number": 71,
+              "bbox": {
+                "left": 164.7831,
+                "top": 45.59180097656258,
+                "right": 213.99690000000012,
+                "bottom": 40.633826293018274,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 18
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-11",
+          "page_number": 71,
+          "type": "text",
+          "text": "Positive",
+          "provenance": [
+            {
+              "page_number": 71,
+              "bbox": {
+                "left": 171.161,
+                "top": 34.75920097656251,
+                "right": 196.4732,
+                "bottom": 28.816501675863265,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 8
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-12",
+          "page_number": 71,
+          "type": "text",
+          "text": "Negative Financial materiality Opportunity Risk",
+          "provenance": [
+            {
+              "page_number": 71,
+              "bbox": {
+                "left": 171.161,
+                "top": 26.75920097656251,
+                "right": 198.04340000000005,
+                "bottom": 20.816501675863265,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 10
+            },
+            {
+              "page_number": 71,
+              "bbox": {
+                "left": 230.687,
+                "top": 45.59320097656257,
+                "right": 285.5167999999999,
+                "bottom": 40.63522629301826,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 11,
+              "character_end": 32
+            },
+            {
+              "page_number": 71,
+              "bbox": {
+                "left": 237.0665,
+                "top": 34.759100976562536,
+                "right": 274.87250000000006,
+                "bottom": 28.81640167586329,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 33,
+              "character_end": 44
+            },
+            {
+              "page_number": 71,
+              "bbox": {
+                "left": 237.0665,
+                "top": 26.759100976562536,
+                "right": 251.1941,
+                "bottom": 20.81640167586329,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 45,
+              "character_end": 49
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-13",
+          "page_number": 71,
+          "type": "table",
+          "text": "",
+          "provenance": [
+            {
+              "page_number": 71,
+              "bbox": {
+                "left": 35.11622765807893,
+                "top": 310.89991722628474,
+                "right": 808.7135627204087,
+                "bottom": 92.87939795777208,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 0
+            }
+          ],
+          "table": {
+            "columns": [
+              "",
+              "Name and description",
+              "Value chain",
+              "Name and description",
+              "Value chain"
+            ],
+            "rows": [
+              [
+                "Double materiality Climate change mitigation",
+                "Scope 1, 2, & 3 GHG emissions (actual) The GHG emissions from Vestas' own operations and value chain have a negative impact on the global climate and environment.",
+                "Entire value chain",
+                "Low-emission materials (entity-specific) Offering low emission materials improves our value proposition and presents a financial opportunity.",
+                "Downstream"
+              ],
+              [
+                "",
+                "Catalysing sustainable development (entity-specific, actual) Instigating sustainable development by providing more sustainable solutions, such as low-emission steel, has a positive impact on the climate transition.",
+                "Entire value chain",
+                "",
+                ""
+              ],
+              [
+                "",
+                "Enabling the green transition (entity-specific, actual) As a global partner partner on sustainable energy solutions, Vestas enables companies and society to reduce their emissions through access to renewable energy, which has a positive impact on the global climate and environment.",
+                "Downstream",
+                "Growth rate of the wind industry (entity-specific) The projected growth rate of the wind industry presents a financial opportunity that Vestas is well positioned to take advantage of.",
+                "Downstream"
+              ],
+              [
+                "Impact materiality Energy consumption",
+                "Energy consumption (actual) Fossil energy consumed during manufacturing, construction, and service of turbines has a negative impact on the global climate and environment.",
+                "Own operations",
+                "Energy consumption-related risks and opportunities scored as immaterial",
+                "N/A"
+              ],
+              [
+                "Financial materiality Climate change adaptation",
+                "Climate change adaptation impacts scored as immaterial.",
+                "N/A",
+                "Carbon taxes and tariffs High carbon taxes and tariffs increase the price of GHG intense materials such as steel, increasing the overall cost to produce wind turbines.",
+                "Own operations"
+              ]
+            ],
+            "row_count": 5,
+            "column_count": 5,
+            "normalized": false,
+            "inferred_headers": false,
+            "normalization_notes": []
+          },
+          "extraction_method": "docling_table_structure",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "table"
+          }
+        },
+        {
+          "block_id": "block-23",
+          "page_number": 71,
+          "type": "image",
+          "text": "",
+          "provenance": [
+            {
+              "page_number": 71,
+              "bbox": {
+                "left": 32.50255925314956,
+                "top": 300.5426064923406,
+                "right": 125.5214054082529,
+                "bottom": 92.47018112391237,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 0
+            }
+          ],
+          "table": null,
+          "extraction_method": "docling_picture_analysis",
+          "classification": "full_page_image",
+          "confidence": 0.3468203544616699,
+          "metadata": {
+            "original_type": "full_page_image"
+          }
+        }
+      ],
+      "metadata": {
+        "original_contains": {
+          "text": true,
+          "table": true,
+          "picture": true,
+          "chart": true,
+          "diagram": false
+        },
+        "ocr": {
+          "required": false,
+          "reason": null,
+          "applied": false,
+          "success": false,
+          "error": null
+        }
+      }
+    },
+    {
+      "page_number": 72,
+      "page_type": "mixed",
+      "blocks": [
+        {
+          "block_id": "block-1",
+          "page_number": 72,
+          "type": "heading",
+          "text": "E4 Biodiversity and ecosystems",
+          "provenance": [
+            {
+              "page_number": 72,
+              "bbox": {
+                "left": 51.0236,
+                "top": 505.35340097656257,
+                "right": 287.61199999999997,
+                "bottom": 490.24598838914994,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 30
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-2",
+          "page_number": 72,
+          "type": "heading",
+          "text": "E5 Circular economy and resource use",
+          "provenance": [
+            {
+              "page_number": 72,
+              "bbox": {
+                "left": 51.0236,
+                "top": 362.04730097656255,
+                "right": 337.38199999999995,
+                "bottom": 346.9398883891499,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 36
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-3",
+          "page_number": 72,
+          "type": "heading",
+          "text": "Sub-topic",
+          "provenance": [
+            {
+              "page_number": 72,
+              "bbox": {
+                "left": 38.2677,
+                "top": 326.96730097656257,
+                "right": 86.41050000000003,
+                "bottom": 317.0859023751639,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 9
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-4",
+          "page_number": 72,
+          "type": "heading",
+          "text": "Impacts on people and environment",
+          "provenance": [
+            {
+              "page_number": 72,
+              "bbox": {
+                "left": 137.12369999999999,
+                "top": 326.96730097656257,
+                "right": 316.21170000000006,
+                "bottom": 317.0859023751639,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 33
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-5",
+          "page_number": 72,
+          "type": "heading",
+          "text": "Financial risks or opportunities",
+          "provenance": [
+            {
+              "page_number": 72,
+              "bbox": {
+                "left": 478.8717,
+                "top": 326.96730097656257,
+                "right": 631.3065,
+                "bottom": 317.0859023751639,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 32
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-6",
+          "page_number": 72,
+          "type": "text",
+          "text": "Impact materiality",
+          "provenance": [
+            {
+              "page_number": 72,
+              "bbox": {
+                "left": 164.7831,
+                "top": 45.59180097656258,
+                "right": 213.99690000000012,
+                "bottom": 40.633826293018274,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 18
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-7",
+          "page_number": 72,
+          "type": "text",
+          "text": "Positive",
+          "provenance": [
+            {
+              "page_number": 72,
+              "bbox": {
+                "left": 171.161,
+                "top": 34.75920097656251,
+                "right": 196.4732,
+                "bottom": 28.816501675863265,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 8
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-8",
+          "page_number": 72,
+          "type": "text",
+          "text": "Negative Opportunity Risk",
+          "provenance": [
+            {
+              "page_number": 72,
+              "bbox": {
+                "left": 171.161,
+                "top": 26.75920097656251,
+                "right": 198.04340000000005,
+                "bottom": 20.816501675863265,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 10
+            },
+            {
+              "page_number": 72,
+              "bbox": {
+                "left": 237.0665,
+                "top": 34.759100976562536,
+                "right": 274.87250000000006,
+                "bottom": 28.81640167586329,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 11,
+              "character_end": 22
+            },
+            {
+              "page_number": 72,
+              "bbox": {
+                "left": 237.0665,
+                "top": 26.759100976562536,
+                "right": 251.1941,
+                "bottom": 20.81640167586329,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 23,
+              "character_end": 27
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-9",
+          "page_number": 72,
+          "type": "table",
+          "text": "",
+          "provenance": [
+            {
+              "page_number": 72,
+              "bbox": {
+                "left": 34.05555995035255,
+                "top": 472.63885588627306,
+                "right": 808.6452733019628,
+                "bottom": 395.2514506991953,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 0
+            }
+          ],
+          "table": {
+            "columns": [
+              "0",
+              "1",
+              "2",
+              "3",
+              "4"
+            ],
+            "rows": [
+              [
+                "Sub-topic",
+                "Impacts on people and environment Name and description",
+                "Value chain",
+                "Financial risks or opportunities Name and description",
+                "Value chain"
+              ],
+              [
+                "Impact materiality Direct impact on biodiversity loss",
+                "Climate change impact on biodiversity (actual) The GHG emissions originating in our supply chain from the extraction, production and transportation of raw materials and products have a negative impact on biodiversity and ecosystems",
+                "Upstream",
+                "Biodiversity-related risks and opportunities scored as immaterial",
+                "N/A"
+              ]
+            ],
+            "row_count": 2,
+            "column_count": 5,
+            "normalized": false,
+            "inferred_headers": false,
+            "normalization_notes": []
+          },
+          "extraction_method": "docling_table_structure",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "table"
+          }
+        },
+        {
+          "block_id": "block-10",
+          "page_number": 72,
+          "type": "table",
+          "text": "",
+          "provenance": [
+            {
+              "page_number": 72,
+              "bbox": {
+                "left": 33.92707484368525,
+                "top": 314.12067933827643,
+                "right": 808.287409897345,
+                "bottom": 175.75040184035902,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 0
+            }
+          ],
+          "table": {
+            "columns": [
+              "",
+              "Name and description",
+              "Value chain",
+              "Name and description",
+              "Value chain"
+            ],
+            "rows": [
+              [
+                "Double materiality Resource outflows related to production and services",
+                "Non-recyclable materials (actual) Non-recyclable materials in turbines might be landfilled or incinerated and increase the need for virgin materials, which has a negative impact on the environment.",
+                "Downstream",
+                "Recyclable blades Offering blade circularity solutions improves our value proposition and presents a financial opportunity.",
+                "Downstream"
+              ],
+              [
+                "Impact materiality Resource inflows including usage",
+                "Raw materials required for turbines (actual) Extraction and production of metals and other raw materials has a negative impact on the climate and environment.",
+                "Upstream",
+                "Resource inflow-related risks and opportunities scored as immaterial",
+                "N/A"
+              ],
+              [
+                "Waste",
+                "Waste generation (actual) Waste generated in our own operations has a negative impact on the environment.",
+                "Own operations",
+                "Waste-related risks and opportunities scored as immaterial.",
+                "N/A"
+              ]
+            ],
+            "row_count": 3,
+            "column_count": 5,
+            "normalized": false,
+            "inferred_headers": false,
+            "normalization_notes": []
+          },
+          "extraction_method": "docling_table_structure",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "table"
+          }
+        },
+        {
+          "block_id": "block-13",
+          "page_number": 72,
+          "type": "unknown",
+          "text": "",
+          "provenance": [
+            {
+              "page_number": 72,
+              "bbox": {
+                "left": 33.19596155578516,
+                "top": 301.2892905846238,
+                "right": 123.22708844089208,
+                "bottom": 175.82963169068103,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 0
+            }
+          ],
+          "table": null,
+          "extraction_method": "docling_picture_analysis",
+          "classification": "screenshot_from_computer",
+          "confidence": 0.21721714735031128,
+          "metadata": {
+            "original_type": "screenshot_from_computer"
+          }
+        }
+      ],
+      "metadata": {
+        "original_contains": {
+          "text": true,
+          "table": true,
+          "picture": true,
+          "chart": true,
+          "diagram": false
+        },
+        "ocr": {
+          "required": false,
+          "reason": null,
+          "applied": false,
+          "success": false,
+          "error": null
+        }
+      }
+    },
+    {
+      "page_number": 73,
+      "page_type": "mixed",
+      "blocks": [
+        {
+          "block_id": "block-1",
+          "page_number": 73,
+          "type": "heading",
+          "text": "S1 Own Workforce",
+          "provenance": [
+            {
+              "page_number": 73,
+              "bbox": {
+                "left": 51.0236,
+                "top": 505.35340097656257,
+                "right": 189.96920000000003,
+                "bottom": 490.24598838914994,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 16
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-2",
+          "page_number": 73,
+          "type": "heading",
+          "text": "Sub-topic",
+          "provenance": [
+            {
+              "page_number": 73,
+              "bbox": {
+                "left": 38.2677,
+                "top": 470.0744009765626,
+                "right": 86.41050000000003,
+                "bottom": 460.1930023751639,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 9
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-3",
+          "page_number": 73,
+          "type": "text",
+          "text": "Impacts on people and environment",
+          "provenance": [
+            {
+              "page_number": 73,
+              "bbox": {
+                "left": 137.12369999999999,
+                "top": 470.0744009765626,
+                "right": 316.21170000000006,
+                "bottom": 460.1930023751639,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 33
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-4",
+          "page_number": 73,
+          "type": "heading",
+          "text": "Financial risks or opportunities",
+          "provenance": [
+            {
+              "page_number": 73,
+              "bbox": {
+                "left": 478.8717,
+                "top": 470.0744009765626,
+                "right": 631.3065,
+                "bottom": 460.1930023751639,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 32
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-5",
+          "page_number": 73,
+          "type": "heading",
+          "text": "Financial risks or opportunities",
+          "provenance": [
+            {
+              "page_number": 73,
+              "bbox": {
+                "left": 478.8717,
+                "top": 242.54190097656254,
+                "right": 631.3065,
+                "bottom": 232.66050237516396,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 32
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-6",
+          "page_number": 73,
+          "type": "heading",
+          "text": "S2 Workers in the value chain",
+          "provenance": [
+            {
+              "page_number": 73,
+              "bbox": {
+                "left": 51.0236,
+                "top": 277.62190097656253,
+                "right": 268.72279999999995,
+                "bottom": 262.51448838914996,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 29
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-7",
+          "page_number": 73,
+          "type": "heading",
+          "text": "Sub-topic",
+          "provenance": [
+            {
+              "page_number": 73,
+              "bbox": {
+                "left": 38.2677,
+                "top": 242.54190097656254,
+                "right": 86.41050000000003,
+                "bottom": 232.66050237516396,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 9
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-8",
+          "page_number": 73,
+          "type": "text",
+          "text": "Impacts on people and environment",
+          "provenance": [
+            {
+              "page_number": 73,
+              "bbox": {
+                "left": 137.12369999999999,
+                "top": 242.54190097656254,
+                "right": 316.21170000000006,
+                "bottom": 232.66050237516396,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 33
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-9",
+          "page_number": 73,
+          "type": "text",
+          "text": "Impact materiality",
+          "provenance": [
+            {
+              "page_number": 73,
+              "bbox": {
+                "left": 164.7831,
+                "top": 45.59180097656258,
+                "right": 213.99690000000012,
+                "bottom": 40.633826293018274,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 18
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-10",
+          "page_number": 73,
+          "type": "text",
+          "text": "Positive",
+          "provenance": [
+            {
+              "page_number": 73,
+              "bbox": {
+                "left": 171.161,
+                "top": 34.75920097656251,
+                "right": 196.4732,
+                "bottom": 28.816501675863265,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 8
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-11",
+          "page_number": 73,
+          "type": "text",
+          "text": "Negative Opportunity Risk",
+          "provenance": [
+            {
+              "page_number": 73,
+              "bbox": {
+                "left": 171.161,
+                "top": 26.75920097656251,
+                "right": 198.04340000000005,
+                "bottom": 20.816501675863265,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 10
+            },
+            {
+              "page_number": 73,
+              "bbox": {
+                "left": 237.0665,
+                "top": 34.759100976562536,
+                "right": 274.87250000000006,
+                "bottom": 28.81640167586329,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 11,
+              "character_end": 22
+            },
+            {
+              "page_number": 73,
+              "bbox": {
+                "left": 237.0665,
+                "top": 26.759100976562536,
+                "right": 251.1941,
+                "bottom": 20.81640167586329,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 23,
+              "character_end": 27
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-12",
+          "page_number": 73,
+          "type": "table",
+          "text": "",
+          "provenance": [
+            {
+              "page_number": 73,
+              "bbox": {
+                "left": 33.28782272389581,
+                "top": 455.188374491781,
+                "right": 808.5213270920756,
+                "bottom": 312.3286191977561,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 0
+            }
+          ],
+          "table": {
+            "columns": [
+              "",
+              "Name and description",
+              "Value chain",
+              "Name and description",
+              "Value chain"
+            ],
+            "rows": [
+              [
+                "Double materiality Working conditions of own workforce",
+                "Health and safety incidents of own workforce (actual) The negative impact related to health and safety incidents.",
+                "Own operations",
+                "Cost implication of injuries in own workforce Potential injuries leading to delays, lost work hours and compensation costs pose a financial risk.",
+                "Own operations"
+              ],
+              [
+                "",
+                "Secure employment (actual) The high share of permanent contracts and stable market position provides a secure and predictable work environment for employees.",
+                "Own operations",
+                "Secure employment-related risks and opportunities scored as immaterial.",
+                "N/A"
+              ],
+              [
+                "Impact materiality Equal treatment and opportunities for all",
+                "Diversity (actual) A global workforce and inclusive culture enabling engagement, innovation, and performance has a positive impact on employees.",
+                "Own operations",
+                "Diversity-related risks and opportunities scored as immaterial.",
+                "N/A"
+              ]
+            ],
+            "row_count": 3,
+            "column_count": 5,
+            "normalized": false,
+            "inferred_headers": false,
+            "normalization_notes": []
+          },
+          "extraction_method": "docling_table_structure",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "table"
+          }
+        },
+        {
+          "block_id": "block-13",
+          "page_number": 73,
+          "type": "table",
+          "text": "",
+          "provenance": [
+            {
+              "page_number": 73,
+              "bbox": {
+                "left": 34.05626176296393,
+                "top": 228.36277785748246,
+                "right": 808.2757537052778,
+                "bottom": 78.7042770490051,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 0
+            }
+          ],
+          "table": {
+            "columns": [
+              "",
+              "Name and description",
+              "Value chain",
+              "Name and description",
+              "Value chain"
+            ],
+            "rows": [
+              [
+                "Double materiality Working conditions in the value chain",
+                "Health and safety incidents of supply chain workers (actual) The negative impact related to health and safety incidents of workers in the upstream supply chain.",
+                "Upstream",
+                "Health and safety related risks related to incidents of supply chain workers scored as immaterial.",
+                "N/A"
+              ],
+              [
+                "",
+                "Health and safety incidents of contractors and sub-contractors (actual) The negative impact related to health and safety incidents of contractors, sub-contractors, and temporary workers working on Vestas sites in manufacturing, construction, and service.",
+                "Own operations",
+                "Cost implications of injuries to contractors and sub-contractors Potential injuries to value chain workers leading to delays, lost work hours and compensation costs pose a risk.",
+                "Own operations"
+              ],
+              [
+                "Other work-related rights of workers in the value chain",
+                "Child and forced labour (potential) Risk of forced and child labour in our supply chain.",
+                "Upstream",
+                "Fines related to forced or child labour Vestas' global network of suppliers combined with the risk of fines related to child and forced labour constitute a potential risk.",
+                "Upstream"
+              ]
+            ],
+            "row_count": 3,
+            "column_count": 5,
+            "normalized": false,
+            "inferred_headers": false,
+            "normalization_notes": []
+          },
+          "extraction_method": "docling_table_structure",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "table"
+          }
+        }
+      ],
+      "metadata": {
+        "original_contains": {
+          "text": true,
+          "table": true,
+          "picture": true,
+          "chart": true,
+          "diagram": false
+        },
+        "ocr": {
+          "required": false,
+          "reason": null,
+          "applied": false,
+          "success": false,
+          "error": null
+        }
+      }
+    },
+    {
+      "page_number": 74,
+      "page_type": "mixed",
+      "blocks": [
+        {
+          "block_id": "block-1",
+          "page_number": 74,
+          "type": "heading",
+          "text": "S3 Affected communities",
+          "provenance": [
+            {
+              "page_number": 74,
+              "bbox": {
+                "left": 51.0236,
+                "top": 505.35340097656257,
+                "right": 241.9082,
+                "bottom": 490.24598838914994,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 23
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-2",
+          "page_number": 74,
+          "type": "heading",
+          "text": "Sub-topic",
+          "provenance": [
+            {
+              "page_number": 74,
+              "bbox": {
+                "left": 38.2677,
+                "top": 470.27330097656255,
+                "right": 86.41050000000003,
+                "bottom": 460.3919023751639,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 9
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-3",
+          "page_number": 74,
+          "type": "text",
+          "text": "Impact materiality",
+          "provenance": [
+            {
+              "page_number": 74,
+              "bbox": {
+                "left": 38.264999999999986,
+                "top": 433.6944009765625,
+                "right": 92.90699999999998,
+                "bottom": 427.9100971790942,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 18
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-4",
+          "page_number": 74,
+          "type": "text",
+          "text": "Communities' economic, social and cultural rights",
+          "provenance": [
+            {
+              "page_number": 74,
+              "bbox": {
+                "left": 38.264999999999986,
+                "top": 425.69340097656254,
+                "right": 109.97299999999998,
+                "bottom": 411.9282517924134,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 49
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-5",
+          "page_number": 74,
+          "type": "text",
+          "text": "Particular rights of indigenous peoples",
+          "provenance": [
+            {
+              "page_number": 74,
+              "bbox": {
+                "left": 38.26589999999999,
+                "top": 384.8946009765626,
+                "right": 95.1409,
+                "bottom": 371.1294517924134,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 39
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-6",
+          "page_number": 74,
+          "type": "heading",
+          "text": "Impacts on people and environment",
+          "provenance": [
+            {
+              "page_number": 74,
+              "bbox": {
+                "left": 137.12369999999999,
+                "top": 470.27330097656255,
+                "right": 316.21170000000006,
+                "bottom": 460.3919023751639,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 33
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-7",
+          "page_number": 74,
+          "type": "heading",
+          "text": "G1 Business Conduct",
+          "provenance": [
+            {
+              "page_number": 74,
+              "bbox": {
+                "left": 51.0236,
+                "top": 321.24410097656255,
+                "right": 209.825,
+                "bottom": 306.13668838915,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 19
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-8",
+          "page_number": 74,
+          "type": "heading",
+          "text": "Sub-topic",
+          "provenance": [
+            {
+              "page_number": 74,
+              "bbox": {
+                "left": 38.2677,
+                "top": 286.16410097656257,
+                "right": 86.41050000000003,
+                "bottom": 276.2827023751639,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 9
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-9",
+          "page_number": 74,
+          "type": "heading",
+          "text": "Impacts on people and environment",
+          "provenance": [
+            {
+              "page_number": 74,
+              "bbox": {
+                "left": 137.12369999999999,
+                "top": 286.16410097656257,
+                "right": 316.21170000000006,
+                "bottom": 276.2827023751639,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 33
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-10",
+          "page_number": 74,
+          "type": "heading",
+          "text": "Financial risks or opportunities",
+          "provenance": [
+            {
+              "page_number": 74,
+              "bbox": {
+                "left": 478.8717,
+                "top": 470.27330097656255,
+                "right": 631.3065,
+                "bottom": 460.3919023751639,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 32
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-11",
+          "page_number": 74,
+          "type": "heading",
+          "text": "Financial risks or opportunities",
+          "provenance": [
+            {
+              "page_number": 74,
+              "bbox": {
+                "left": 478.8717,
+                "top": 286.16410097656257,
+                "right": 631.3065,
+                "bottom": 276.2827023751639,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 32
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "section_header"
+          }
+        },
+        {
+          "block_id": "block-12",
+          "page_number": 74,
+          "type": "text",
+          "text": "Impact materiality",
+          "provenance": [
+            {
+              "page_number": 74,
+              "bbox": {
+                "left": 164.7831,
+                "top": 45.59180097656258,
+                "right": 213.99690000000012,
+                "bottom": 40.633826293018274,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 18
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-13",
+          "page_number": 74,
+          "type": "text",
+          "text": "Positive",
+          "provenance": [
+            {
+              "page_number": 74,
+              "bbox": {
+                "left": 171.161,
+                "top": 34.75920097656251,
+                "right": 196.4732,
+                "bottom": 28.816501675863265,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 8
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-14",
+          "page_number": 74,
+          "type": "text",
+          "text": "Negative Opportunity Risk",
+          "provenance": [
+            {
+              "page_number": 74,
+              "bbox": {
+                "left": 171.161,
+                "top": 26.75920097656251,
+                "right": 198.04340000000005,
+                "bottom": 20.816501675863265,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 10
+            },
+            {
+              "page_number": 74,
+              "bbox": {
+                "left": 237.0665,
+                "top": 34.759100976562536,
+                "right": 274.87250000000006,
+                "bottom": 28.81640167586329,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 11,
+              "character_end": 22
+            },
+            {
+              "page_number": 74,
+              "bbox": {
+                "left": 237.0665,
+                "top": 26.759100976562536,
+                "right": 251.1941,
+                "bottom": 20.81640167586329,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 23,
+              "character_end": 27
+            }
+          ],
+          "table": null,
+          "extraction_method": "native_pdf_text",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "text"
+          }
+        },
+        {
+          "block_id": "block-15",
+          "page_number": 74,
+          "type": "table",
+          "text": "",
+          "provenance": [
+            {
+              "page_number": 74,
+              "bbox": {
+                "left": 133.5848280078623,
+                "top": 455.2215777527541,
+                "right": 464.09345362009367,
+                "bottom": 358.6221932966262,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 0
+            }
+          ],
+          "table": {
+            "columns": [
+              "Name and description",
+              "Value chain"
+            ],
+            "rows": [
+              [
+                "Land-related impacts (potential) Land-use restrictions during wind farm construction leading to a temporary negative impact in the form of physical and economic displacement (e.g income losses) of local communities.",
+                "Own operations"
+              ],
+              [
+                "Impacts on the right to free, prior, and informed consent (potential) Failure to respect indigenous peoples right to own, control and use their lands in development, construction and operation of wind farms is a negative impact.",
+                "Own operations"
+              ]
+            ],
+            "row_count": 2,
+            "column_count": 2,
+            "normalized": false,
+            "inferred_headers": false,
+            "normalization_notes": []
+          },
+          "extraction_method": "docling_table_structure",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "table"
+          }
+        },
+        {
+          "block_id": "block-16",
+          "page_number": 74,
+          "type": "table",
+          "text": "",
+          "provenance": [
+            {
+              "page_number": 74,
+              "bbox": {
+                "left": 476.00617345353487,
+                "top": 454.8693941984326,
+                "right": 807.4315036473853,
+                "bottom": 426.7278367843479,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 0
+            }
+          ],
+          "table": {
+            "columns": [
+              "Name and description",
+              "Value chain"
+            ],
+            "rows": [
+              [
+                "Affected communities-related risks and opportunities scored as immaterial.",
+                "N/A"
+              ]
+            ],
+            "row_count": 1,
+            "column_count": 2,
+            "normalized": false,
+            "inferred_headers": false,
+            "normalization_notes": []
+          },
+          "extraction_method": "docling_table_structure",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "table"
+          }
+        },
+        {
+          "block_id": "block-17",
+          "page_number": 74,
+          "type": "table",
+          "text": "",
+          "provenance": [
+            {
+              "page_number": 74,
+              "bbox": {
+                "left": 34.37556361594578,
+                "top": 270.5939062610269,
+                "right": 807.797727776156,
+                "bottom": 143.40886853411797,
+                "coordinate_origin": "BOTTOMLEFT"
+              },
+              "character_start": 0,
+              "character_end": 0
+            }
+          ],
+          "table": {
+            "columns": [
+              "",
+              "Name and description",
+              "Value chain",
+              "Name and description",
+              "Value chain"
+            ],
+            "rows": [
+              [
+                "Double materiality Political engagement",
+                "Political engagement contributing to the green transition (actual) Positive impact on the energy transition through political advocacy and top line messaging supporting policies and regulations aligned with the Paris Agreement.",
+                "Own operations",
+                "Insufficient market conditions Inadequate grid expansion, ineffective auction design and permit delays could increase costs, hinder investments, and reduce the viability of wind deployment.",
+                "Downstream"
+              ],
+              [
+                "Cyber security",
+                "Cyber security incidents (entity-specific, potential) Cyber attacks on wind farm infrastructure might cause power outages and increase in electricity prices, negatively impacting society and people",
+                "Downstream",
+                "Cyber security risks Cyber attacks might disrupt business operations, expose intellectual property, or cause legal liability.",
+                "Own operations"
+              ],
+              [
+                "Financial materiality Corruption and bribery",
+                "Corruption and bribery related impacts scored as immaterial.",
+                "N/A",
+                "Risk of corruption and bribery Vestas' global presence presents an increased risk of exposure to corruption and bribery.",
+                "Own operations"
+              ]
+            ],
+            "row_count": 3,
+            "column_count": 5,
+            "normalized": false,
+            "inferred_headers": false,
+            "normalization_notes": []
+          },
+          "extraction_method": "docling_table_structure",
+          "classification": null,
+          "confidence": null,
+          "metadata": {
+            "original_type": "table"
+          }
+        }
+      ],
+      "metadata": {
+        "original_contains": {
+          "text": true,
+          "table": true,
+          "picture": true,
+          "chart": true,
+          "diagram": false
+        },
+        "ocr": {
+          "required": false,
+          "reason": null,
+          "applied": false,
+          "success": false,
+          "error": null
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "page_count": 4,
+    "processed_page_range": null,
+    "title": "VestasAnnualReport2025",
+    "processed_pages": [
+      50,
+      51,
+      71,
+      72,
+      73,
+      74
+    ],
+    "processed_page_count": 6
+  },
+  "parser": {
+    "name": "docling-adaptive-pdf-parser",
+    "version": "3.0.0",
+    "strategy": "adaptive_two_pass"
+  },
+  "normalization": {
+    "applied": true,
+    "version": "1.0.0",
+    "operations": [
+      "canonical_schema_conversion",
+      "text_cleanup",
+      "decorative_visual_filtering",
+      "table_header_reconstruction"
+    ],
+    "document_merge_applied": true,
+    "merge_strategy": "replace_existing_page_or_append_missing_page"
+  },
+  "warnings": []
+}

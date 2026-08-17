@@ -1,0 +1,16 @@
+{
+  "page_number": 7,
+  "description": "Highlights for the year - narrative text + bar/line charts (chart numeric labels intentionally excluded, per known chart-legend extraction caveats)",
+  "expected_headings": [
+    "Highlights for the year",
+    "Order backlog value"
+  ],
+  "required_text_fragments": [
+    "highest Group profitability since 2019",
+    "Record high combined order backlog of EUR 71.9bn",
+    "All-time high revenue of EUR 18.8bn",
+    "Low-emission steel ordered for the offshore projects Nordlicht"
+  ],
+  "expected_tables": [],
+  "provenance_required": true
+}

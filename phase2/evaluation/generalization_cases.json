@@ -1,0 +1,122 @@
+{
+  "version": "1.0",
+  "description": "Synthetic schema-generalization cases for the normalized ESRS-like table contract.",
+  "cases": [
+    {
+      "id": "gen_001",
+      "description": "Generic financial risk should be retained.",
+      "table": {
+        "columns": [
+          "materiality_type",
+          "sub_topic",
+          "impact_on_people_and_environment_name_and_description",
+          "impact_on_people_and_environment_value_chain",
+          "financial_risk_or_opportunity_name_and_description",
+          "financial_value_chain"
+        ],
+        "rows": [
+          [
+            "Double materiality",
+            "Water availability",
+            "Water use may negatively affect local ecosystems.",
+            "Own operations",
+            "Water scarcity may increase production costs and interrupt manufacturing activity.",
+            "Own operations"
+          ]
+        ]
+      },
+      "expected": {
+        "candidate_count": 1,
+        "excluded_count": 0,
+        "expected_candidate_contains": "Water scarcity may increase production costs"
+      }
+    },
+    {
+      "id": "gen_002",
+      "description": "Financial opportunity should be excluded.",
+      "table": {
+        "columns": [
+          "materiality_type",
+          "sub_topic",
+          "impact_on_people_and_environment_name_and_description",
+          "impact_on_people_and_environment_value_chain",
+          "financial_risk_or_opportunity_name_and_description",
+          "financial_value_chain"
+        ],
+        "rows": [
+          [
+            "Double materiality",
+            "Recycling",
+            "Waste generation negatively affects the environment.",
+            "Own operations",
+            "Recycling-as-a-service presents a financial opportunity through new revenue streams.",
+            "Downstream"
+          ]
+        ]
+      },
+      "expected": {
+        "candidate_count": 0,
+        "excluded_count": 1,
+        "expected_exclusion_reason": "financial_opportunity"
+      }
+    },
+    {
+      "id": "gen_003",
+      "description": "Immaterial financial entry should be excluded.",
+      "table": {
+        "columns": [
+          "materiality_type",
+          "sub_topic",
+          "impact_on_people_and_environment_name_and_description",
+          "impact_on_people_and_environment_value_chain",
+          "financial_risk_or_opportunity_name_and_description",
+          "financial_value_chain"
+        ],
+        "rows": [
+          [
+            "Impact materiality",
+            "Noise",
+            "Operational noise may affect nearby communities.",
+            "Own operations",
+            "Noise-related risks and opportunities scored as immaterial.",
+            "N/A"
+          ]
+        ]
+      },
+      "expected": {
+        "candidate_count": 0,
+        "excluded_count": 1,
+        "expected_exclusion_reason": "immaterial"
+      }
+    },
+    {
+      "id": "gen_004",
+      "description": "Blank financial side should not convert environmental impact into a risk.",
+      "table": {
+        "columns": [
+          "materiality_type",
+          "sub_topic",
+          "impact_on_people_and_environment_name_and_description",
+          "impact_on_people_and_environment_value_chain",
+          "financial_risk_or_opportunity_name_and_description",
+          "financial_value_chain"
+        ],
+        "rows": [
+          [
+            "Impact materiality",
+            "Water pollution",
+            "Chemical discharge may negatively affect aquatic ecosystems.",
+            "Own operations",
+            "",
+            ""
+          ]
+        ]
+      },
+      "expected": {
+        "candidate_count": 0,
+        "excluded_count": 1,
+        "expected_exclusion_reason": "blank_financial_cell"
+      }
+    }
+  ]
+}

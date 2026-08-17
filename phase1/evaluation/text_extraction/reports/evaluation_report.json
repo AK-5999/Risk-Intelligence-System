@@ -1,0 +1,738 @@
+{
+  "evaluation": {
+    "dataset": "Vestas Annual Report 2025",
+    "evaluated_at": "2026-08-07T09:34:36.373838+00:00",
+    "canonical_input": "D:\\Coding\\Vestas\\Pipeline\\phase\\phase1\\output\\raw\\VestasAnnualReport2025_09aa4e8bd783.json",
+    "golden_directory": "D:\\Coding\\Vestas\\Pipeline\\phase\\phase1\\evaluation\\golden\\vestas_2025"
+  },
+  "summary": {
+    "pages_evaluated": 11,
+    "overall_score": 0.9716
+  },
+  "pages": [
+    {
+      "page_number": 10,
+      "description": "Our people - narrative text, no tables/diagrams",
+      "metrics": {
+        "heading_recall": {
+          "score": 1.0,
+          "expected": 6,
+          "matched": 6,
+          "missing": []
+        },
+        "text_fragment_recall": {
+          "score": 1.0,
+          "expected": 4,
+          "matched": 4,
+          "missing": []
+        },
+        "table_metrics": {
+          "score": 1.0,
+          "expected_tables": 0,
+          "actual_tables": 0,
+          "details": []
+        },
+        "provenance_coverage": {
+          "score": 1.0,
+          "required": true,
+          "blocks": 21,
+          "with_provenance": 21
+        },
+        "overall_score": 1.0
+      }
+    },
+    {
+      "page_number": 13,
+      "description": "Vision and strategy - narrative text and bullet lists; page also contains a circular 'wind energy value drivers' infographic (known limitation: circular diagrams) whose visual-only content is intentionally excluded",
+      "metrics": {
+        "heading_recall": {
+          "score": 1.0,
+          "expected": 7,
+          "matched": 7,
+          "missing": []
+        },
+        "text_fragment_recall": {
+          "score": 1.0,
+          "expected": 5,
+          "matched": 5,
+          "missing": []
+        },
+        "table_metrics": {
+          "score": 1.0,
+          "expected_tables": 0,
+          "actual_tables": 0,
+          "details": []
+        },
+        "provenance_coverage": {
+          "score": 1.0,
+          "required": true,
+          "blocks": 20,
+          "with_provenance": 20
+        },
+        "overall_score": 1.0
+      }
+    },
+    {
+      "page_number": 3,
+      "description": "Letter from the Chair & CEO - narrative text, no tables/diagrams",
+      "metrics": {
+        "heading_recall": {
+          "score": 1.0,
+          "expected": 3,
+          "matched": 3,
+          "missing": []
+        },
+        "text_fragment_recall": {
+          "score": 1.0,
+          "expected": 5,
+          "matched": 5,
+          "missing": []
+        },
+        "table_metrics": {
+          "score": 1.0,
+          "expected_tables": 0,
+          "actual_tables": 0,
+          "details": []
+        },
+        "provenance_coverage": {
+          "score": 1.0,
+          "required": true,
+          "blocks": 8,
+          "with_provenance": 8
+        },
+        "overall_score": 1.0
+      }
+    },
+    {
+      "page_number": 38,
+      "description": "Our global footprint - full-page world map infographic (known limitation: maps). Golden intentionally kept minimal since almost all page content is map-illustration data, not text.",
+      "metrics": {
+        "heading_recall": {
+          "score": 0.0,
+          "expected": 1,
+          "matched": 0,
+          "missing": [
+            "Our global footprint"
+          ]
+        },
+        "text_fragment_recall": {
+          "score": 1.0,
+          "expected": 0,
+          "matched": 0,
+          "missing": []
+        },
+        "table_metrics": {
+          "score": 1.0,
+          "expected_tables": 0,
+          "actual_tables": 0,
+          "details": []
+        },
+        "provenance_coverage": {
+          "score": 1.0,
+          "required": false
+        },
+        "overall_score": 0.75
+      }
+    },
+    {
+      "page_number": 50,
+      "description": "Risk management narrative and governance lines; page also contains an 'ERM annual wheel' circular diagram (known limitation: circular governance diagrams) whose quadrant labels are intentionally excluded",
+      "metrics": {
+        "heading_recall": {
+          "score": 1.0,
+          "expected": 6,
+          "matched": 6,
+          "missing": []
+        },
+        "text_fragment_recall": {
+          "score": 1.0,
+          "expected": 5,
+          "matched": 5,
+          "missing": []
+        },
+        "table_metrics": {
+          "score": 1.0,
+          "expected_tables": 0,
+          "actual_tables": 0,
+          "details": []
+        },
+        "provenance_coverage": {
+          "score": 1.0,
+          "required": true,
+          "blocks": 20,
+          "with_provenance": 20
+        },
+        "overall_score": 1.0
+      }
+    },
+    {
+      "page_number": 51,
+      "description": "Principal enterprise risks table",
+      "metrics": {
+        "heading_recall": {
+          "score": 1.0,
+          "expected": 4,
+          "matched": 4,
+          "missing": []
+        },
+        "text_fragment_recall": {
+          "score": 1.0,
+          "expected": 0,
+          "matched": 0,
+          "missing": []
+        },
+        "table_metrics": {
+          "score": 0.75,
+          "expected_tables": 1,
+          "actual_tables": 1,
+          "details": [
+            {
+              "detected": true,
+              "score": 0.75,
+              "checks": {
+                "row_count": {
+                  "expected": 3,
+                  "actual": 3,
+                  "passed": true
+                },
+                "column_count": {
+                  "expected": 4,
+                  "actual": 4,
+                  "passed": true
+                },
+                "headers": {
+                  "expected": [
+                    "attribute",
+                    "Geopolitics and regulatory framework",
+                    "Project execution",
+                    "Cyber attacks"
+                  ],
+                  "actual": [
+                    "0",
+                    "1",
+                    "2",
+                    "3"
+                  ],
+                  "passed": false
+                },
+                "row_labels": {
+                  "expected": [
+                    "Description",
+                    "Potential impact",
+                    "How we manage it"
+                  ],
+                  "actual": [
+                    "Description",
+                    "Potential impact",
+                    "How we manage it"
+                  ],
+                  "missing": [],
+                  "passed": true
+                }
+              }
+            }
+          ]
+        },
+        "provenance_coverage": {
+          "score": 1.0,
+          "required": true,
+          "blocks": 5,
+          "with_provenance": 5
+        },
+        "overall_score": 0.9375
+      }
+    },
+    {
+      "page_number": 68,
+      "description": "Value chain narrative text (Inputs / Key outputs sections); page also contains a full value-chain illustration (known limitation: value-chain illustrations) whose stage captions are intentionally excluded",
+      "metrics": {
+        "heading_recall": {
+          "score": 1.0,
+          "expected": 3,
+          "matched": 3,
+          "missing": []
+        },
+        "text_fragment_recall": {
+          "score": 1.0,
+          "expected": 4,
+          "matched": 4,
+          "missing": []
+        },
+        "table_metrics": {
+          "score": 1.0,
+          "expected_tables": 0,
+          "actual_tables": 0,
+          "details": []
+        },
+        "provenance_coverage": {
+          "score": 1.0,
+          "required": true,
+          "blocks": 14,
+          "with_provenance": 14
+        },
+        "overall_score": 1.0
+      }
+    },
+    {
+      "page_number": 7,
+      "description": "Highlights for the year - narrative text + bar/line charts (chart numeric labels intentionally excluded, per known chart-legend extraction caveats)",
+      "metrics": {
+        "heading_recall": {
+          "score": 1.0,
+          "expected": 2,
+          "matched": 2,
+          "missing": []
+        },
+        "text_fragment_recall": {
+          "score": 1.0,
+          "expected": 4,
+          "matched": 4,
+          "missing": []
+        },
+        "table_metrics": {
+          "score": 1.0,
+          "expected_tables": 0,
+          "actual_tables": 0,
+          "details": []
+        },
+        "provenance_coverage": {
+          "score": 1.0,
+          "required": true,
+          "blocks": 13,
+          "with_provenance": 13
+        },
+        "overall_score": 1.0
+      }
+    },
+    {
+      "page_number": 71,
+      "description": "Material impacts, risks, and opportunities (E1 Climate Change) - narrative plus double-materiality table; page also has an impact/financial-materiality icon legend (known limitation: infographics) which is intentionally excluded",
+      "metrics": {
+        "heading_recall": {
+          "score": 1.0,
+          "expected": 5,
+          "matched": 5,
+          "missing": []
+        },
+        "text_fragment_recall": {
+          "score": 1.0,
+          "expected": 3,
+          "matched": 3,
+          "missing": []
+        },
+        "table_metrics": {
+          "score": 1.0,
+          "expected_tables": 1,
+          "actual_tables": 1,
+          "details": [
+            {
+              "detected": true,
+              "score": 1.0,
+              "checks": {
+                "row_count": {
+                  "expected": 5,
+                  "actual": 5,
+                  "passed": true
+                },
+                "column_count": {
+                  "expected": 5,
+                  "actual": 5,
+                  "passed": true
+                },
+                "headers": {
+                  "expected": [
+                    "",
+                    "Name and description",
+                    "Value chain",
+                    "Name and description",
+                    "Value chain"
+                  ],
+                  "actual": [
+                    "",
+                    "Name and description",
+                    "Value chain",
+                    "Name and description",
+                    "Value chain"
+                  ],
+                  "passed": true
+                },
+                "row_labels": {
+                  "expected": [
+                    "Double materiality Climate change mitigation",
+                    "Impact materiality Energy consumption",
+                    "Financial materiality Climate change adaptation"
+                  ],
+                  "actual": [
+                    "Double materiality Climate change mitigation",
+                    "",
+                    "",
+                    "Impact materiality Energy consumption",
+                    "Financial materiality Climate change adaptation"
+                  ],
+                  "missing": [],
+                  "passed": true
+                }
+              }
+            }
+          ]
+        },
+        "provenance_coverage": {
+          "score": 1.0,
+          "required": true,
+          "blocks": 23,
+          "with_provenance": 23
+        },
+        "overall_score": 1.0
+      }
+    },
+    {
+      "page_number": 8,
+      "description": "Financial and operational key figures - two large financial tables",
+      "metrics": {
+        "heading_recall": {
+          "score": 1.0,
+          "expected": 1,
+          "matched": 1,
+          "missing": []
+        },
+        "text_fragment_recall": {
+          "score": 1.0,
+          "expected": 3,
+          "matched": 3,
+          "missing": []
+        },
+        "table_metrics": {
+          "score": 1.0,
+          "expected_tables": 2,
+          "actual_tables": 2,
+          "details": [
+            {
+              "detected": true,
+              "score": 1.0,
+              "checks": {
+                "row_count": {
+                  "expected": 24,
+                  "actual": 24,
+                  "passed": true
+                },
+                "column_count": {
+                  "expected": 6,
+                  "actual": 6,
+                  "passed": true
+                },
+                "headers": {
+                  "expected": [
+                    "Financial key figures (mEUR)",
+                    "2025",
+                    "2024",
+                    "2023",
+                    "2022",
+                    "2021 1"
+                  ],
+                  "actual": [
+                    "Financial key figures (mEUR)",
+                    "2025",
+                    "2024",
+                    "2023",
+                    "2022",
+                    "2021 1"
+                  ],
+                  "passed": true
+                },
+                "row_labels": {
+                  "expected": [
+                    "Revenue",
+                    "EBITDA",
+                    "Operating profit/(loss) (EBIT)",
+                    "Balance sheet total",
+                    "Equity",
+                    "Cash flow from operating activities",
+                    "Free cash flow"
+                  ],
+                  "actual": [
+                    "Income statement",
+                    "Revenue",
+                    "Gross profit",
+                    "EBITDA before special items",
+                    "Operating profit/(loss) (EBIT) before special items",
+                    "EBITDA",
+                    "Operating profit/(loss) (EBIT)",
+                    "Net operating profit after tax (NOPAT)",
+                    "Net financial items",
+                    "Profit/(loss) before tax",
+                    "Profit/(loss) for the year",
+                    "Balance sheet",
+                    "Balance sheet total",
+                    "Equity",
+                    "Investments in property, plant and equipment",
+                    "Net working capital",
+                    "Capital employed",
+                    "Interest-bearing position (net)",
+                    "Interest-bearing debt",
+                    "Statement of cash flows",
+                    "Cash flow from operating activities",
+                    "Cash flow from investing activities",
+                    "Free cash flow",
+                    "Adjusted free cash flow"
+                  ],
+                  "missing": [],
+                  "passed": true
+                }
+              }
+            },
+            {
+              "detected": true,
+              "score": 1.0,
+              "checks": {
+                "row_count": {
+                  "expected": 27,
+                  "actual": 27,
+                  "passed": true
+                },
+                "column_count": {
+                  "expected": 6,
+                  "actual": 6,
+                  "passed": true
+                },
+                "headers": {
+                  "expected": [
+                    "Financial ratios 2",
+                    "2025",
+                    "2024",
+                    "2023",
+                    "2022",
+                    "2021 1"
+                  ],
+                  "actual": [
+                    "Financial ratios 2",
+                    "2025",
+                    "2024",
+                    "2023",
+                    "2022",
+                    "2021 1"
+                  ],
+                  "passed": true
+                },
+                "row_labels": {
+                  "expected": [
+                    "Gross margin (%)",
+                    "EBITDA margin (%) before special items",
+                    "Return on equity (%)",
+                    "Earnings per share, basic (EUR)",
+                    "Order intake (bnEUR)",
+                    "Order intake (MW)",
+                    "Deliveries (MW)"
+                  ],
+                  "actual": [
+                    "Gross margin (%)",
+                    "EBITDA margin (%) before special items",
+                    "EBIT margin (%) before special items",
+                    "EBITDA margin (%)",
+                    "EBIT margin (%)",
+                    "Return on Capital Employed (ROCE) (%) before special items",
+                    "Interest-bearing position (net)/EBITDA before special items",
+                    "Solvency ratio (%)",
+                    "Return on equity (%)",
+                    "Share ratios",
+                    "Earnings per share, basic (EUR)",
+                    "Earnings per share, diluted (EUR)",
+                    "P/E ratio",
+                    "Dividend per share (EUR)",
+                    "Dividend pay-out ratio (%)",
+                    "Share price, end of period (DKK)",
+                    "Number of shares, end of period",
+                    "Number of shares, outstand. end of period",
+                    "Operational key figures",
+                    "Order intake (bnEUR)",
+                    "Order intake (MW)",
+                    "Order backlog - wind turbines (bnEUR)",
+                    "Order backlog - wind turbines (MW)",
+                    "Order backlog - service (bnEUR)",
+                    "Produced and shipped wind turbines (MW)",
+                    "Produced and shipped wind turbines (number)",
+                    "Deliveries (MW)"
+                  ],
+                  "missing": [],
+                  "passed": true
+                }
+              }
+            }
+          ]
+        },
+        "provenance_coverage": {
+          "score": 1.0,
+          "required": true,
+          "blocks": 7,
+          "with_provenance": 7
+        },
+        "overall_score": 1.0
+      }
+    },
+    {
+      "page_number": 9,
+      "description": "Sustainability key figures - Environmental and Social tables",
+      "metrics": {
+        "heading_recall": {
+          "score": 1.0,
+          "expected": 1,
+          "matched": 1,
+          "missing": []
+        },
+        "text_fragment_recall": {
+          "score": 1.0,
+          "expected": 3,
+          "matched": 3,
+          "missing": []
+        },
+        "table_metrics": {
+          "score": 1.0,
+          "expected_tables": 2,
+          "actual_tables": 2,
+          "details": [
+            {
+              "detected": true,
+              "score": 1.0,
+              "checks": {
+                "row_count": {
+                  "expected": 20,
+                  "actual": 20,
+                  "passed": true
+                },
+                "column_count": {
+                  "expected": 6,
+                  "actual": 6,
+                  "passed": true
+                },
+                "headers": {
+                  "expected": [
+                    "Environmental",
+                    "2025",
+                    "2024",
+                    "2023",
+                    "2022",
+                    "2021"
+                  ],
+                  "actual": [
+                    "Environmental",
+                    "2025",
+                    "2024",
+                    "2023",
+                    "2022",
+                    "2021"
+                  ],
+                  "passed": true
+                },
+                "row_labels": {
+                  "expected": [
+                    "Utilisation of resources",
+                    "Waste",
+                    "GHG emissions",
+                    "Products"
+                  ],
+                  "actual": [
+                    "Utilisation of resources",
+                    "Consumption of energy (GWh)",
+                    "- of which renewable energy (GWh)",
+                    "- of which renewable electricity (GWh)",
+                    "Renewable energy (%)",
+                    "Renewable electricity for own activities (%)",
+                    "Waste",
+                    "Volume of waste from own operations (1,000 t)",
+                    "- of which collected for recycling (%) 1, 2",
+                    "Recyclability rate of hub and blade (%) 2",
+                    "Recyclability rate of total turbine (%) 2",
+                    "Material efficiency (tonnes of waste excl. recycled per MW produced and shipped) 2",
+                    "GHG emissions",
+                    "Scope 1 GHG emissions (1,000 t COe)",
+                    "Scope 2 GHG emissions market-based (1,000 t COe)",
+                    "Scope 3 GHG emissions (million t COe) 3",
+                    "Scope 3 GHG emissions intensity (target scope) (kg COe per MWh generated) 3, 4",
+                    "Products",
+                    "Expected GHG avoided over the lifetime of the capacity produced and shipped during the period (million t COe) 2",
+                    "Expected annual GHG avoided by the total aggregated installed fleet at the end of the period (million t COe) 2"
+                  ],
+                  "missing": [],
+                  "passed": true
+                }
+              }
+            },
+            {
+              "detected": true,
+              "score": 1.0,
+              "checks": {
+                "row_count": {
+                  "expected": 20,
+                  "actual": 20,
+                  "passed": true
+                },
+                "column_count": {
+                  "expected": 6,
+                  "actual": 6,
+                  "passed": true
+                },
+                "headers": {
+                  "expected": [
+                    "Social",
+                    "2025",
+                    "2024",
+                    "2023",
+                    "2022",
+                    "2021"
+                  ],
+                  "actual": [
+                    "Social",
+                    "2025",
+                    "2024",
+                    "2023",
+                    "2022",
+                    "2021"
+                  ],
+                  "passed": true
+                },
+                "row_labels": {
+                  "expected": [
+                    "Employees",
+                    "Diversity and inclusion",
+                    "Human rights",
+                    "Governance"
+                  ],
+                  "actual": [
+                    "Safety (own workforce) 5",
+                    "Total Recordable Injuries per million working hours (TRIR) 5",
+                    "Lost Time Injuries per million working hours (LTIR) 2, 5",
+                    "Total Recordable Injuries (number)",
+                    "- of which Lost Time Injuries (number) 2",
+                    "- of which fatal injuries (number)",
+                    "Employees",
+                    "Employees, end of period (FTEs)",
+                    "Diversity and inclusion",
+                    "Women in the Board of Directors, end of period (%)",
+                    "Women in top management, 6 end of period (%) 7",
+                    "Women in leadership positions, end of period (%) 7",
+                    "Human rights",
+                    "Community grievances (number) 2",
+                    "Social Due Diligence on projects in scope (%) 2",
+                    "Governance",
+                    "Whistle-blower system 8",
+                    "EthicsLine cases (number) 2",
+                    "- of which substantiated (number) 2",
+                    "- of which unsubstantiated (number) 2"
+                  ],
+                  "missing": [],
+                  "passed": true
+                }
+              }
+            }
+          ]
+        },
+        "provenance_coverage": {
+          "score": 1.0,
+          "required": true,
+          "blocks": 12,
+          "with_provenance": 12
+        },
+        "overall_score": 1.0
+      }
+    }
+  ]
+}

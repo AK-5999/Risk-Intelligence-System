@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "description": "Known false-positive and extraction failure cases.",
+  "cases": [
+    {
+      "id": "fail_001",
+      "title": "GHG emissions from operations and value chain",
+      "page": 71,
+      "failure_type": "impact_as_risk",
+      "expected_behavior": "exclude"
+    },
+    {
+      "id": "fail_002",
+      "title": "Non-recyclable materials in turbines",
+      "page": 72,
+      "failure_type": "impact_as_risk",
+      "expected_behavior": "exclude"
+    },
+    {
+      "id": "fail_003",
+      "title": "Land-use restrictions and displacement",
+      "page": 74,
+      "failure_type": "impact_as_risk",
+      "expected_behavior": "exclude"
+    },
+    {
+      "id": "fail_004",
+      "title": "Impacts on indigenous peoples' rights",
+      "page": 74,
+      "failure_type": "impact_as_risk",
+      "expected_behavior": "exclude"
+    },
+    {
+      "id": "fail_005",
+      "title": "Recyclable blades",
+      "page": 72,
+      "failure_type": "opportunity_as_risk",
+      "expected_behavior": "exclude"
+    },
+    {
+      "id": "fail_006",
+      "title": "Growth rate of the wind industry",
+      "page": 71,
+      "failure_type": "opportunity_as_risk",
+      "expected_behavior": "exclude"
+    }
+  ]
+}

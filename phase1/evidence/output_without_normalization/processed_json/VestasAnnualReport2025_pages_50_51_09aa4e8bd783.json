@@ -1,0 +1,2012 @@
+{
+  "document_id": "e966f6ac-76ae-4649-933d-13ad10ed3654",
+  "document_hash": "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc",
+  "source": {
+    "file_name": "VestasAnnualReport2025.pdf",
+    "file_type": "pdf",
+    "file_size_bytes": 7656538,
+    "source_path": "D:\\Coding\\Vestas\\Pipeline\\data\\VestasAnnualReport2025.pdf"
+  },
+  "document_metadata": {
+    "page_count": 2,
+    "processed_page_range": [
+      50,
+      51
+    ],
+    "title": "VestasAnnualReport2025"
+  },
+  "processing": {
+    "parser_name": "docling-adaptive-pdf-parser",
+    "parser_version": "3.0.0",
+    "processing_started_at": "2026-08-07T05:50:42.232916+00:00",
+    "processing_completed_at": "2026-08-07T05:51:25.409710+00:00",
+    "status": "completed",
+    "strategy": "adaptive_two_pass",
+    "pass_1": {
+      "purpose": "Layout and native-content detection",
+      "ocr_enabled": false
+    },
+    "pass_2": {
+      "purpose": "OCR only on candidate pages",
+      "ocr_enabled": true,
+      "candidate_pages": [],
+      "processed_pages": []
+    }
+  },
+  "content_summary": {
+    "total_blocks": 25,
+    "total_tables": 1,
+    "total_pictures": 1,
+    "label_counts": {
+      "section_header": 14,
+      "picture": 1,
+      "text": 9,
+      "table": 1
+    },
+    "page_type_counts": {
+      "mixed": 2
+    },
+    "ocr_required_page_count": 0,
+    "ocr_required_pages": []
+  },
+  "pages": [
+    {
+      "page_number": 50,
+      "page_type": "mixed",
+      "contains": {
+        "text": true,
+        "table": false,
+        "picture": true,
+        "chart": true,
+        "diagram": false
+      },
+      "native_text": "Risk management\nEnterprise Risk Management annual wheel\nAudit Committee and Board review Q1 + Q2 topics At Vestas, risk management is an integral part of business operations and strategy. We are committed to proactively identifying and mitigating risks that may affect our short- to medium-term objectives, while addressing long-term risks that could hinder the realisation of our strategic goals. These efforts help us protect Vestas' future and ensure long-term resilience.\nEnterprise Risk Management\nOperating across diverse markets and a rapidly evolving industry landscape, Vestas is exposed to a wide array of risks that reflect the complexity and global nature of our business. These risks include operational, commercial, macroeconomic, and regulatory challenges.\nOur Enterprise Risk Management (ERM) framework ensures a structured approach to identifying, assessing, mitigating, and monitoring the risks we face. It promotes transparency and a shared understanding of risk, helping to safeguard our strategic and financial ambitions. Our ERM also aims to create and protect shareholder value, ensuring risk awareness and balancing risk against reward.\nVestas' most significant risks, including material sustainability topics such as climate change mitigation and responsible business conduct, are reviewed every six months by the Executive Management Team, the Board of Directors, and the Audit Committee.\nThese reviews are informed by insights from management teams across the organisation and include all types of risk that could materially affect the achievement of our strategic objectives.\nA condensed overview of our key enterprise risks, is provided on the next page.\nOur risk management governance\nAudit (3rd line)\nBoard of Directors/Audit Committee / Executive Management Team\nResponsible for providing assurance on the design and effectiveness of Vestas' risk management.\nAssurance (2nd line)\nEVP area and Regional leadership teams / Risk Committee/ Corporate ERM\nResponsible for designing and supervising risk management systems, and for monitoring risks to ensure they are managed within acceptable limits.\nOperational (1st line)\nRisk Owners, Risk Officers and Action Owners\nThe individuals responsible for managing risks on a day-to-day basis to achieve Vestas' business objectives.",
+      "ocr_text": "",
+      "final_text": "Risk management\nEnterprise Risk Management annual wheel\nAudit Committee and Board review Q1 + Q2 topics At Vestas, risk management is an integral part of business operations and strategy. We are committed to proactively identifying and mitigating risks that may affect our short- to medium-term objectives, while addressing long-term risks that could hinder the realisation of our strategic goals. These efforts help us protect Vestas' future and ensure long-term resilience.\nEnterprise Risk Management\nOperating across diverse markets and a rapidly evolving industry landscape, Vestas is exposed to a wide array of risks that reflect the complexity and global nature of our business. These risks include operational, commercial, macroeconomic, and regulatory challenges.\nOur Enterprise Risk Management (ERM) framework ensures a structured approach to identifying, assessing, mitigating, and monitoring the risks we face. It promotes transparency and a shared understanding of risk, helping to safeguard our strategic and financial ambitions. Our ERM also aims to create and protect shareholder value, ensuring risk awareness and balancing risk against reward.\nVestas' most significant risks, including material sustainability topics such as climate change mitigation and responsible business conduct, are reviewed every six months by the Executive Management Team, the Board of Directors, and the Audit Committee.\nThese reviews are informed by insights from management teams across the organisation and include all types of risk that could materially affect the achievement of our strategic objectives.\nA condensed overview of our key enterprise risks, is provided on the next page.\nOur risk management governance\nAudit (3rd line)\nBoard of Directors/Audit Committee / Executive Management Team\nResponsible for providing assurance on the design and effectiveness of Vestas' risk management.\nAssurance (2nd line)\nEVP area and Regional leadership teams / Risk Committee/ Corporate ERM\nResponsible for designing and supervising risk management systems, and for monitoring risks to ensure they are managed within acceptable limits.\nOperational (1st line)\nRisk Owners, Risk Officers and Action Owners\nThe individuals responsible for managing risks on a day-to-day basis to achieve Vestas' business objectives.",
+      "ocr": {
+        "required": false,
+        "reason": null,
+        "applied": false,
+        "success": false,
+        "error": null
+      },
+      "content": [
+        {
+          "type": "section_header",
+          "text": "Risk management",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 31.1811,
+                "t": 518.9534009765625,
+                "r": 244.77909999999997,
+                "b": 447.8352702881145,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Enterprise Risk Management annual wheel",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 34.0158,
+                "t": 355.21330097656255,
+                "r": 173.98455,
+                "b": 349.01583262213217,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                39
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Audit Committee and Board review Q1 + Q2 topics At Vestas, risk management is an integral part of business operations and strategy. We are committed to proactively identifying and mitigating risks that may affect our short- to medium-term objectives, while addressing long-term risks that could hinder the realisation of our strategic goals. These efforts help us protect Vestas' future and ensure long-term resilience.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 179.2205,
+                "t": 77.67700097656257,
+                "r": 261.4705,
+                "b": 63.11385179241336,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                47
+              ]
+            },
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 297.6378,
+                "t": 512.2734009765626,
+                "r": 543.2814000000003,
+                "b": 406.1280023751639,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                48,
+                419
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Enterprise Risk Management",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 297.6378,
+                "t": 355.89340097656253,
+                "r": 404.9596499999995,
+                "b": 348.8696035082081,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                26
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Operating across diverse markets and a rapidly evolving industry landscape, Vestas is exposed to a wide array of risks that reflect the complexity and global nature of our business. These risks include operational, commercial, macroeconomic, and regulatory challenges.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 297.6378,
+                "t": 344.8944009765625,
+                "r": 539.2749499999998,
+                "b": 304.89807696723847,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                268
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Our Enterprise Risk Management (ERM) framework ensures a structured approach to identifying, assessing, mitigating, and monitoring the risks we face. It promotes transparency and a shared understanding of risk, helping to safeguard our strategic and financial ambitions. Our ERM also aims to create and protect shareholder value, ensuring risk awareness and balancing risk against reward.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 297.6378,
+                "t": 289.89940097656245,
+                "r": 530.9143499999999,
+                "b": 216.90607696723845,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                388
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Vestas' most significant risks, including material sustainability topics such as climate change mitigation and responsible business conduct, are reviewed every six months by the Executive Management Team, the Board of Directors, and the Audit Committee.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 297.6378,
+                "t": 201.90740097656249,
+                "r": 545.8318500000003,
+                "b": 161.9110769672385,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                253
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "These reviews are informed by insights from management teams across the organisation and include all types of risk that could materially affect the achievement of our strategic objectives.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 297.6378,
+                "t": 146.91240097656248,
+                "r": 533.2305999999998,
+                "b": 117.91507696723846,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                188
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "A condensed overview of our key enterprise risks, is provided on the next page.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 297.6378,
+                "t": 102.9164009765625,
+                "r": 542.1216,
+                "b": 84.91807696723845,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                79
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Our risk management governance",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 627.1653,
+                "t": 358.2734009765626,
+                "r": 795.8000999999994,
+                "b": 348.39200237516394,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                30
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Audit (3rd line)",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 627.1654,
+                "t": 322.89040097656255,
+                "r": 682.0975000000005,
+                "b": 315.86660350820813,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                16
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Board of Directors/Audit Committee / Executive Management Team",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 627.1653,
+                "t": 305.6284009765625,
+                "r": 735.9453,
+                "b": 291.04509717909417,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                62
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Responsible for providing assurance on the design and effectiveness of Vestas' risk management.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 627.1653,
+                "t": 286.6094009765625,
+                "r": 786.8836000000001,
+                "b": 272.04625179241333,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                95
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Assurance (2nd line)",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 627.1654,
+                "t": 212.8919009765625,
+                "r": 702.2858499999995,
+                "b": 205.8681035082081,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "EVP area and Regional leadership teams / Risk Committee/ Corporate ERM",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 627.1653,
+                "t": 195.62340097656255,
+                "r": 748.4333000000001,
+                "b": 181.04009717909423,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                70
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Responsible for designing and supervising risk management systems, and for monitoring risks to ensure they are managed within acceptable limits.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 627.1653,
+                "t": 178.02540097656254,
+                "r": 807.3018999999997,
+                "b": 154.66325179241335,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                144
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Operational (1st line)",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 627.1654,
+                "t": 102.89340097656253,
+                "r": 705.0347499999998,
+                "b": 95.86960350820812,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Risk Owners, Risk Officers and Action Owners",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 627.1653,
+                "t": 87.89340097656253,
+                "r": 762.8029,
+                "b": 82.10909717909419,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                44
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "The individuals responsible for managing risks on a day-to-day basis to achieve Vestas' business objectives.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 627.1653,
+                "t": 77.67340097656256,
+                "r": 788.8002000000002,
+                "b": 63.11025179241335,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                108
+              ]
+            }
+          ]
+        },
+        {
+          "type": "flow_chart",
+          "classification": {
+            "primary_label": "flow_chart",
+            "labels": [
+              "flow_chart",
+              "pie_chart",
+              "screenshot_from_manual",
+              "engineering_drawing",
+              "icon",
+              "full_page_image",
+              "screenshot_from_computer",
+              "logo",
+              "page_thumbnail",
+              "bar_chart",
+              "table",
+              "other",
+              "line_chart",
+              "geographical_map",
+              "calendar",
+              "chemistry_structure",
+              "scatter_plot",
+              "photograph",
+              "music",
+              "signature",
+              "stamp",
+              "box_plot",
+              "qr_code",
+              "bar_code",
+              "crossword_puzzle",
+              "topographical_map",
+              "chart",
+              "photo"
+            ],
+            "confidence_scores": [
+              0.8079414367675781,
+              0.12259072810411453,
+              0.018374208360910416,
+              0.013023760169744492,
+              0.009796222671866417,
+              0.00949222594499588,
+              0.004043665714561939,
+              0.0031475434079766273,
+              0.002202332252636552,
+              0.0021285819821059704,
+              0.0013499403139576316,
+              0.001264840946532786,
+              0.0011091901687905192,
+              0.000977358897216618,
+              0.0008290051482617855,
+              0.0005147525225766003,
+              0.00038810857222415507,
+              0.00022935887682251632,
+              0.0001431481505278498,
+              0.00012368500756565481,
+              0.00010618112719384953,
+              0.00010474341252120212,
+              5.1486123993527144e-05,
+              3.905820267391391e-05,
+              2.29952966037672e-05,
+              5.423146376415389e-06
+            ]
+          },
+          "annotations": [
+            {
+              "kind": "classification",
+              "provenance": "DocumentPictureClassifier",
+              "predicted_classes": [
+                {
+                  "class_name": "flow_chart",
+                  "confidence": 0.8079414367675781
+                },
+                {
+                  "class_name": "pie_chart",
+                  "confidence": 0.12259072810411453
+                },
+                {
+                  "class_name": "screenshot_from_manual",
+                  "confidence": 0.018374208360910416
+                },
+                {
+                  "class_name": "engineering_drawing",
+                  "confidence": 0.013023760169744492
+                },
+                {
+                  "class_name": "icon",
+                  "confidence": 0.009796222671866417
+                },
+                {
+                  "class_name": "full_page_image",
+                  "confidence": 0.00949222594499588
+                },
+                {
+                  "class_name": "screenshot_from_computer",
+                  "confidence": 0.004043665714561939
+                },
+                {
+                  "class_name": "logo",
+                  "confidence": 0.0031475434079766273
+                },
+                {
+                  "class_name": "page_thumbnail",
+                  "confidence": 0.002202332252636552
+                },
+                {
+                  "class_name": "bar_chart",
+                  "confidence": 0.0021285819821059704
+                },
+                {
+                  "class_name": "table",
+                  "confidence": 0.0013499403139576316
+                },
+                {
+                  "class_name": "other",
+                  "confidence": 0.001264840946532786
+                },
+                {
+                  "class_name": "line_chart",
+                  "confidence": 0.0011091901687905192
+                },
+                {
+                  "class_name": "geographical_map",
+                  "confidence": 0.000977358897216618
+                },
+                {
+                  "class_name": "calendar",
+                  "confidence": 0.0008290051482617855
+                },
+                {
+                  "class_name": "chemistry_structure",
+                  "confidence": 0.0005147525225766003
+                },
+                {
+                  "class_name": "scatter_plot",
+                  "confidence": 0.00038810857222415507
+                },
+                {
+                  "class_name": "photograph",
+                  "confidence": 0.00022935887682251632
+                },
+                {
+                  "class_name": "music",
+                  "confidence": 0.0001431481505278498
+                },
+                {
+                  "class_name": "signature",
+                  "confidence": 0.00012368500756565481
+                },
+                {
+                  "class_name": "stamp",
+                  "confidence": 0.00010618112719384953
+                },
+                {
+                  "class_name": "box_plot",
+                  "confidence": 0.00010474341252120212
+                },
+                {
+                  "class_name": "qr_code",
+                  "confidence": 5.1486123993527144e-05
+                },
+                {
+                  "class_name": "bar_code",
+                  "confidence": 3.905820267391391e-05
+                },
+                {
+                  "class_name": "crossword_puzzle",
+                  "confidence": 2.29952966037672e-05
+                },
+                {
+                  "class_name": "topographical_map",
+                  "confidence": 5.423146376415389e-06
+                }
+              ]
+            }
+          ],
+          "extraction_method": "docling_picture_analysis",
+          "provenance": [
+            {
+              "page_number": 50,
+              "bbox": {
+                "l": 32.03231810413538,
+                "t": 343.6476294588298,
+                "r": 263.5187657841674,
+                "b": 72.31270274221902,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ],
+      "block_ids": [
+        "#/texts/5",
+        "#/texts/6",
+        "#/pictures/0",
+        "#/texts/22",
+        "#/texts/23",
+        "#/texts/24",
+        "#/texts/25",
+        "#/texts/26",
+        "#/texts/27",
+        "#/texts/28",
+        "#/texts/29",
+        "#/texts/30",
+        "#/texts/31",
+        "#/texts/32",
+        "#/texts/33",
+        "#/texts/34",
+        "#/texts/35",
+        "#/texts/36",
+        "#/texts/37",
+        "#/texts/38"
+      ],
+      "table_ids": [],
+      "picture_ids": [
+        "#/pictures/0"
+      ],
+      "metadata": {
+        "block_count": 20,
+        "text_block_count": 19,
+        "table_count": 0,
+        "picture_count": 1,
+        "chart_count": 1,
+        "diagram_count": 0
+      },
+      "warnings": []
+    },
+    {
+      "page_number": 51,
+      "page_type": "mixed",
+      "contains": {
+        "text": true,
+        "table": true,
+        "picture": false,
+        "chart": false,
+        "diagram": false
+      },
+      "native_text": "Main risks\nGeopolitics and regulatory framework\nProject execution\nCyber attacks",
+      "ocr_text": "",
+      "final_text": "Main risks\nGeopolitics and regulatory framework\nProject execution\nCyber attacks",
+      "ocr": {
+        "required": false,
+        "reason": null,
+        "applied": false,
+        "success": false,
+        "error": null
+      },
+      "content": [
+        {
+          "type": "section_header",
+          "text": "Main risks",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 51,
+              "bbox": {
+                "l": 34.0157,
+                "t": 499.64270097656254,
+                "r": 107.98310000000001,
+                "b": 484.53528838914997,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                10
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Geopolitics and regulatory framework",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 51,
+              "bbox": {
+                "l": 231.7323,
+                "t": 509.31270097656255,
+                "r": 364.97310000000016,
+                "b": 485.6793023751639,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                36
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Project execution",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 51,
+              "bbox": {
+                "l": 429.4443,
+                "t": 495.56070097656254,
+                "r": 516.0590999999998,
+                "b": 485.6793023751639,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Cyber attacks",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 51,
+              "bbox": {
+                "l": 627.1563,
+                "t": 495.56070097656254,
+                "r": 695.7266999999999,
+                "b": 485.6793023751639,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                13
+              ]
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "markdown": "| 0                | 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |\n|:-----------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Description      | In 2025, Vestas continued to navigate significant challenges arising from shifting geopolitical tensions across the world. Conflicts in Ukraine and the Middle East continued to disrupt regional stability, affecting global supply chains and business operations. Trade tensions between major economies have intensified, leading to tariffs, sanctions, export controls, and targeted restrictions on e.g. critical materials which complicate global operations. Governments in the EU, China, and the USA introduced assertive industrial policies aimed at securing domestic manufacturing and energy independence. These shifts are reshaping the regulatory landscape, altering market incentives, and intensifying competition in the clean-tech sector. For Vestas, this situation means navigating an increasingly fragmented and unpredictable global environment, while continuously adapting to external forces beyond our control. | Project execution at Vestas involves delivering complex onshore and offshore projects within specified parameters relating to quality, cost, and timeline. As the scale and complexity of offshore projects grow, so does the need for precise internal coordination. Execution is affected by delays in production capacity ramp-up, quality control issues during scaling, and supply chain disruptions. The lack of industry-wide standardisation and insufficient logistical infrastructure further complicate timely delivery. Success also depends on external factors, such as supportive regulatory frameworks, the cross-border mobility of skilled workers, and the availability of a sustainable and scalable supply chain, all of which remain vulnerable to geopolitical and market shifts. | Vestas' digital and other critical assets are exposed to cyber attacks. A cyber attack may have dual implications for both Vestas as a company and for the societies that our energy solutions serve. Electricity producers rely on Vestas' energy solutions for reliable and secure sustainable energy production, making these solutions critical infrastructure for societies around the world. Cyber-threat actors constantly evolve their methods and techniques to attack Vestas' energy solutions, for the purpose of extorsion or to destabilise energy generation. Vestas' technology, data, and operations are a potential target for geopolitical actors and the cyber-criminal industry. |\n| Potential impact | Geopolitical tensions and regulatory shifts create uncertainty across global markets, which can disrupt and delay supply chains, and increase costs through tariffs and trade barriers. These dynamics may weaken project economics, reduce market volumes, and challenge Vestas' ability to maintain cost efficiency and competitiveness.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Challenges in project execution can lead to delays in delivery, cost overruns, and margin erosion, particularly as offshore projects grow in scale and complexity. Quality issues may result in formal disputes and reputational damage. These factors can undermine Vestas' ability to secure new business, reduce investor confidence, and weaken long-term competitiveness in the global wind market.                                                                                                                                                                                                                                                                                                                                                                                                 | Politically motivated cyber actors may seek to disrupt energy production. A cyber attack on Vestas may be designed to impact our customers' operations, causing electricity outage and physical damage to assets. A successful cyber attack on Vestas' energy solutions and our infrastructures might result in significant economic loss and reputational damage.                                                                                                                                                                                                                                                                                                                                   |\n| How we manage it | We manage geopolitical risks by continuously monitoring global developments and implementing appropriate mitigations. By maintaining a global and regionalised manufacturing footprint, Vestas can effectively respond to geopolitical shifts and regulatory changes. Proactive advocacy ensures alignment and compliance with evolving policies and the regulatory climate. Additionally, we exercise commercial discipline and utilise indexation and financial hedging strategies to minimise exposure.                                                                                                                                                                                                                                                                                                                                                                                                                                          | We mitigate execution risks through project governance, enhanced planning functions, and continuous alignment between commercial and delivery teams. We invest in scalable manufacturing capacity and maintain close coordination with suppliers to secure timely component availability.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | As a global manufacturer and key contributor to critical infrastructure, Vestas is required to continuously address evolving cyber risks, both to our company and to the customers we serve. We are developing cyber security services aimed at helping our customers navigate cyber risks effectively, fulfil industry requirements and standards, and uphold their responsibilities. During 2025, our cyber security efforts were effective and no critical cyber security incidents took place.                                                                                                                                                                                                   |",
+          "columns": [
+            "0",
+            "1",
+            "2",
+            "3"
+          ],
+          "rows": [
+            [
+              "Description",
+              "In 2025, Vestas continued to navigate significant challenges arising from shifting geopolitical tensions across the world. Conflicts in Ukraine and the Middle East continued to disrupt regional stability, affecting global supply chains and business operations. Trade tensions between major economies have intensified, leading to tariffs, sanctions, export controls, and targeted restrictions on e.g. critical materials which complicate global operations. Governments in the EU, China, and the USA introduced assertive industrial policies aimed at securing domestic manufacturing and energy independence. These shifts are reshaping the regulatory landscape, altering market incentives, and intensifying competition in the clean-tech sector. For Vestas, this situation means navigating an increasingly fragmented and unpredictable global environment, while continuously adapting to external forces beyond our control.",
+              "Project execution at Vestas involves delivering complex onshore and offshore projects within specified parameters relating to quality, cost, and timeline. As the scale and complexity of offshore projects grow, so does the need for precise internal coordination. Execution is affected by delays in production capacity ramp-up, quality control issues during scaling, and supply chain disruptions. The lack of industry-wide standardisation and insufficient logistical infrastructure further complicate timely delivery. Success also depends on external factors, such as supportive regulatory frameworks, the cross-border mobility of skilled workers, and the availability of a sustainable and scalable supply chain, all of which remain vulnerable to geopolitical and market shifts.",
+              "Vestas' digital and other critical assets are exposed to cyber attacks. A cyber attack may have dual implications for both Vestas as a company and for the societies that our energy solutions serve. Electricity producers rely on Vestas' energy solutions for reliable and secure sustainable energy production, making these solutions critical infrastructure for societies around the world. Cyber-threat actors constantly evolve their methods and techniques to attack Vestas' energy solutions, for the purpose of extorsion or to destabilise energy generation. Vestas' technology, data, and operations are a potential target for geopolitical actors and the cyber-criminal industry."
+            ],
+            [
+              "Potential impact",
+              "Geopolitical tensions and regulatory shifts create uncertainty across global markets, which can disrupt and delay supply chains, and increase costs through tariffs and trade barriers. These dynamics may weaken project economics, reduce market volumes, and challenge Vestas' ability to maintain cost efficiency and competitiveness.",
+              "Challenges in project execution can lead to delays in delivery, cost overruns, and margin erosion, particularly as offshore projects grow in scale and complexity. Quality issues may result in formal disputes and reputational damage. These factors can undermine Vestas' ability to secure new business, reduce investor confidence, and weaken long-term competitiveness in the global wind market.",
+              "Politically motivated cyber actors may seek to disrupt energy production. A cyber attack on Vestas may be designed to impact our customers' operations, causing electricity outage and physical damage to assets. A successful cyber attack on Vestas' energy solutions and our infrastructures might result in significant economic loss and reputational damage."
+            ],
+            [
+              "How we manage it",
+              "We manage geopolitical risks by continuously monitoring global developments and implementing appropriate mitigations. By maintaining a global and regionalised manufacturing footprint, Vestas can effectively respond to geopolitical shifts and regulatory changes. Proactive advocacy ensures alignment and compliance with evolving policies and the regulatory climate. Additionally, we exercise commercial discipline and utilise indexation and financial hedging strategies to minimise exposure.",
+              "We mitigate execution risks through project governance, enhanced planning functions, and continuous alignment between commercial and delivery teams. We invest in scalable manufacturing capacity and maintain close coordination with suppliers to secure timely component availability.",
+              "As a global manufacturer and key contributor to critical infrastructure, Vestas is required to continuously address evolving cyber risks, both to our company and to the customers we serve. We are developing cyber security services aimed at helping our customers navigate cyber risks effectively, fulfil industry requirements and standards, and uphold their responsibilities. During 2025, our cyber security efforts were effective and no critical cyber security incidents took place."
+            ]
+          ],
+          "extraction_method": "docling_table_structure",
+          "provenance": [
+            {
+              "page_number": 51,
+              "bbox": {
+                "l": 31.90281460634178,
+                "t": 474.0063569964841,
+                "r": 808.7397433821722,
+                "b": 109.50832381471997,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                0
+              ]
+            }
+          ],
+          "warning": null
+        }
+      ],
+      "block_ids": [
+        "#/texts/46",
+        "#/texts/47",
+        "#/texts/48",
+        "#/texts/49",
+        "#/tables/0"
+      ],
+      "table_ids": [
+        "#/tables/0"
+      ],
+      "picture_ids": [],
+      "metadata": {
+        "block_count": 5,
+        "text_block_count": 4,
+        "table_count": 1,
+        "picture_count": 0,
+        "chart_count": 0,
+        "diagram_count": 0
+      },
+      "warnings": []
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "#/texts/5",
+      "sequence_number": 1,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Risk management",
+      "character_count": 15,
+      "word_count": 2,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 31.1811,
+            "t": 518.9534009765625,
+            "r": 244.77909999999997,
+            "b": 447.8352702881145,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            15
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/6",
+      "sequence_number": 2,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Enterprise Risk Management annual wheel",
+      "character_count": 39,
+      "word_count": 5,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 34.0158,
+            "t": 355.21330097656255,
+            "r": 173.98455,
+            "b": 349.01583262213217,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            39
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/pictures/0",
+      "sequence_number": 3,
+      "hierarchy_level": 1,
+      "type": "picture",
+      "text": "",
+      "character_count": 0,
+      "word_count": 0,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 32.03231810413538,
+            "t": 343.6476294588298,
+            "r": 263.5187657841674,
+            "b": 72.31270274221902,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            0
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "kind": "classification",
+          "provenance": "DocumentPictureClassifier",
+          "predicted_classes": [
+            {
+              "class_name": "flow_chart",
+              "confidence": 0.8079414367675781
+            },
+            {
+              "class_name": "pie_chart",
+              "confidence": 0.12259072810411453
+            },
+            {
+              "class_name": "screenshot_from_manual",
+              "confidence": 0.018374208360910416
+            },
+            {
+              "class_name": "engineering_drawing",
+              "confidence": 0.013023760169744492
+            },
+            {
+              "class_name": "icon",
+              "confidence": 0.009796222671866417
+            },
+            {
+              "class_name": "full_page_image",
+              "confidence": 0.00949222594499588
+            },
+            {
+              "class_name": "screenshot_from_computer",
+              "confidence": 0.004043665714561939
+            },
+            {
+              "class_name": "logo",
+              "confidence": 0.0031475434079766273
+            },
+            {
+              "class_name": "page_thumbnail",
+              "confidence": 0.002202332252636552
+            },
+            {
+              "class_name": "bar_chart",
+              "confidence": 0.0021285819821059704
+            },
+            {
+              "class_name": "table",
+              "confidence": 0.0013499403139576316
+            },
+            {
+              "class_name": "other",
+              "confidence": 0.001264840946532786
+            },
+            {
+              "class_name": "line_chart",
+              "confidence": 0.0011091901687905192
+            },
+            {
+              "class_name": "geographical_map",
+              "confidence": 0.000977358897216618
+            },
+            {
+              "class_name": "calendar",
+              "confidence": 0.0008290051482617855
+            },
+            {
+              "class_name": "chemistry_structure",
+              "confidence": 0.0005147525225766003
+            },
+            {
+              "class_name": "scatter_plot",
+              "confidence": 0.00038810857222415507
+            },
+            {
+              "class_name": "photograph",
+              "confidence": 0.00022935887682251632
+            },
+            {
+              "class_name": "music",
+              "confidence": 0.0001431481505278498
+            },
+            {
+              "class_name": "signature",
+              "confidence": 0.00012368500756565481
+            },
+            {
+              "class_name": "stamp",
+              "confidence": 0.00010618112719384953
+            },
+            {
+              "class_name": "box_plot",
+              "confidence": 0.00010474341252120212
+            },
+            {
+              "class_name": "qr_code",
+              "confidence": 5.1486123993527144e-05
+            },
+            {
+              "class_name": "bar_code",
+              "confidence": 3.905820267391391e-05
+            },
+            {
+              "class_name": "crossword_puzzle",
+              "confidence": 2.29952966037672e-05
+            },
+            {
+              "class_name": "topographical_map",
+              "confidence": 5.423146376415389e-06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block_id": "#/texts/22",
+      "sequence_number": 4,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "Audit Committee and Board review Q1 + Q2 topics At Vestas, risk management is an integral part of business operations and strategy. We are committed to proactively identifying and mitigating risks that may affect our short- to medium-term objectives, while addressing long-term risks that could hinder the realisation of our strategic goals. These efforts help us protect Vestas' future and ensure long-term resilience.",
+      "character_count": 419,
+      "word_count": 63,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 179.2205,
+            "t": 77.67700097656257,
+            "r": 261.4705,
+            "b": 63.11385179241336,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            47
+          ]
+        },
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 297.6378,
+            "t": 512.2734009765626,
+            "r": 543.2814000000003,
+            "b": 406.1280023751639,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            48,
+            419
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/23",
+      "sequence_number": 5,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Enterprise Risk Management",
+      "character_count": 26,
+      "word_count": 3,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 297.6378,
+            "t": 355.89340097656253,
+            "r": 404.9596499999995,
+            "b": 348.8696035082081,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            26
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/24",
+      "sequence_number": 6,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "Operating across diverse markets and a rapidly evolving industry landscape, Vestas is exposed to a wide array of risks that reflect the complexity and global nature of our business. These risks include operational, commercial, macroeconomic, and regulatory challenges.",
+      "character_count": 268,
+      "word_count": 38,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 297.6378,
+            "t": 344.8944009765625,
+            "r": 539.2749499999998,
+            "b": 304.89807696723847,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            268
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/25",
+      "sequence_number": 7,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "Our Enterprise Risk Management (ERM) framework ensures a structured approach to identifying, assessing, mitigating, and monitoring the risks we face. It promotes transparency and a shared understanding of risk, helping to safeguard our strategic and financial ambitions. Our ERM also aims to create and protect shareholder value, ensuring risk awareness and balancing risk against reward.",
+      "character_count": 388,
+      "word_count": 55,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 297.6378,
+            "t": 289.89940097656245,
+            "r": 530.9143499999999,
+            "b": 216.90607696723845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            388
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/26",
+      "sequence_number": 8,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "Vestas' most significant risks, including material sustainability topics such as climate change mitigation and responsible business conduct, are reviewed every six months by the Executive Management Team, the Board of Directors, and the Audit Committee.",
+      "character_count": 253,
+      "word_count": 35,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 297.6378,
+            "t": 201.90740097656249,
+            "r": 545.8318500000003,
+            "b": 161.9110769672385,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            253
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/27",
+      "sequence_number": 9,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "These reviews are informed by insights from management teams across the organisation and include all types of risk that could materially affect the achievement of our strategic objectives.",
+      "character_count": 188,
+      "word_count": 28,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 297.6378,
+            "t": 146.91240097656248,
+            "r": 533.2305999999998,
+            "b": 117.91507696723846,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            188
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/28",
+      "sequence_number": 10,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "A condensed overview of our key enterprise risks, is provided on the next page.",
+      "character_count": 79,
+      "word_count": 14,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 297.6378,
+            "t": 102.9164009765625,
+            "r": 542.1216,
+            "b": 84.91807696723845,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            79
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/29",
+      "sequence_number": 11,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Our risk management governance",
+      "character_count": 30,
+      "word_count": 4,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 627.1653,
+            "t": 358.2734009765626,
+            "r": 795.8000999999994,
+            "b": 348.39200237516394,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            30
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/30",
+      "sequence_number": 12,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Audit (3rd line)",
+      "character_count": 16,
+      "word_count": 3,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 627.1654,
+            "t": 322.89040097656255,
+            "r": 682.0975000000005,
+            "b": 315.86660350820813,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            16
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/31",
+      "sequence_number": 13,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Board of Directors/Audit Committee / Executive Management Team",
+      "character_count": 62,
+      "word_count": 8,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 627.1653,
+            "t": 305.6284009765625,
+            "r": 735.9453,
+            "b": 291.04509717909417,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            62
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/32",
+      "sequence_number": 14,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "Responsible for providing assurance on the design and effectiveness of Vestas' risk management.",
+      "character_count": 95,
+      "word_count": 13,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 627.1653,
+            "t": 286.6094009765625,
+            "r": 786.8836000000001,
+            "b": 272.04625179241333,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            95
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/33",
+      "sequence_number": 15,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Assurance (2nd line)",
+      "character_count": 20,
+      "word_count": 3,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 627.1654,
+            "t": 212.8919009765625,
+            "r": 702.2858499999995,
+            "b": 205.8681035082081,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            20
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/34",
+      "sequence_number": 16,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "EVP area and Regional leadership teams / Risk Committee/ Corporate ERM",
+      "character_count": 70,
+      "word_count": 11,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 627.1653,
+            "t": 195.62340097656255,
+            "r": 748.4333000000001,
+            "b": 181.04009717909423,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            70
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/35",
+      "sequence_number": 17,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "Responsible for designing and supervising risk management systems, and for monitoring risks to ensure they are managed within acceptable limits.",
+      "character_count": 144,
+      "word_count": 20,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 627.1653,
+            "t": 178.02540097656254,
+            "r": 807.3018999999997,
+            "b": 154.66325179241335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            144
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/36",
+      "sequence_number": 18,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Operational (1st line)",
+      "character_count": 22,
+      "word_count": 3,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 627.1654,
+            "t": 102.89340097656253,
+            "r": 705.0347499999998,
+            "b": 95.86960350820812,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            22
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/37",
+      "sequence_number": 19,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Risk Owners, Risk Officers and Action Owners",
+      "character_count": 44,
+      "word_count": 7,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 627.1653,
+            "t": 87.89340097656253,
+            "r": 762.8029,
+            "b": 82.10909717909419,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            44
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/38",
+      "sequence_number": 20,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "The individuals responsible for managing risks on a day-to-day basis to achieve Vestas' business objectives.",
+      "character_count": 108,
+      "word_count": 15,
+      "page_numbers": [
+        50
+      ],
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 627.1653,
+            "t": 77.67340097656256,
+            "r": 788.8002000000002,
+            "b": 63.11025179241335,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            108
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/46",
+      "sequence_number": 21,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Main risks",
+      "character_count": 10,
+      "word_count": 2,
+      "page_numbers": [
+        51
+      ],
+      "provenance": [
+        {
+          "page_number": 51,
+          "bbox": {
+            "l": 34.0157,
+            "t": 499.64270097656254,
+            "r": 107.98310000000001,
+            "b": 484.53528838914997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            10
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/47",
+      "sequence_number": 22,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Geopolitics and regulatory framework",
+      "character_count": 36,
+      "word_count": 4,
+      "page_numbers": [
+        51
+      ],
+      "provenance": [
+        {
+          "page_number": 51,
+          "bbox": {
+            "l": 231.7323,
+            "t": 509.31270097656255,
+            "r": 364.97310000000016,
+            "b": 485.6793023751639,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            36
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/48",
+      "sequence_number": 23,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Project execution",
+      "character_count": 17,
+      "word_count": 2,
+      "page_numbers": [
+        51
+      ],
+      "provenance": [
+        {
+          "page_number": 51,
+          "bbox": {
+            "l": 429.4443,
+            "t": 495.56070097656254,
+            "r": 516.0590999999998,
+            "b": 485.6793023751639,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            17
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/49",
+      "sequence_number": 24,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Cyber attacks",
+      "character_count": 13,
+      "word_count": 2,
+      "page_numbers": [
+        51
+      ],
+      "provenance": [
+        {
+          "page_number": 51,
+          "bbox": {
+            "l": 627.1563,
+            "t": 495.56070097656254,
+            "r": 695.7266999999999,
+            "b": 485.6793023751639,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            13
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/tables/0",
+      "sequence_number": 25,
+      "hierarchy_level": 1,
+      "type": "table",
+      "text": "",
+      "character_count": 0,
+      "word_count": 0,
+      "page_numbers": [
+        51
+      ],
+      "provenance": [
+        {
+          "page_number": 51,
+          "bbox": {
+            "l": 31.90281460634178,
+            "t": 474.0063569964841,
+            "r": 808.7397433821722,
+            "b": 109.50832381471997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            0
+          ]
+        }
+      ],
+      "annotations": []
+    }
+  ],
+  "tables": [
+    {
+      "table_id": "#/tables/0",
+      "table_number": 1,
+      "page_numbers": [
+        51
+      ],
+      "columns": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "rows": [
+        [
+          "Description",
+          "In 2025, Vestas continued to navigate significant challenges arising from shifting geopolitical tensions across the world. Conflicts in Ukraine and the Middle East continued to disrupt regional stability, affecting global supply chains and business operations. Trade tensions between major economies have intensified, leading to tariffs, sanctions, export controls, and targeted restrictions on e.g. critical materials which complicate global operations. Governments in the EU, China, and the USA introduced assertive industrial policies aimed at securing domestic manufacturing and energy independence. These shifts are reshaping the regulatory landscape, altering market incentives, and intensifying competition in the clean-tech sector. For Vestas, this situation means navigating an increasingly fragmented and unpredictable global environment, while continuously adapting to external forces beyond our control.",
+          "Project execution at Vestas involves delivering complex onshore and offshore projects within specified parameters relating to quality, cost, and timeline. As the scale and complexity of offshore projects grow, so does the need for precise internal coordination. Execution is affected by delays in production capacity ramp-up, quality control issues during scaling, and supply chain disruptions. The lack of industry-wide standardisation and insufficient logistical infrastructure further complicate timely delivery. Success also depends on external factors, such as supportive regulatory frameworks, the cross-border mobility of skilled workers, and the availability of a sustainable and scalable supply chain, all of which remain vulnerable to geopolitical and market shifts.",
+          "Vestas' digital and other critical assets are exposed to cyber attacks. A cyber attack may have dual implications for both Vestas as a company and for the societies that our energy solutions serve. Electricity producers rely on Vestas' energy solutions for reliable and secure sustainable energy production, making these solutions critical infrastructure for societies around the world. Cyber-threat actors constantly evolve their methods and techniques to attack Vestas' energy solutions, for the purpose of extorsion or to destabilise energy generation. Vestas' technology, data, and operations are a potential target for geopolitical actors and the cyber-criminal industry."
+        ],
+        [
+          "Potential impact",
+          "Geopolitical tensions and regulatory shifts create uncertainty across global markets, which can disrupt and delay supply chains, and increase costs through tariffs and trade barriers. These dynamics may weaken project economics, reduce market volumes, and challenge Vestas' ability to maintain cost efficiency and competitiveness.",
+          "Challenges in project execution can lead to delays in delivery, cost overruns, and margin erosion, particularly as offshore projects grow in scale and complexity. Quality issues may result in formal disputes and reputational damage. These factors can undermine Vestas' ability to secure new business, reduce investor confidence, and weaken long-term competitiveness in the global wind market.",
+          "Politically motivated cyber actors may seek to disrupt energy production. A cyber attack on Vestas may be designed to impact our customers' operations, causing electricity outage and physical damage to assets. A successful cyber attack on Vestas' energy solutions and our infrastructures might result in significant economic loss and reputational damage."
+        ],
+        [
+          "How we manage it",
+          "We manage geopolitical risks by continuously monitoring global developments and implementing appropriate mitigations. By maintaining a global and regionalised manufacturing footprint, Vestas can effectively respond to geopolitical shifts and regulatory changes. Proactive advocacy ensures alignment and compliance with evolving policies and the regulatory climate. Additionally, we exercise commercial discipline and utilise indexation and financial hedging strategies to minimise exposure.",
+          "We mitigate execution risks through project governance, enhanced planning functions, and continuous alignment between commercial and delivery teams. We invest in scalable manufacturing capacity and maintain close coordination with suppliers to secure timely component availability.",
+          "As a global manufacturer and key contributor to critical infrastructure, Vestas is required to continuously address evolving cyber risks, both to our company and to the customers we serve. We are developing cyber security services aimed at helping our customers navigate cyber risks effectively, fulfil industry requirements and standards, and uphold their responsibilities. During 2025, our cyber security efforts were effective and no critical cyber security incidents took place."
+        ]
+      ],
+      "row_count": 3,
+      "column_count": 4,
+      "markdown": "| 0                | 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |\n|:-----------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Description      | In 2025, Vestas continued to navigate significant challenges arising from shifting geopolitical tensions across the world. Conflicts in Ukraine and the Middle East continued to disrupt regional stability, affecting global supply chains and business operations. Trade tensions between major economies have intensified, leading to tariffs, sanctions, export controls, and targeted restrictions on e.g. critical materials which complicate global operations. Governments in the EU, China, and the USA introduced assertive industrial policies aimed at securing domestic manufacturing and energy independence. These shifts are reshaping the regulatory landscape, altering market incentives, and intensifying competition in the clean-tech sector. For Vestas, this situation means navigating an increasingly fragmented and unpredictable global environment, while continuously adapting to external forces beyond our control. | Project execution at Vestas involves delivering complex onshore and offshore projects within specified parameters relating to quality, cost, and timeline. As the scale and complexity of offshore projects grow, so does the need for precise internal coordination. Execution is affected by delays in production capacity ramp-up, quality control issues during scaling, and supply chain disruptions. The lack of industry-wide standardisation and insufficient logistical infrastructure further complicate timely delivery. Success also depends on external factors, such as supportive regulatory frameworks, the cross-border mobility of skilled workers, and the availability of a sustainable and scalable supply chain, all of which remain vulnerable to geopolitical and market shifts. | Vestas' digital and other critical assets are exposed to cyber attacks. A cyber attack may have dual implications for both Vestas as a company and for the societies that our energy solutions serve. Electricity producers rely on Vestas' energy solutions for reliable and secure sustainable energy production, making these solutions critical infrastructure for societies around the world. Cyber-threat actors constantly evolve their methods and techniques to attack Vestas' energy solutions, for the purpose of extorsion or to destabilise energy generation. Vestas' technology, data, and operations are a potential target for geopolitical actors and the cyber-criminal industry. |\n| Potential impact | Geopolitical tensions and regulatory shifts create uncertainty across global markets, which can disrupt and delay supply chains, and increase costs through tariffs and trade barriers. These dynamics may weaken project economics, reduce market volumes, and challenge Vestas' ability to maintain cost efficiency and competitiveness.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Challenges in project execution can lead to delays in delivery, cost overruns, and margin erosion, particularly as offshore projects grow in scale and complexity. Quality issues may result in formal disputes and reputational damage. These factors can undermine Vestas' ability to secure new business, reduce investor confidence, and weaken long-term competitiveness in the global wind market.                                                                                                                                                                                                                                                                                                                                                                                                 | Politically motivated cyber actors may seek to disrupt energy production. A cyber attack on Vestas may be designed to impact our customers' operations, causing electricity outage and physical damage to assets. A successful cyber attack on Vestas' energy solutions and our infrastructures might result in significant economic loss and reputational damage.                                                                                                                                                                                                                                                                                                                                   |\n| How we manage it | We manage geopolitical risks by continuously monitoring global developments and implementing appropriate mitigations. By maintaining a global and regionalised manufacturing footprint, Vestas can effectively respond to geopolitical shifts and regulatory changes. Proactive advocacy ensures alignment and compliance with evolving policies and the regulatory climate. Additionally, we exercise commercial discipline and utilise indexation and financial hedging strategies to minimise exposure.                                                                                                                                                                                                                                                                                                                                                                                                                                          | We mitigate execution risks through project governance, enhanced planning functions, and continuous alignment between commercial and delivery teams. We invest in scalable manufacturing capacity and maintain close coordination with suppliers to secure timely component availability.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | As a global manufacturer and key contributor to critical infrastructure, Vestas is required to continuously address evolving cyber risks, both to our company and to the customers we serve. We are developing cyber security services aimed at helping our customers navigate cyber risks effectively, fulfil industry requirements and standards, and uphold their responsibilities. During 2025, our cyber security efforts were effective and no critical cyber security incidents took place.                                                                                                                                                                                                   |",
+      "provenance": [
+        {
+          "page_number": 51,
+          "bbox": {
+            "l": 31.90281460634178,
+            "t": 474.0063569964841,
+            "r": 808.7397433821722,
+            "b": 109.50832381471997,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            0
+          ]
+        }
+      ],
+      "warning": null
+    }
+  ],
+  "pictures": [
+    {
+      "picture_id": "#/pictures/0",
+      "picture_number": 1,
+      "page_numbers": [
+        50
+      ],
+      "classification": {
+        "primary_label": "flow_chart",
+        "labels": [
+          "flow_chart",
+          "pie_chart",
+          "screenshot_from_manual",
+          "engineering_drawing",
+          "icon",
+          "full_page_image",
+          "screenshot_from_computer",
+          "logo",
+          "page_thumbnail",
+          "bar_chart",
+          "table",
+          "other",
+          "line_chart",
+          "geographical_map",
+          "calendar",
+          "chemistry_structure",
+          "scatter_plot",
+          "photograph",
+          "music",
+          "signature",
+          "stamp",
+          "box_plot",
+          "qr_code",
+          "bar_code",
+          "crossword_puzzle",
+          "topographical_map",
+          "chart",
+          "photo"
+        ],
+        "confidence_scores": [
+          0.8079414367675781,
+          0.12259072810411453,
+          0.018374208360910416,
+          0.013023760169744492,
+          0.009796222671866417,
+          0.00949222594499588,
+          0.004043665714561939,
+          0.0031475434079766273,
+          0.002202332252636552,
+          0.0021285819821059704,
+          0.0013499403139576316,
+          0.001264840946532786,
+          0.0011091901687905192,
+          0.000977358897216618,
+          0.0008290051482617855,
+          0.0005147525225766003,
+          0.00038810857222415507,
+          0.00022935887682251632,
+          0.0001431481505278498,
+          0.00012368500756565481,
+          0.00010618112719384953,
+          0.00010474341252120212,
+          5.1486123993527144e-05,
+          3.905820267391391e-05,
+          2.29952966037672e-05,
+          5.423146376415389e-06
+        ]
+      },
+      "provenance": [
+        {
+          "page_number": 50,
+          "bbox": {
+            "l": 32.03231810413538,
+            "t": 343.6476294588298,
+            "r": 263.5187657841674,
+            "b": 72.31270274221902,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            0
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "kind": "classification",
+          "provenance": "DocumentPictureClassifier",
+          "predicted_classes": [
+            {
+              "class_name": "flow_chart",
+              "confidence": 0.8079414367675781
+            },
+            {
+              "class_name": "pie_chart",
+              "confidence": 0.12259072810411453
+            },
+            {
+              "class_name": "screenshot_from_manual",
+              "confidence": 0.018374208360910416
+            },
+            {
+              "class_name": "engineering_drawing",
+              "confidence": 0.013023760169744492
+            },
+            {
+              "class_name": "icon",
+              "confidence": 0.009796222671866417
+            },
+            {
+              "class_name": "full_page_image",
+              "confidence": 0.00949222594499588
+            },
+            {
+              "class_name": "screenshot_from_computer",
+              "confidence": 0.004043665714561939
+            },
+            {
+              "class_name": "logo",
+              "confidence": 0.0031475434079766273
+            },
+            {
+              "class_name": "page_thumbnail",
+              "confidence": 0.002202332252636552
+            },
+            {
+              "class_name": "bar_chart",
+              "confidence": 0.0021285819821059704
+            },
+            {
+              "class_name": "table",
+              "confidence": 0.0013499403139576316
+            },
+            {
+              "class_name": "other",
+              "confidence": 0.001264840946532786
+            },
+            {
+              "class_name": "line_chart",
+              "confidence": 0.0011091901687905192
+            },
+            {
+              "class_name": "geographical_map",
+              "confidence": 0.000977358897216618
+            },
+            {
+              "class_name": "calendar",
+              "confidence": 0.0008290051482617855
+            },
+            {
+              "class_name": "chemistry_structure",
+              "confidence": 0.0005147525225766003
+            },
+            {
+              "class_name": "scatter_plot",
+              "confidence": 0.00038810857222415507
+            },
+            {
+              "class_name": "photograph",
+              "confidence": 0.00022935887682251632
+            },
+            {
+              "class_name": "music",
+              "confidence": 0.0001431481505278498
+            },
+            {
+              "class_name": "signature",
+              "confidence": 0.00012368500756565481
+            },
+            {
+              "class_name": "stamp",
+              "confidence": 0.00010618112719384953
+            },
+            {
+              "class_name": "box_plot",
+              "confidence": 0.00010474341252120212
+            },
+            {
+              "class_name": "qr_code",
+              "confidence": 5.1486123993527144e-05
+            },
+            {
+              "class_name": "bar_code",
+              "confidence": 3.905820267391391e-05
+            },
+            {
+              "class_name": "crossword_puzzle",
+              "confidence": 2.29952966037672e-05
+            },
+            {
+              "class_name": "topographical_map",
+              "confidence": 5.423146376415389e-06
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "markdown": "## Risk management\n\n## Enterprise Risk Management annual wheel\n\n<!-- image -->\n\nFlow chart\n\nAudit Committee and Board review Q1 + Q2 topics At Vestas, risk management is an integral part of business operations and strategy. We are committed to proactively identifying and mitigating risks that may affect our short- to medium-term objectives, while addressing long-term risks that could hinder the realisation of our strategic goals. These efforts help us protect Vestas' future and ensure long-term resilience.\n\n## Enterprise Risk Management\n\nOperating across diverse markets and a rapidly evolving industry landscape, Vestas is exposed to a wide array of risks that reflect the complexity and global nature of our business. These risks include operational, commercial, macroeconomic, and regulatory challenges.\n\nOur Enterprise Risk Management (ERM) framework ensures a structured approach to identifying, assessing, mitigating, and monitoring the risks we face. It promotes transparency and a shared understanding of risk, helping to safeguard our strategic and financial ambitions. Our ERM also aims to create and protect shareholder value, ensuring risk awareness and balancing risk against reward.\n\nVestas' most significant risks, including material sustainability topics such as climate change mitigation and responsible business conduct, are reviewed every six months by the Executive Management Team, the Board of Directors, and the Audit Committee.\n\nThese reviews are informed by insights from management teams across the organisation and include all types of risk that could materially affect the achievement of our strategic objectives.\n\nA condensed overview of our key enterprise risks, is provided on the next page.\n\n## Our risk management governance\n\n## Audit (3rd line)\n\n## Board of Directors/Audit Committee / Executive Management Team\n\nResponsible for providing assurance on the design and effectiveness of Vestas' risk management.\n\n## Assurance (2nd line)\n\n## EVP area and Regional leadership teams / Risk Committee/ Corporate ERM\n\nResponsible for designing and supervising risk management systems, and for monitoring risks to ensure they are managed within acceptable limits.\n\n## Operational (1st line)\n\n## Risk Owners, Risk Officers and Action Owners\n\nThe individuals responsible for managing risks on a day-to-day basis to achieve Vestas' business objectives.\n\n## Main risks\n\n## Geopolitics and regulatory framework\n\n## Project execution\n\n## Cyber attacks\n\n| Description      | In 2025, Vestas continued to navigate significant challenges arising from shifting geopolitical tensions across the world. Conflicts in Ukraine and the Middle East continued to disrupt regional stability, affecting global supply chains and business operations. Trade tensions between major economies have intensified, leading to tariffs, sanctions, export controls, and targeted restrictions on e.g. critical materials which complicate global operations. Governments in the EU, China, and the USA introduced assertive industrial policies aimed at securing domestic manufacturing and energy independence. These shifts are reshaping the regulatory landscape, altering market incentives, and intensifying competition in the clean-tech sector. For Vestas, this situation means navigating an increasingly fragmented and unpredictable global environment, while continuously adapting to external forces beyond our control.   | Project execution at Vestas involves delivering complex onshore and offshore projects within specified parameters relating to quality, cost, and timeline. As the scale and complexity of offshore projects grow, so does the need for precise internal coordination. Execution is affected by delays in production capacity ramp-up, quality control issues during scaling, and supply chain disruptions. The lack of industry-wide standardisation and insufficient logistical infrastructure further complicate timely delivery. Success also depends on external factors, such as supportive regulatory frameworks, the cross-border mobility of skilled workers, and the availability of a sustainable and scalable supply chain, all of which remain vulnerable to geopolitical and market shifts.   | Vestas' digital and other critical assets are exposed to cyber attacks. A cyber attack may have dual implications for both Vestas as a company and for the societies that our energy solutions serve. Electricity producers rely on Vestas' energy solutions for reliable and secure sustainable energy production, making these solutions critical infrastructure for societies around the world. Cyber-threat actors constantly evolve their methods and techniques to attack Vestas' energy solutions, for the purpose of extorsion or to destabilise energy generation. Vestas' technology, data, and operations are a potential target for geopolitical actors and the cyber-criminal industry.   |\n|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Potential impact | Geopolitical tensions and regulatory shifts create uncertainty across global markets, which can disrupt and delay supply chains, and increase costs through tariffs and trade barriers. These dynamics may weaken project economics, reduce market volumes, and challenge Vestas' ability to maintain cost efficiency and competitiveness.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Challenges in project execution can lead to delays in delivery, cost overruns, and margin erosion, particularly as offshore projects grow in scale and complexity. Quality issues may result in formal disputes and reputational damage. These factors can undermine Vestas' ability to secure new business, reduce investor confidence, and weaken long-term competitiveness in the global wind market.                                                                                                                                                                                                                                                                                                                                                                                                   | Politically motivated cyber actors may seek to disrupt energy production. A cyber attack on Vestas may be designed to impact our customers' operations, causing electricity outage and physical damage to assets. A successful cyber attack on Vestas' energy solutions and our infrastructures might result in significant economic loss and reputational damage.                                                                                                                                                                                                                                                                                                                                     |\n| How we manage it | We manage geopolitical risks by continuously monitoring global developments and implementing appropriate mitigations. By maintaining a global and regionalised manufacturing footprint, Vestas can effectively respond to geopolitical shifts and regulatory changes. Proactive advocacy ensures alignment and compliance with evolving policies and the regulatory climate. Additionally, we exercise commercial discipline and utilise indexation and financial hedging strategies to minimise exposure.                                                                                                                                                                                                                                                                                                                                                                                                                                            | We mitigate execution risks through project governance, enhanced planning functions, and continuous alignment between commercial and delivery teams. We invest in scalable manufacturing capacity and maintain close coordination with suppliers to secure timely component availability.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | As a global manufacturer and key contributor to critical infrastructure, Vestas is required to continuously address evolving cyber risks, both to our company and to the customers we serve. We are developing cyber security services aimed at helping our customers navigate cyber risks effectively, fulfil industry requirements and standards, and uphold their responsibilities. During 2025, our cyber security efforts were effective and no critical cyber security incidents took place.                                                                                                                                                                                                     |",
+  "quality": {
+    "pages_processed": 2,
+    "pages_with_text": 2,
+    "pages_with_tables": 1,
+    "pages_with_pictures": 1,
+    "pages_requiring_ocr": 0,
+    "ocr_pages_processed": 0,
+    "empty_pages": 0,
+    "failed_pages": 0,
+    "overall_quality_score": 1.0
+  },
+  "warnings": [],
+  "errors": []
+}

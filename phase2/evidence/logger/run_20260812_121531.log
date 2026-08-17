@@ -1,0 +1,58 @@
+2026-08-12 12:15:31,150 | INFO | PIPELINE | run_id=20260812_121531 | STARTED
+2026-08-12 12:15:31,150 | INFO | PIPELINE | log_file=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\logger\run_20260812_121531.log
+2026-08-12 12:15:31,150 | INFO | PIPELINE | run_id=20260812_121531 | STEP_1 | STARTED
+2026-08-12 12:15:31,150 | INFO | STEP_1 | risk_analysis | STARTED
+2026-08-12 12:15:31,150 | INFO | STEP_1 | input_load | STARTED
+2026-08-12 12:15:31,150 | INFO | STEP_1 | input_file=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\InputJson\VestasAnnualReport2025.json
+2026-08-12 12:15:31,150 | INFO | STEP_1 | input_load | SUCCESS | pages=6
+2026-08-12 12:15:31,150 | INFO | STEP_1 | enterprise_table | page=51 | block=block-5 | rows=3
+2026-08-12 12:15:31,167 | INFO | STEP_1 | topic_detected | page=71 | code=E1 | topic=Climate Change | block=block-3
+2026-08-12 12:15:31,167 | INFO | STEP_1 | topic_detected | page=72 | code=E4 | topic=Biodiversity and ecosystems | block=block-1
+2026-08-12 12:15:31,167 | INFO | STEP_1 | topic_detected | page=72 | code=E5 | topic=Circular economy and resource use | block=block-2
+2026-08-12 12:15:31,167 | INFO | STEP_1 | topic_detected | page=73 | code=S1 | topic=Own Workforce | block=block-1
+2026-08-12 12:15:31,167 | INFO | STEP_1 | topic_detected | page=73 | code=S2 | topic=Workers in the value chain | block=block-6
+2026-08-12 12:15:31,167 | INFO | STEP_1 | topic_detected | page=74 | code=S3 | topic=Affected communities | block=block-1
+2026-08-12 12:15:31,167 | INFO | STEP_1 | topic_detected | page=74 | code=G1 | topic=Business Conduct | block=block-7
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_detected | page=71 | block=block-13 | rows=5
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_detected | page=72 | block=block-9 | rows=1
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_detected | page=72 | block=block-10 | rows=3
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_detected | page=73 | block=block-12 | rows=3
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_detected | page=73 | block=block-13 | rows=3
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_detected | page=74 | block=block-15 | rows=2
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_detected | page=74 | block=block-16 | rows=1
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_detected | page=74 | block=block-17 | rows=3
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_match | page=71 | table=block-13 | topic=E1 | distance=36.35 | overlap=1.00
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_attached | topic=E1 | page=71 | block=block-13 | rows=5
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_match | page=72 | table=block-9 | topic=E4 | distance=17.61 | overlap=1.00
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_attached | topic=E4 | page=72 | block=block-9 | rows=1
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_match | page=72 | table=block-10 | topic=E5 | distance=32.82 | overlap=1.00
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_attached | topic=E5 | page=72 | block=block-10 | rows=3
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_match | page=73 | table=block-12 | topic=S1 | distance=35.06 | overlap=1.00
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_attached | topic=S1 | page=73 | block=block-12 | rows=3
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_match | page=73 | table=block-13 | topic=S2 | distance=34.15 | overlap=1.00
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_attached | topic=S2 | page=73 | block=block-13 | rows=3
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_match | page=74 | table=block-15 | topic=S3 | distance=35.02 | overlap=0.57
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_attached | topic=S3 | page=74 | block=block-15 | rows=2
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_match | page=74 | table=block-16 | topic=S3 | distance=35.38 | overlap=0.00
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_attached | topic=S3 | page=74 | block=block-16 | rows=1
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_match | page=74 | table=block-17 | topic=G1 | distance=35.54 | overlap=1.00
+2026-08-12 12:15:31,167 | INFO | STEP_1 | table_attached | topic=G1 | page=74 | block=block-17 | rows=3
+2026-08-12 12:15:31,167 | INFO | STEP_1 | risk_analysis | SUCCESS | topics=7 | material_tables=8 | topics_without_tables=0
+2026-08-12 12:15:31,169 | INFO | STEP_1 | output_write | SUCCESS | output=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\output\risk_analysis.json
+2026-08-12 12:15:31,169 | INFO | PIPELINE | run_id=20260812_121531 | STEP_1 | SUCCESS
+2026-08-12 12:15:31,169 | INFO | PIPELINE | run_id=20260812_121531 | STEP_2 | STARTED
+2026-08-12 12:15:31,171 | INFO | STEP_2 | generation | STARTED
+2026-08-12 12:15:31,171 | INFO | STEP_2 | candidate_load | STARTED | file=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\output\risk_analysis.json
+2026-08-12 12:15:31,181 | INFO | STEP_2 | candidate_load | SUCCESS | candidates=0
+2026-08-12 12:15:31,181 | INFO | STEP_2 | llm_health | STARTED | provider=openrouter | model=google/gemma-4-26b-a4b-it:free
+2026-08-12 12:15:31,459 | INFO | STEP_2 | llm_health | SUCCESS | status=200 | latency_ms=272.87
+2026-08-12 12:15:31,461 | INFO | STEP_2 | prompt_load | name=risk_extraction | version=2.0 | hash=d1c4a7678578
+2026-08-12 12:15:31,461 | INFO | STEP_2 | contexts | count=0 | candidates=0
+2026-08-12 12:15:31,461 | INFO | STEP_2 | generation | SUCCESS | risks=0
+2026-08-12 12:15:31,462 | INFO | STEP_2 | output_write | SUCCESS | output=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\output\raw_generation.json
+2026-08-12 12:15:31,462 | INFO | PIPELINE | run_id=20260812_121531 | STEP_2 | SUCCESS
+2026-08-12 12:15:31,462 | INFO | PIPELINE | run_id=20260812_121531 | STEP_3 | STARTED
+2026-08-12 12:15:31,462 | INFO | STEP_3 | validation | STARTED
+2026-08-12 12:15:31,474 | INFO | STEP_3 | validation | SUCCESS | final_risks=0
+2026-08-12 12:15:31,474 | INFO | PIPELINE | run_id=20260812_121531 | STEP_3 | SUCCESS
+2026-08-12 12:15:31,474 | INFO | PIPELINE | run_id=20260812_121531 | COMPLETED | output=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\output\risks.json

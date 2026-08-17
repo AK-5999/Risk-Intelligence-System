@@ -1,0 +1,10 @@
+{
+  "page_number": 38,
+  "description": "Our global footprint - full-page world map infographic (known limitation: maps). Golden intentionally kept minimal since almost all page content is map-illustration data, not text.",
+  "expected_headings": [
+    "Our global footprint"
+  ],
+  "required_text_fragments": [],
+  "expected_tables": [],
+  "provenance_required": false
+}

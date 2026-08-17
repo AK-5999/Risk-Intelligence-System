@@ -1,0 +1,998 @@
+{
+  "document_id": "72e1aba1-bd6a-4722-9bf8-edd03caba390",
+  "document_hash": "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc",
+  "source": {
+    "file_name": "VestasAnnualReport2025.pdf",
+    "file_type": "pdf",
+    "file_size_bytes": 7656538,
+    "source_path": "D:\\Coding\\Vestas\\Pipeline\\data\\VestasAnnualReport2025.pdf"
+  },
+  "document_metadata": {
+    "page_count": 1,
+    "processed_page_range": [
+      3,
+      3
+    ],
+    "title": "VestasAnnualReport2025"
+  },
+  "processing": {
+    "parser_name": "docling-adaptive-pdf-parser",
+    "parser_version": "3.0.0",
+    "processing_started_at": "2026-08-06T14:43:42.755768+00:00",
+    "processing_completed_at": "2026-08-06T14:44:15.580403+00:00",
+    "status": "completed",
+    "strategy": "adaptive_two_pass",
+    "pass_1": {
+      "purpose": "Layout and native-content detection",
+      "ocr_enabled": false
+    },
+    "pass_2": {
+      "purpose": "OCR only on candidate pages",
+      "ocr_enabled": true,
+      "candidate_pages": [],
+      "processed_pages": []
+    }
+  },
+  "content_summary": {
+    "total_blocks": 8,
+    "total_tables": 0,
+    "total_pictures": 1,
+    "label_counts": {
+      "picture": 1,
+      "caption": 1,
+      "section_header": 3,
+      "text": 3
+    },
+    "page_type_counts": {
+      "mixed": 1
+    },
+    "ocr_required_page_count": 0,
+    "ocr_required_pages": []
+  },
+  "pages": [
+    {
+      "page_number": 3,
+      "page_type": "mixed",
+      "contains": {
+        "text": true,
+        "table": false,
+        "picture": true,
+        "chart": true,
+        "diagram": false
+      },
+      "native_text": "Letter from the Chair & CEO\nGenerating value amidst growing uncertainty\nDear stakeholder,\nThe year 2025 marked a defining moment for Vestas. Despite geopolitical uncertainty and supply chain disruptions, we strengthened our  strategic  position  and  delivered  against  important  milestones that  underline  our  role  as  a  global  leader  in  sustainable  energy. By  year-end,  Vestas  reached  201  GW  of  installed  wind  capacity worldwide  -  testament  to  more  than  45  years  of  innovation  and execution, and to the growing prominence and competitiveness of wind energy in the global energy mix.\nThis  achievement  was  complemented  by  strong  operational  and financial  progress  that  ensures  we  completed  the  turnaround  from our 2022 low-point. We continued to benefit from our growing and healthy order backlog, while taking a major step forward in offshore wind. Our flagship V236-15.0 MW™ turbine produced first power at He Dreiht, five years after our return to the sector with the acquisition of  MHI  Vestas  Offshore.  These  milestones  demonstrate  that  our strategy is working and that Vestas was, yet again, strategically and financially stronger by the end of the year than it had been at the start.\nDelivering affordable, secure and sustainable energy\nThe global environment became more complex in 2025. Geopolitical tensions,  trade  disruptions  and  protectionist  measures  challenged supply chains and increased costs, ultimately impacting power prices. At  the  same  time,  the  energy  debate  continued  to  lack  factual discourse, slowing progress and creating uncertainty. We must insist on facts, because only through informed decisions will we ensure that we can meet energy demand in the future, making investments with a 30-plus-year horizon. The failure of COP30 to deliver binding commitments, as well as the bureaucratic mess we face with permitting in many markets and CSRD regulation in the EU, are stark reminders that good intentions are insufficient without action. Ultimately, we risk  leaving  higher  electricity  bills  for  future  generations  despite having the right tools at our disposal now. The Draghi report highlights  what  society  could  and  should  achieve  if  we  dare  to  put  our money where our mouth is; so let's make sure we follow through.",
+      "ocr_text": "",
+      "final_text": "Letter from the Chair & CEO\nGenerating value amidst growing uncertainty\nDear stakeholder,\nThe year 2025 marked a defining moment for Vestas. Despite geopolitical uncertainty and supply chain disruptions, we strengthened our  strategic  position  and  delivered  against  important  milestones that  underline  our  role  as  a  global  leader  in  sustainable  energy. By  year-end,  Vestas  reached  201  GW  of  installed  wind  capacity worldwide  -  testament  to  more  than  45  years  of  innovation  and execution, and to the growing prominence and competitiveness of wind energy in the global energy mix.\nThis  achievement  was  complemented  by  strong  operational  and financial  progress  that  ensures  we  completed  the  turnaround  from our 2022 low-point. We continued to benefit from our growing and healthy order backlog, while taking a major step forward in offshore wind. Our flagship V236-15.0 MW™ turbine produced first power at He Dreiht, five years after our return to the sector with the acquisition of  MHI  Vestas  Offshore.  These  milestones  demonstrate  that  our strategy is working and that Vestas was, yet again, strategically and financially stronger by the end of the year than it had been at the start.\nDelivering affordable, secure and sustainable energy\nThe global environment became more complex in 2025. Geopolitical tensions,  trade  disruptions  and  protectionist  measures  challenged supply chains and increased costs, ultimately impacting power prices. At  the  same  time,  the  energy  debate  continued  to  lack  factual discourse, slowing progress and creating uncertainty. We must insist on facts, because only through informed decisions will we ensure that we can meet energy demand in the future, making investments with a 30-plus-year horizon. The failure of COP30 to deliver binding commitments, as well as the bureaucratic mess we face with permitting in many markets and CSRD regulation in the EU, are stark reminders that good intentions are insufficient without action. Ultimately, we risk  leaving  higher  electricity  bills  for  future  generations  despite having the right tools at our disposal now. The Draghi report highlights  what  society  could  and  should  achieve  if  we  dare  to  put  our money where our mouth is; so let's make sure we follow through.",
+      "ocr": {
+        "required": false,
+        "reason": null,
+        "applied": false,
+        "success": false,
+        "error": null
+      },
+      "content": [
+        {
+          "type": "caption",
+          "text": "Letter from the Chair & CEO",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 3,
+              "bbox": {
+                "l": 34.0158,
+                "t": 149.27340097656258,
+                "r": 170.9454,
+                "b": 139.392002375164,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                27
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Generating value amidst growing uncertainty",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 3,
+              "bbox": {
+                "l": 34.0157,
+                "t": 122.95340097656253,
+                "r": 427.99969999999985,
+                "b": 51.83527028811443,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                43
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Dear stakeholder,",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 3,
+              "bbox": {
+                "l": 561.2597999999999,
+                "t": 512.2734009765626,
+                "r": 648.2106,
+                "b": 502.39200237516394,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "The year 2025 marked a defining moment for Vestas. Despite geopolitical uncertainty and supply chain disruptions, we strengthened our  strategic  position  and  delivered  against  important  milestones that  underline  our  role  as  a  global  leader  in  sustainable  energy. By  year-end,  Vestas  reached  201  GW  of  installed  wind  capacity worldwide  -  testament  to  more  than  45  years  of  innovation  and execution, and to the growing prominence and competitiveness of wind energy in the global energy mix.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 3,
+              "bbox": {
+                "l": 561.2598,
+                "t": 476.89340097656253,
+                "r": 809.4640499999999,
+                "b": 392.9010769672384,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                523
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "This  achievement  was  complemented  by  strong  operational  and financial  progress  that  ensures  we  completed  the  turnaround  from our 2022 low-point. We continued to benefit from our growing and healthy order backlog, while taking a major step forward in offshore wind. Our flagship V236-15.0 MW™ turbine produced first power at He Dreiht, five years after our return to the sector with the acquisition of  MHI  Vestas  Offshore.  These  milestones  demonstrate  that  our strategy is working and that Vestas was, yet again, strategically and financially stronger by the end of the year than it had been at the start.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 3,
+              "bbox": {
+                "l": 561.2598,
+                "t": 377.9024009765624,
+                "r": 809.4801999999991,
+                "b": 282.9110769672382,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                627
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Delivering affordable, secure and sustainable energy",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 3,
+              "bbox": {
+                "l": 561.2598,
+                "t": 267.9124009765622,
+                "r": 755.8383999999992,
+                "b": 260.8886035082078,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                52
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "The global environment became more complex in 2025. Geopolitical tensions,  trade  disruptions  and  protectionist  measures  challenged supply chains and increased costs, ultimately impacting power prices. At  the  same  time,  the  energy  debate  continued  to  lack  factual discourse, slowing progress and creating uncertainty. We must insist on facts, because only through informed decisions will we ensure that we can meet energy demand in the future, making investments with a 30-plus-year horizon. The failure of COP30 to deliver binding commitments, as well as the bureaucratic mess we face with permitting in many markets and CSRD regulation in the EU, are stark reminders that good intentions are insufficient without action. Ultimately, we risk  leaving  higher  electricity  bills  for  future  generations  despite having the right tools at our disposal now. The Draghi report highlights  what  society  could  and  should  achieve  if  we  dare  to  put  our money where our mouth is; so let's make sure we follow through.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 3,
+              "bbox": {
+                "l": 561.2598,
+                "t": 256.91340097656223,
+                "r": 809.4818999999997,
+                "b": 95.92807696723827,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                1038
+              ]
+            }
+          ]
+        },
+        {
+          "type": "photograph",
+          "classification": {
+            "primary_label": "photograph",
+            "labels": [
+              "photograph",
+              "screenshot_from_computer",
+              "full_page_image",
+              "page_thumbnail",
+              "geographical_map",
+              "logo",
+              "screenshot_from_manual",
+              "music",
+              "qr_code",
+              "calendar",
+              "engineering_drawing",
+              "table",
+              "other",
+              "icon",
+              "stamp",
+              "bar_code",
+              "topographical_map",
+              "bar_chart",
+              "flow_chart",
+              "line_chart",
+              "signature",
+              "pie_chart",
+              "chemistry_structure",
+              "scatter_plot",
+              "crossword_puzzle",
+              "box_plot",
+              "chart",
+              "photo"
+            ],
+            "confidence_scores": [
+              0.9997486472129822,
+              0.00011229170922888443,
+              3.8347585359588265e-05,
+              3.0161689210217446e-05,
+              2.1178739189053886e-05,
+              2.039478022197727e-05,
+              1.3001485967834014e-05,
+              9.162014976027422e-06,
+              1.936557282533613e-06,
+              9.830358749240986e-07,
+              9.617614296075772e-07,
+              8.590978382017056e-07,
+              6.656560458395688e-07,
+              5.448122806228639e-07,
+              2.497307889370859e-07,
+              2.167074342196429e-07,
+              1.8903109832990594e-07,
+              1.2205242683194228e-07,
+              6.844966549124365e-08,
+              6.171138977606461e-08,
+              3.742663778893984e-08,
+              3.457874697687657e-08,
+              7.219827846682847e-09,
+              1.1020997447985792e-09,
+              3.5250830032751423e-10,
+              3.1255456556245065e-11
+            ]
+          },
+          "annotations": [
+            {
+              "kind": "classification",
+              "provenance": "DocumentPictureClassifier",
+              "predicted_classes": [
+                {
+                  "class_name": "photograph",
+                  "confidence": 0.9997486472129822
+                },
+                {
+                  "class_name": "screenshot_from_computer",
+                  "confidence": 0.00011229170922888443
+                },
+                {
+                  "class_name": "full_page_image",
+                  "confidence": 3.8347585359588265e-05
+                },
+                {
+                  "class_name": "page_thumbnail",
+                  "confidence": 3.0161689210217446e-05
+                },
+                {
+                  "class_name": "geographical_map",
+                  "confidence": 2.1178739189053886e-05
+                },
+                {
+                  "class_name": "logo",
+                  "confidence": 2.039478022197727e-05
+                },
+                {
+                  "class_name": "screenshot_from_manual",
+                  "confidence": 1.3001485967834014e-05
+                },
+                {
+                  "class_name": "music",
+                  "confidence": 9.162014976027422e-06
+                },
+                {
+                  "class_name": "qr_code",
+                  "confidence": 1.936557282533613e-06
+                },
+                {
+                  "class_name": "calendar",
+                  "confidence": 9.830358749240986e-07
+                },
+                {
+                  "class_name": "engineering_drawing",
+                  "confidence": 9.617614296075772e-07
+                },
+                {
+                  "class_name": "table",
+                  "confidence": 8.590978382017056e-07
+                },
+                {
+                  "class_name": "other",
+                  "confidence": 6.656560458395688e-07
+                },
+                {
+                  "class_name": "icon",
+                  "confidence": 5.448122806228639e-07
+                },
+                {
+                  "class_name": "stamp",
+                  "confidence": 2.497307889370859e-07
+                },
+                {
+                  "class_name": "bar_code",
+                  "confidence": 2.167074342196429e-07
+                },
+                {
+                  "class_name": "topographical_map",
+                  "confidence": 1.8903109832990594e-07
+                },
+                {
+                  "class_name": "bar_chart",
+                  "confidence": 1.2205242683194228e-07
+                },
+                {
+                  "class_name": "flow_chart",
+                  "confidence": 6.844966549124365e-08
+                },
+                {
+                  "class_name": "line_chart",
+                  "confidence": 6.171138977606461e-08
+                },
+                {
+                  "class_name": "signature",
+                  "confidence": 3.742663778893984e-08
+                },
+                {
+                  "class_name": "pie_chart",
+                  "confidence": 3.457874697687657e-08
+                },
+                {
+                  "class_name": "chemistry_structure",
+                  "confidence": 7.219827846682847e-09
+                },
+                {
+                  "class_name": "scatter_plot",
+                  "confidence": 1.1020997447985792e-09
+                },
+                {
+                  "class_name": "crossword_puzzle",
+                  "confidence": 3.5250830032751423e-10
+                },
+                {
+                  "class_name": "box_plot",
+                  "confidence": 3.1255456556245065e-11
+                }
+              ]
+            }
+          ],
+          "extraction_method": "docling_picture_analysis",
+          "provenance": [
+            {
+              "page_number": 3,
+              "bbox": {
+                "l": 33.517700681911954,
+                "t": 511.55711556859313,
+                "r": 520.0626737277539,
+                "b": 168.50958734601738,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ],
+      "block_ids": [
+        "#/pictures/0",
+        "#/texts/1",
+        "#/texts/2",
+        "#/texts/3",
+        "#/texts/4",
+        "#/texts/5",
+        "#/texts/6",
+        "#/texts/7"
+      ],
+      "table_ids": [],
+      "picture_ids": [
+        "#/pictures/0"
+      ],
+      "metadata": {
+        "block_count": 8,
+        "text_block_count": 7,
+        "table_count": 0,
+        "picture_count": 1,
+        "chart_count": 1,
+        "diagram_count": 0
+      },
+      "warnings": []
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "#/pictures/0",
+      "sequence_number": 1,
+      "hierarchy_level": 1,
+      "type": "picture",
+      "text": "",
+      "character_count": 0,
+      "word_count": 0,
+      "page_numbers": [
+        3
+      ],
+      "provenance": [
+        {
+          "page_number": 3,
+          "bbox": {
+            "l": 33.517700681911954,
+            "t": 511.55711556859313,
+            "r": 520.0626737277539,
+            "b": 168.50958734601738,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            0
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "kind": "classification",
+          "provenance": "DocumentPictureClassifier",
+          "predicted_classes": [
+            {
+              "class_name": "photograph",
+              "confidence": 0.9997486472129822
+            },
+            {
+              "class_name": "screenshot_from_computer",
+              "confidence": 0.00011229170922888443
+            },
+            {
+              "class_name": "full_page_image",
+              "confidence": 3.8347585359588265e-05
+            },
+            {
+              "class_name": "page_thumbnail",
+              "confidence": 3.0161689210217446e-05
+            },
+            {
+              "class_name": "geographical_map",
+              "confidence": 2.1178739189053886e-05
+            },
+            {
+              "class_name": "logo",
+              "confidence": 2.039478022197727e-05
+            },
+            {
+              "class_name": "screenshot_from_manual",
+              "confidence": 1.3001485967834014e-05
+            },
+            {
+              "class_name": "music",
+              "confidence": 9.162014976027422e-06
+            },
+            {
+              "class_name": "qr_code",
+              "confidence": 1.936557282533613e-06
+            },
+            {
+              "class_name": "calendar",
+              "confidence": 9.830358749240986e-07
+            },
+            {
+              "class_name": "engineering_drawing",
+              "confidence": 9.617614296075772e-07
+            },
+            {
+              "class_name": "table",
+              "confidence": 8.590978382017056e-07
+            },
+            {
+              "class_name": "other",
+              "confidence": 6.656560458395688e-07
+            },
+            {
+              "class_name": "icon",
+              "confidence": 5.448122806228639e-07
+            },
+            {
+              "class_name": "stamp",
+              "confidence": 2.497307889370859e-07
+            },
+            {
+              "class_name": "bar_code",
+              "confidence": 2.167074342196429e-07
+            },
+            {
+              "class_name": "topographical_map",
+              "confidence": 1.8903109832990594e-07
+            },
+            {
+              "class_name": "bar_chart",
+              "confidence": 1.2205242683194228e-07
+            },
+            {
+              "class_name": "flow_chart",
+              "confidence": 6.844966549124365e-08
+            },
+            {
+              "class_name": "line_chart",
+              "confidence": 6.171138977606461e-08
+            },
+            {
+              "class_name": "signature",
+              "confidence": 3.742663778893984e-08
+            },
+            {
+              "class_name": "pie_chart",
+              "confidence": 3.457874697687657e-08
+            },
+            {
+              "class_name": "chemistry_structure",
+              "confidence": 7.219827846682847e-09
+            },
+            {
+              "class_name": "scatter_plot",
+              "confidence": 1.1020997447985792e-09
+            },
+            {
+              "class_name": "crossword_puzzle",
+              "confidence": 3.5250830032751423e-10
+            },
+            {
+              "class_name": "box_plot",
+              "confidence": 3.1255456556245065e-11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block_id": "#/texts/1",
+      "sequence_number": 2,
+      "hierarchy_level": 2,
+      "type": "caption",
+      "text": "Letter from the Chair & CEO",
+      "character_count": 27,
+      "word_count": 6,
+      "page_numbers": [
+        3
+      ],
+      "provenance": [
+        {
+          "page_number": 3,
+          "bbox": {
+            "l": 34.0158,
+            "t": 149.27340097656258,
+            "r": 170.9454,
+            "b": 139.392002375164,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            27
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/2",
+      "sequence_number": 3,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Generating value amidst growing uncertainty",
+      "character_count": 43,
+      "word_count": 5,
+      "page_numbers": [
+        3
+      ],
+      "provenance": [
+        {
+          "page_number": 3,
+          "bbox": {
+            "l": 34.0157,
+            "t": 122.95340097656253,
+            "r": 427.99969999999985,
+            "b": 51.83527028811443,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            43
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/3",
+      "sequence_number": 4,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Dear stakeholder,",
+      "character_count": 17,
+      "word_count": 2,
+      "page_numbers": [
+        3
+      ],
+      "provenance": [
+        {
+          "page_number": 3,
+          "bbox": {
+            "l": 561.2597999999999,
+            "t": 512.2734009765626,
+            "r": 648.2106,
+            "b": 502.39200237516394,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            17
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/4",
+      "sequence_number": 5,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "The year 2025 marked a defining moment for Vestas. Despite geopolitical uncertainty and supply chain disruptions, we strengthened our  strategic  position  and  delivered  against  important  milestones that  underline  our  role  as  a  global  leader  in  sustainable  energy. By  year-end,  Vestas  reached  201  GW  of  installed  wind  capacity worldwide  -  testament  to  more  than  45  years  of  innovation  and execution, and to the growing prominence and competitiveness of wind energy in the global energy mix.",
+      "character_count": 523,
+      "word_count": 74,
+      "page_numbers": [
+        3
+      ],
+      "provenance": [
+        {
+          "page_number": 3,
+          "bbox": {
+            "l": 561.2598,
+            "t": 476.89340097656253,
+            "r": 809.4640499999999,
+            "b": 392.9010769672384,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            523
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/5",
+      "sequence_number": 6,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "This  achievement  was  complemented  by  strong  operational  and financial  progress  that  ensures  we  completed  the  turnaround  from our 2022 low-point. We continued to benefit from our growing and healthy order backlog, while taking a major step forward in offshore wind. Our flagship V236-15.0 MW™ turbine produced first power at He Dreiht, five years after our return to the sector with the acquisition of  MHI  Vestas  Offshore.  These  milestones  demonstrate  that  our strategy is working and that Vestas was, yet again, strategically and financially stronger by the end of the year than it had been at the start.",
+      "character_count": 627,
+      "word_count": 97,
+      "page_numbers": [
+        3
+      ],
+      "provenance": [
+        {
+          "page_number": 3,
+          "bbox": {
+            "l": 561.2598,
+            "t": 377.9024009765624,
+            "r": 809.4801999999991,
+            "b": 282.9110769672382,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            627
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/6",
+      "sequence_number": 7,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Delivering affordable, secure and sustainable energy",
+      "character_count": 52,
+      "word_count": 6,
+      "page_numbers": [
+        3
+      ],
+      "provenance": [
+        {
+          "page_number": 3,
+          "bbox": {
+            "l": 561.2598,
+            "t": 267.9124009765622,
+            "r": 755.8383999999992,
+            "b": 260.8886035082078,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            52
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/7",
+      "sequence_number": 8,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "The global environment became more complex in 2025. Geopolitical tensions,  trade  disruptions  and  protectionist  measures  challenged supply chains and increased costs, ultimately impacting power prices. At  the  same  time,  the  energy  debate  continued  to  lack  factual discourse, slowing progress and creating uncertainty. We must insist on facts, because only through informed decisions will we ensure that we can meet energy demand in the future, making investments with a 30-plus-year horizon. The failure of COP30 to deliver binding commitments, as well as the bureaucratic mess we face with permitting in many markets and CSRD regulation in the EU, are stark reminders that good intentions are insufficient without action. Ultimately, we risk  leaving  higher  electricity  bills  for  future  generations  despite having the right tools at our disposal now. The Draghi report highlights  what  society  could  and  should  achieve  if  we  dare  to  put  our money where our mouth is; so let's make sure we follow through.",
+      "character_count": 1038,
+      "word_count": 154,
+      "page_numbers": [
+        3
+      ],
+      "provenance": [
+        {
+          "page_number": 3,
+          "bbox": {
+            "l": 561.2598,
+            "t": 256.91340097656223,
+            "r": 809.4818999999997,
+            "b": 95.92807696723827,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            1038
+          ]
+        }
+      ],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "pictures": [
+    {
+      "picture_id": "#/pictures/0",
+      "picture_number": 1,
+      "page_numbers": [
+        3
+      ],
+      "classification": {
+        "primary_label": "photograph",
+        "labels": [
+          "photograph",
+          "screenshot_from_computer",
+          "full_page_image",
+          "page_thumbnail",
+          "geographical_map",
+          "logo",
+          "screenshot_from_manual",
+          "music",
+          "qr_code",
+          "calendar",
+          "engineering_drawing",
+          "table",
+          "other",
+          "icon",
+          "stamp",
+          "bar_code",
+          "topographical_map",
+          "bar_chart",
+          "flow_chart",
+          "line_chart",
+          "signature",
+          "pie_chart",
+          "chemistry_structure",
+          "scatter_plot",
+          "crossword_puzzle",
+          "box_plot",
+          "chart",
+          "photo"
+        ],
+        "confidence_scores": [
+          0.9997486472129822,
+          0.00011229170922888443,
+          3.8347585359588265e-05,
+          3.0161689210217446e-05,
+          2.1178739189053886e-05,
+          2.039478022197727e-05,
+          1.3001485967834014e-05,
+          9.162014976027422e-06,
+          1.936557282533613e-06,
+          9.830358749240986e-07,
+          9.617614296075772e-07,
+          8.590978382017056e-07,
+          6.656560458395688e-07,
+          5.448122806228639e-07,
+          2.497307889370859e-07,
+          2.167074342196429e-07,
+          1.8903109832990594e-07,
+          1.2205242683194228e-07,
+          6.844966549124365e-08,
+          6.171138977606461e-08,
+          3.742663778893984e-08,
+          3.457874697687657e-08,
+          7.219827846682847e-09,
+          1.1020997447985792e-09,
+          3.5250830032751423e-10,
+          3.1255456556245065e-11
+        ]
+      },
+      "provenance": [
+        {
+          "page_number": 3,
+          "bbox": {
+            "l": 33.517700681911954,
+            "t": 511.55711556859313,
+            "r": 520.0626737277539,
+            "b": 168.50958734601738,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            0
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "kind": "classification",
+          "provenance": "DocumentPictureClassifier",
+          "predicted_classes": [
+            {
+              "class_name": "photograph",
+              "confidence": 0.9997486472129822
+            },
+            {
+              "class_name": "screenshot_from_computer",
+              "confidence": 0.00011229170922888443
+            },
+            {
+              "class_name": "full_page_image",
+              "confidence": 3.8347585359588265e-05
+            },
+            {
+              "class_name": "page_thumbnail",
+              "confidence": 3.0161689210217446e-05
+            },
+            {
+              "class_name": "geographical_map",
+              "confidence": 2.1178739189053886e-05
+            },
+            {
+              "class_name": "logo",
+              "confidence": 2.039478022197727e-05
+            },
+            {
+              "class_name": "screenshot_from_manual",
+              "confidence": 1.3001485967834014e-05
+            },
+            {
+              "class_name": "music",
+              "confidence": 9.162014976027422e-06
+            },
+            {
+              "class_name": "qr_code",
+              "confidence": 1.936557282533613e-06
+            },
+            {
+              "class_name": "calendar",
+              "confidence": 9.830358749240986e-07
+            },
+            {
+              "class_name": "engineering_drawing",
+              "confidence": 9.617614296075772e-07
+            },
+            {
+              "class_name": "table",
+              "confidence": 8.590978382017056e-07
+            },
+            {
+              "class_name": "other",
+              "confidence": 6.656560458395688e-07
+            },
+            {
+              "class_name": "icon",
+              "confidence": 5.448122806228639e-07
+            },
+            {
+              "class_name": "stamp",
+              "confidence": 2.497307889370859e-07
+            },
+            {
+              "class_name": "bar_code",
+              "confidence": 2.167074342196429e-07
+            },
+            {
+              "class_name": "topographical_map",
+              "confidence": 1.8903109832990594e-07
+            },
+            {
+              "class_name": "bar_chart",
+              "confidence": 1.2205242683194228e-07
+            },
+            {
+              "class_name": "flow_chart",
+              "confidence": 6.844966549124365e-08
+            },
+            {
+              "class_name": "line_chart",
+              "confidence": 6.171138977606461e-08
+            },
+            {
+              "class_name": "signature",
+              "confidence": 3.742663778893984e-08
+            },
+            {
+              "class_name": "pie_chart",
+              "confidence": 3.457874697687657e-08
+            },
+            {
+              "class_name": "chemistry_structure",
+              "confidence": 7.219827846682847e-09
+            },
+            {
+              "class_name": "scatter_plot",
+              "confidence": 1.1020997447985792e-09
+            },
+            {
+              "class_name": "crossword_puzzle",
+              "confidence": 3.5250830032751423e-10
+            },
+            {
+              "class_name": "box_plot",
+              "confidence": 3.1255456556245065e-11
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "markdown": "Letter from the Chair &amp; CEO\n\n<!-- image -->\n\nPhotograph\n\n## Generating value amidst growing uncertainty\n\n## Dear stakeholder,\n\nThe year 2025 marked a defining moment for Vestas. Despite geopolitical uncertainty and supply chain disruptions, we strengthened our  strategic  position  and  delivered  against  important  milestones that  underline  our  role  as  a  global  leader  in  sustainable  energy. By  year-end,  Vestas  reached  201  GW  of  installed  wind  capacity worldwide  -  testament  to  more  than  45  years  of  innovation  and execution, and to the growing prominence and competitiveness of wind energy in the global energy mix.\n\nThis  achievement  was  complemented  by  strong  operational  and financial  progress  that  ensures  we  completed  the  turnaround  from our 2022 low-point. We continued to benefit from our growing and healthy order backlog, while taking a major step forward in offshore wind. Our flagship V236-15.0 MW™ turbine produced first power at He Dreiht, five years after our return to the sector with the acquisition of  MHI  Vestas  Offshore.  These  milestones  demonstrate  that  our strategy is working and that Vestas was, yet again, strategically and financially stronger by the end of the year than it had been at the start.\n\n## Delivering affordable, secure and sustainable energy\n\nThe global environment became more complex in 2025. Geopolitical tensions,  trade  disruptions  and  protectionist  measures  challenged supply chains and increased costs, ultimately impacting power prices. At  the  same  time,  the  energy  debate  continued  to  lack  factual discourse, slowing progress and creating uncertainty. We must insist on facts, because only through informed decisions will we ensure that we can meet energy demand in the future, making investments with a 30-plus-year horizon. The failure of COP30 to deliver binding commitments, as well as the bureaucratic mess we face with permitting in many markets and CSRD regulation in the EU, are stark reminders that good intentions are insufficient without action. Ultimately, we risk  leaving  higher  electricity  bills  for  future  generations  despite having the right tools at our disposal now. The Draghi report highlights  what  society  could  and  should  achieve  if  we  dare  to  put  our money where our mouth is; so let's make sure we follow through.",
+  "quality": {
+    "pages_processed": 1,
+    "pages_with_text": 1,
+    "pages_with_tables": 0,
+    "pages_with_pictures": 1,
+    "pages_requiring_ocr": 0,
+    "ocr_pages_processed": 0,
+    "empty_pages": 0,
+    "failed_pages": 0,
+    "overall_quality_score": 1.0
+  },
+  "warnings": [],
+  "errors": []
+}

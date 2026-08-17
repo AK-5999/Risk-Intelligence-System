@@ -1,0 +1,43 @@
+{
+  "page_number": 8,
+  "description": "Financial and operational key figures - two large financial tables",
+  "expected_headings": [
+    "Financial and operational key figures"
+  ],
+  "required_text_fragments": [
+    "Comparative figures for 2021 have been adjusted",
+    "Based on proposed dividend",
+    "Finansforeningen"
+  ],
+  "expected_tables": [
+    {
+      "row_count": 24,
+      "column_count": 6,
+      "columns": ["Financial key figures (mEUR)", "2025", "2024", "2023", "2022", "2021 1"],
+      "required_row_labels": [
+        "Revenue",
+        "EBITDA",
+        "Operating profit/(loss) (EBIT)",
+        "Balance sheet total",
+        "Equity",
+        "Cash flow from operating activities",
+        "Free cash flow"
+      ]
+    },
+    {
+      "row_count": 27,
+      "column_count": 6,
+      "columns": ["Financial ratios 2", "2025", "2024", "2023", "2022", "2021 1"],
+      "required_row_labels": [
+        "Gross margin (%)",
+        "EBITDA margin (%) before special items",
+        "Return on equity (%)",
+        "Earnings per share, basic (EUR)",
+        "Order intake (bnEUR)",
+        "Order intake (MW)",
+        "Deliveries (MW)"
+      ]
+    }
+  ],
+  "provenance_required": true
+}

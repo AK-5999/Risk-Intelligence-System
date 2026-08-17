@@ -1,0 +1,164 @@
+{
+  "expected_total": 10,
+  "generated_total": 10,
+  "matched": [
+    {
+      "gold_id": "gold_001",
+      "title": "Geopolitics and regulatory framework",
+      "page_match": true,
+      "category_match": true,
+      "section_match": true,
+      "mitigation_match": true,
+      "description_sentence_count": 2,
+      "description_length_valid": true
+    },
+    {
+      "gold_id": "gold_002",
+      "title": "Project execution",
+      "page_match": true,
+      "category_match": true,
+      "section_match": true,
+      "mitigation_match": true,
+      "description_sentence_count": 2,
+      "description_length_valid": true
+    },
+    {
+      "gold_id": "gold_003",
+      "title": "Cyber attacks",
+      "page_match": true,
+      "category_match": true,
+      "section_match": true,
+      "mitigation_match": true,
+      "description_sentence_count": 2,
+      "description_length_valid": true
+    },
+    {
+      "gold_id": "gold_004",
+      "title": "Carbon taxes and tariffs",
+      "page_match": true,
+      "category_match": true,
+      "section_match": true,
+      "mitigation_match": true,
+      "description_sentence_count": 2,
+      "description_length_valid": true
+    },
+    {
+      "gold_id": "gold_005",
+      "title": "Cost implication of injuries in own workforce",
+      "page_match": true,
+      "category_match": true,
+      "section_match": true,
+      "mitigation_match": true,
+      "description_sentence_count": 2,
+      "description_length_valid": true
+    },
+    {
+      "gold_id": "gold_006",
+      "title": "Cost implications of injuries to contractors and sub-contractors",
+      "page_match": true,
+      "category_match": true,
+      "section_match": true,
+      "mitigation_match": true,
+      "description_sentence_count": 2,
+      "description_length_valid": true
+    },
+    {
+      "gold_id": "gold_007",
+      "title": "Fines related to forced or child labour",
+      "page_match": true,
+      "category_match": true,
+      "section_match": true,
+      "mitigation_match": true,
+      "description_sentence_count": 2,
+      "description_length_valid": true
+    },
+    {
+      "gold_id": "gold_008",
+      "title": "Insufficient market conditions",
+      "page_match": true,
+      "category_match": true,
+      "section_match": true,
+      "mitigation_match": true,
+      "description_sentence_count": 2,
+      "description_length_valid": true
+    },
+    {
+      "gold_id": "gold_009",
+      "title": "Cyber security risks",
+      "page_match": true,
+      "category_match": true,
+      "section_match": true,
+      "mitigation_match": true,
+      "description_sentence_count": 2,
+      "description_length_valid": true
+    },
+    {
+      "gold_id": "gold_010",
+      "title": "Risk of corruption and bribery",
+      "page_match": true,
+      "category_match": true,
+      "section_match": true,
+      "mitigation_match": true,
+      "description_sentence_count": 2,
+      "description_length_valid": true
+    }
+  ],
+  "missing": [],
+  "false_positives": [],
+  "field_failures": [],
+  "known_failure_diagnostics": [
+    {
+      "failure_id": "fail_001",
+      "title": "GHG emissions from operations and value chain",
+      "failure_type": "impact_as_risk",
+      "generated": false,
+      "status": "PASSED"
+    },
+    {
+      "failure_id": "fail_002",
+      "title": "Non-recyclable materials in turbines",
+      "failure_type": "impact_as_risk",
+      "generated": false,
+      "status": "PASSED"
+    },
+    {
+      "failure_id": "fail_003",
+      "title": "Land-use restrictions and displacement",
+      "failure_type": "impact_as_risk",
+      "generated": false,
+      "status": "PASSED"
+    },
+    {
+      "failure_id": "fail_004",
+      "title": "Impacts on indigenous peoples' rights",
+      "failure_type": "impact_as_risk",
+      "generated": false,
+      "status": "PASSED"
+    },
+    {
+      "failure_id": "fail_005",
+      "title": "Recyclable blades",
+      "failure_type": "opportunity_as_risk",
+      "generated": false,
+      "status": "PASSED"
+    },
+    {
+      "failure_id": "fail_006",
+      "title": "Growth rate of the wind industry",
+      "failure_type": "opportunity_as_risk",
+      "generated": false,
+      "status": "PASSED"
+    }
+  ],
+  "metrics": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "matched_count": 10,
+    "missing_count": 0,
+    "false_positive_count": 0,
+    "field_failure_count": 0,
+    "generated_total": 10
+  },
+  "status": "PASSED"
+}

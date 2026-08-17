@@ -1,0 +1,17 @@
+{
+  "page_number": 68,
+  "description": "Value chain narrative text (Inputs / Key outputs sections); page also contains a full value-chain illustration (known limitation: value-chain illustrations) whose stage captions are intentionally excluded",
+  "expected_headings": [
+    "The value chain that supports our business model",
+    "Inputs",
+    "Key outputs and value creation"
+  ],
+  "required_text_fragments": [
+    "Key inputs to Vestas' value chain include raw materials",
+    "sourced through business relationships within the supply chain",
+    "key outputs of our value chain are wind turbines installed and serviced",
+    "shareholder returns, safety and"
+  ],
+  "expected_tables": [],
+  "provenance_required": true
+}

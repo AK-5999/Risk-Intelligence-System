@@ -1,0 +1,86 @@
+{
+  "version": "1.0",
+  "description": "Golden risk set for Vestas Annual Report 2025 PoC scope.",
+  "risks": [
+    {
+      "id": "gold_001",
+      "title": "Geopolitics and regulatory framework",
+      "page": 51,
+      "category": "geopolitical",
+      "section": "Risk management",
+      "mitigation_expected": true
+    },
+    {
+      "id": "gold_002",
+      "title": "Project execution",
+      "page": 51,
+      "category": "operational",
+      "section": "Risk management",
+      "mitigation_expected": true
+    },
+    {
+      "id": "gold_003",
+      "title": "Cyber attacks",
+      "page": 51,
+      "category": "cyber",
+      "section": "Risk management",
+      "mitigation_expected": true
+    },
+    {
+      "id": "gold_004",
+      "title": "Carbon taxes and tariffs",
+      "page": 71,
+      "category": "climate",
+      "section": "Material impacts, risks, and opportunities",
+      "mitigation_expected": false
+    },
+    {
+      "id": "gold_005",
+      "title": "Cost implication of injuries in own workforce",
+      "page": 73,
+      "category": "workforce",
+      "section": "Material impacts, risks, and opportunities",
+      "mitigation_expected": false
+    },
+    {
+      "id": "gold_006",
+      "title": "Cost implications of injuries to contractors and sub-contractors",
+      "page": 73,
+      "category": "operational",
+      "section": "Material impacts, risks, and opportunities",
+      "mitigation_expected": false
+    },
+    {
+      "id": "gold_007",
+      "title": "Fines related to forced or child labour",
+      "page": 73,
+      "category": "regulatory",
+      "section": "Material impacts, risks, and opportunities",
+      "mitigation_expected": false
+    },
+    {
+      "id": "gold_008",
+      "title": "Insufficient market conditions",
+      "page": 74,
+      "category": "market",
+      "section": "Material impacts, risks, and opportunities",
+      "mitigation_expected": false
+    },
+    {
+      "id": "gold_009",
+      "title": "Cyber security risks",
+      "page": 74,
+      "category": "cyber",
+      "section": "Material impacts, risks, and opportunities",
+      "mitigation_expected": false
+    },
+    {
+      "id": "gold_010",
+      "title": "Risk of corruption and bribery",
+      "page": 74,
+      "category": "governance",
+      "section": "Material impacts, risks, and opportunities",
+      "mitigation_expected": false
+    }
+  ]
+}

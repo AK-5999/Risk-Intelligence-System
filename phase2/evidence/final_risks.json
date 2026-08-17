@@ -1,0 +1,147 @@
+{
+  "document_id": "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc",
+  "company": "Vestas Wind Systems A/S",
+  "report_year": 2025,
+  "risks": [
+    {
+      "title": "Geopolitics and regulatory framework",
+      "description": "Shifting geopolitical tensions and trade restrictions, such as tariffs and sanctions, create an unpredictable global environment. These factors can disrupt supply chains, increase costs, and weaken project economics and market competitiveness.",
+      "category": "geopolitical",
+      "section": "Risk management",
+      "page": 51,
+      "mitigation": "We manage geopolitical risks by continuously monitoring global developments and implementing appropriate mitigations. By maintaining a global and regionalised manufacturing footprint, Vestas can effectively respond to geopolitical shifts and regulatory changes. Proactive advocacy ensures alignment and compliance with evolving policies and the regulatory climate. Additionally, we exercise commercial discipline and utilise indexation and financial hedging strategies to minimise exposure.",
+      "source_block_ids": [
+        "block-5"
+      ],
+      "risk_id": "risk_001",
+      "source_type": "enterprise_main_risks",
+      "source_topic": "Main risks"
+    },
+    {
+      "title": "Project execution",
+      "description": "Increasingly complex onshore and offshore projects face risks from production delays, quality control issues, and insufficient logistical infrastructure. These execution challenges can lead to cost overruns, margin erosion, and potential reputational damage.",
+      "category": "operational",
+      "section": "Risk management",
+      "page": 51,
+      "mitigation": "We mitigate execution risks through project governance, enhanced planning functions, and continuous alignment between commercial and delivery teams. We invest in scalable manufacturing capacity and maintain close coordination with suppliers to secure timely component availability.",
+      "source_block_ids": [
+        "block-5"
+      ],
+      "risk_id": "risk_002",
+      "source_type": "enterprise_main_risks",
+      "source_topic": "Main risks"
+    },
+    {
+      "title": "Cyber attacks",
+      "description": "Vestas' digital assets and energy solutions are targets for cyber-criminal and geopolitical actors seeking extortion or destabilization. Successful attacks could cause electricity outages, physical damage to assets, and significant economic loss.",
+      "category": "cyber",
+      "section": "Risk management",
+      "page": 51,
+      "mitigation": "As a global manufacturer and key contributor to critical infrastructure, Vestas is required to continuously address evolving cyber risks, both to our company and to the customers we serve. We are developing cyber security services aimed at helping our customers navigate cyber risks effectively, fulfil industry requirements and standards, and uphold their responsibilities. During 2025, our cyber security efforts were effective and no critical cyber security incidents took place.",
+      "source_block_ids": [
+        "block-5"
+      ],
+      "risk_id": "risk_003",
+      "source_type": "enterprise_main_risks",
+      "source_topic": "Main risks"
+    },
+    {
+      "title": "Carbon taxes and tariffs",
+      "description": "High carbon taxes and tariffs increase the price of GHG intense materials like steel. This increases the overall cost to produce wind turbines.",
+      "category": "climate",
+      "section": "Material impacts, risks, and opportunities",
+      "page": 71,
+      "mitigation": null,
+      "source_block_ids": [
+        "block-13"
+      ],
+      "risk_id": "risk_004",
+      "source_type": "material_iro",
+      "source_topic": "E1 Climate Change"
+    },
+    {
+      "title": "Cost implication of injuries in own workforce",
+      "description": "Potential injuries within the own workforce can lead to delays and lost work hours. These incidents pose a financial risk through increased compensation costs.",
+      "category": "workforce",
+      "section": "Material impacts, risks, and opportunities",
+      "page": 73,
+      "mitigation": null,
+      "source_block_ids": [
+        "block-12"
+      ],
+      "risk_id": "risk_005",
+      "source_type": "material_iro",
+      "source_topic": "S1 Own Workforce"
+    },
+    {
+      "title": "Cost implications of injuries to contractors and sub-contractors",
+      "description": "Potential injuries to value chain workers may lead to delays, lost work hours, and compensation costs. These factors pose a risk regarding the cost implications of injuries to contractors and sub-contractors.",
+      "category": "operational",
+      "section": "Material impacts, risks, and opportunities",
+      "page": 73,
+      "mitigation": null,
+      "source_block_ids": [
+        "block-13"
+      ],
+      "risk_id": "risk_006",
+      "source_type": "material_iro",
+      "source_topic": "S2 Workers in the value chain"
+    },
+    {
+      "title": "Fines related to forced or child labour",
+      "description": "The global network of suppliers presents a risk of fines related to child and forced labour. This constitutes a potential risk for the company.",
+      "category": "regulatory",
+      "section": "Material impacts, risks, and opportunities",
+      "page": 73,
+      "mitigation": null,
+      "source_block_ids": [
+        "block-13"
+      ],
+      "risk_id": "risk_007",
+      "source_type": "material_iro",
+      "source_topic": "S2 Workers in the value chain"
+    },
+    {
+      "title": "Insufficient market conditions",
+      "description": "Inadequate grid expansion, ineffective auction design, and permit delays could increase costs and hinder investments. These insufficient market conditions may reduce the viability of wind deployment.",
+      "category": "market",
+      "section": "Material impacts, risks, and opportunities",
+      "page": 74,
+      "mitigation": null,
+      "source_block_ids": [
+        "block-17"
+      ],
+      "risk_id": "risk_008",
+      "source_type": "material_iro",
+      "source_topic": "G1 Business Conduct"
+    },
+    {
+      "title": "Cyber security risks",
+      "description": "Cyber attacks might disrupt business operations, expose intellectual property, or cause legal liability. These cyber security risks pose a threat to the company's operational stability and data integrity.",
+      "category": "cyber",
+      "section": "Material impacts, risks, and opportunities",
+      "page": 74,
+      "mitigation": null,
+      "source_block_ids": [
+        "block-17"
+      ],
+      "risk_id": "risk_009",
+      "source_type": "material_iro",
+      "source_topic": "G1 Business Conduct"
+    },
+    {
+      "title": "Risk of corruption and bribery",
+      "description": "The company's global presence presents an increased risk of exposure to corruption and bribery. This poses a significant risk to business conduct and regulatory compliance.",
+      "category": "governance",
+      "section": "Material impacts, risks, and opportunities",
+      "page": 74,
+      "mitigation": null,
+      "source_block_ids": [
+        "block-17"
+      ],
+      "risk_id": "risk_010",
+      "source_type": "material_iro",
+      "source_topic": "G1 Business Conduct"
+    }
+  ]
+}

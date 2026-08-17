@@ -1,0 +1,228 @@
+{
+  "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc:pages-3-3:docling-adaptive-pdf-parser:3.0.0": {
+    "document_hash": "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc",
+    "file_name": "VestasAnnualReport2025.pdf",
+    "source_path": "D:\\Coding\\Vestas\\Pipeline\\data\\VestasAnnualReport2025.pdf",
+    "page_range": [
+      3,
+      3
+    ],
+    "parser_name": "docling-adaptive-pdf-parser",
+    "parser_version": "3.0.0",
+    "output_json": "D:\\Coding\\Vestas\\Pipeline\\phase\\phase1\\output\\VestasAnnualReport2025_pages_3_3_09aa4e8bd783.json",
+    "output_markdown": "D:\\Coding\\Vestas\\Pipeline\\phase\\phase1\\output\\VestasAnnualReport2025_pages_3_3_09aa4e8bd783.md",
+    "status": "completed",
+    "processing_started_at": "2026-08-06T14:43:42.749052+00:00",
+    "processing_completed_at": "2026-08-06T14:44:15.637009+00:00",
+    "error": null,
+    "document_id": "72e1aba1-bd6a-4722-9bf8-edd03caba390",
+    "parser_status": "completed",
+    "pages_processed": 1,
+    "pages_with_text": 1,
+    "pages_with_tables": 0,
+    "pages_with_pictures": 1,
+    "pages_requiring_ocr": 0,
+    "ocr_pages_processed": 0,
+    "total_blocks": 8,
+    "total_tables": 0,
+    "total_pictures": 1,
+    "page_type_counts": {
+      "mixed": 1
+    },
+    "ocr_required_pages": []
+  },
+  "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc:pages-7-10:docling-adaptive-pdf-parser:3.0.0": {
+    "document_hash": "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc",
+    "file_name": "VestasAnnualReport2025.pdf",
+    "source_path": "D:\\Coding\\Vestas\\Pipeline\\data\\VestasAnnualReport2025.pdf",
+    "page_range": [
+      7,
+      10
+    ],
+    "parser_name": "docling-adaptive-pdf-parser",
+    "parser_version": "3.0.0",
+    "output_json": "D:\\Coding\\Vestas\\Pipeline\\phase\\phase1\\output\\VestasAnnualReport2025_pages_7_10_09aa4e8bd783.json",
+    "output_markdown": "D:\\Coding\\Vestas\\Pipeline\\phase\\phase1\\output\\VestasAnnualReport2025_pages_7_10_09aa4e8bd783.md",
+    "status": "completed",
+    "processing_started_at": "2026-08-06T14:46:22.442527+00:00",
+    "processing_completed_at": "2026-08-06T14:49:31.482528+00:00",
+    "error": null,
+    "document_id": "350f8417-1f12-455f-b026-130c35c0f3dc",
+    "parser_status": "completed",
+    "pages_processed": 4,
+    "pages_with_text": 4,
+    "pages_with_tables": 2,
+    "pages_with_pictures": 2,
+    "pages_requiring_ocr": 0,
+    "ocr_pages_processed": 0,
+    "total_blocks": 53,
+    "total_tables": 4,
+    "total_pictures": 6,
+    "page_type_counts": {
+      "mixed": 4
+    },
+    "ocr_required_pages": []
+  },
+  "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc:pages-13-13:docling-adaptive-pdf-parser:3.0.0": {
+    "document_hash": "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc",
+    "file_name": "VestasAnnualReport2025.pdf",
+    "source_path": "D:\\Coding\\Vestas\\Pipeline\\data\\VestasAnnualReport2025.pdf",
+    "page_range": [
+      13,
+      13
+    ],
+    "parser_name": "docling-adaptive-pdf-parser",
+    "parser_version": "3.0.0",
+    "output_json": "D:\\Coding\\Vestas\\Pipeline\\phase\\phase1\\output\\VestasAnnualReport2025_pages_13_13_09aa4e8bd783.json",
+    "output_markdown": "D:\\Coding\\Vestas\\Pipeline\\phase\\phase1\\output\\VestasAnnualReport2025_pages_13_13_09aa4e8bd783.md",
+    "status": "completed",
+    "processing_started_at": "2026-08-06T14:51:35.813291+00:00",
+    "processing_completed_at": "2026-08-06T14:52:03.583393+00:00",
+    "error": null,
+    "document_id": "70736d19-7d59-4e12-8310-bae54d6acff4",
+    "parser_status": "completed",
+    "pages_processed": 1,
+    "pages_with_text": 1,
+    "pages_with_tables": 0,
+    "pages_with_pictures": 1,
+    "pages_requiring_ocr": 0,
+    "ocr_pages_processed": 0,
+    "total_blocks": 20,
+    "total_tables": 0,
+    "total_pictures": 1,
+    "page_type_counts": {
+      "mixed": 1
+    },
+    "ocr_required_pages": []
+  },
+  "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc:pages-38-38:docling-adaptive-pdf-parser:3.0.0": {
+    "document_hash": "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc",
+    "file_name": "VestasAnnualReport2025.pdf",
+    "source_path": "D:\\Coding\\Vestas\\Pipeline\\data\\VestasAnnualReport2025.pdf",
+    "page_range": [
+      38,
+      38
+    ],
+    "parser_name": "docling-adaptive-pdf-parser",
+    "parser_version": "3.0.0",
+    "output_json": "D:\\Coding\\Vestas\\Pipeline\\phase\\phase1\\output\\VestasAnnualReport2025_pages_38_38_09aa4e8bd783.json",
+    "output_markdown": "D:\\Coding\\Vestas\\Pipeline\\phase\\phase1\\output\\VestasAnnualReport2025_pages_38_38_09aa4e8bd783.md",
+    "status": "completed",
+    "processing_started_at": "2026-08-06T14:52:23.116770+00:00",
+    "processing_completed_at": "2026-08-06T14:52:49.331816+00:00",
+    "error": null,
+    "document_id": "cf9acfc1-2873-4a33-9965-2c6c71a26312",
+    "parser_status": "completed_with_warnings",
+    "pages_processed": 1,
+    "pages_with_text": 0,
+    "pages_with_tables": 0,
+    "pages_with_pictures": 1,
+    "pages_requiring_ocr": 1,
+    "ocr_pages_processed": 1,
+    "total_blocks": 1,
+    "total_tables": 0,
+    "total_pictures": 1,
+    "page_type_counts": {
+      "scanned_or_image_based": 1
+    },
+    "ocr_required_pages": [
+      38
+    ]
+  },
+  "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc:pages-50-50:docling-adaptive-pdf-parser:3.0.0": {
+    "document_hash": "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc",
+    "file_name": "VestasAnnualReport2025.pdf",
+    "source_path": "D:\\Coding\\Vestas\\Pipeline\\data\\VestasAnnualReport2025.pdf",
+    "page_range": [
+      50,
+      50
+    ],
+    "parser_name": "docling-adaptive-pdf-parser",
+    "parser_version": "3.0.0",
+    "output_json": "D:\\Coding\\Vestas\\Pipeline\\phase\\phase1\\output\\VestasAnnualReport2025_pages_50_50_09aa4e8bd783.json",
+    "output_markdown": "D:\\Coding\\Vestas\\Pipeline\\phase\\phase1\\output\\VestasAnnualReport2025_pages_50_50_09aa4e8bd783.md",
+    "status": "completed",
+    "processing_started_at": "2026-08-06T14:53:53.080907+00:00",
+    "processing_completed_at": "2026-08-06T14:54:18.184735+00:00",
+    "error": null,
+    "document_id": "63c77b39-16dd-4a86-afe8-e10d8ea2da3b",
+    "parser_status": "completed",
+    "pages_processed": 1,
+    "pages_with_text": 1,
+    "pages_with_tables": 0,
+    "pages_with_pictures": 1,
+    "pages_requiring_ocr": 0,
+    "ocr_pages_processed": 0,
+    "total_blocks": 20,
+    "total_tables": 0,
+    "total_pictures": 1,
+    "page_type_counts": {
+      "mixed": 1
+    },
+    "ocr_required_pages": []
+  },
+  "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc:pages-68-68:docling-adaptive-pdf-parser:3.0.0": {
+    "document_hash": "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc",
+    "file_name": "VestasAnnualReport2025.pdf",
+    "source_path": "D:\\Coding\\Vestas\\Pipeline\\data\\VestasAnnualReport2025.pdf",
+    "page_range": [
+      68,
+      68
+    ],
+    "parser_name": "docling-adaptive-pdf-parser",
+    "parser_version": "3.0.0",
+    "output_json": "D:\\Coding\\Vestas\\Pipeline\\phase\\phase1\\output\\VestasAnnualReport2025_pages_68_68_09aa4e8bd783.json",
+    "output_markdown": "D:\\Coding\\Vestas\\Pipeline\\phase\\phase1\\output\\VestasAnnualReport2025_pages_68_68_09aa4e8bd783.md",
+    "status": "completed",
+    "processing_started_at": "2026-08-06T14:54:53.021720+00:00",
+    "processing_completed_at": "2026-08-06T14:55:18.423802+00:00",
+    "error": null,
+    "document_id": "297dc417-54b2-4bb6-adc2-aef440b886c1",
+    "parser_status": "completed",
+    "pages_processed": 1,
+    "pages_with_text": 1,
+    "pages_with_tables": 0,
+    "pages_with_pictures": 1,
+    "pages_requiring_ocr": 0,
+    "ocr_pages_processed": 0,
+    "total_blocks": 14,
+    "total_tables": 0,
+    "total_pictures": 1,
+    "page_type_counts": {
+      "mixed": 1
+    },
+    "ocr_required_pages": []
+  },
+  "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc:pages-71-71:docling-adaptive-pdf-parser:3.0.0": {
+    "document_hash": "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc",
+    "file_name": "VestasAnnualReport2025.pdf",
+    "source_path": "D:\\Coding\\Vestas\\Pipeline\\data\\VestasAnnualReport2025.pdf",
+    "page_range": [
+      71,
+      71
+    ],
+    "parser_name": "docling-adaptive-pdf-parser",
+    "parser_version": "3.0.0",
+    "output_json": "D:\\Coding\\Vestas\\Pipeline\\phase\\phase1\\output\\VestasAnnualReport2025_pages_71_71_09aa4e8bd783.json",
+    "output_markdown": "D:\\Coding\\Vestas\\Pipeline\\phase\\phase1\\output\\VestasAnnualReport2025_pages_71_71_09aa4e8bd783.md",
+    "status": "completed",
+    "processing_started_at": "2026-08-06T14:55:44.948451+00:00",
+    "processing_completed_at": "2026-08-06T14:56:16.797349+00:00",
+    "error": null,
+    "document_id": "23eb865c-e14f-4ab0-aeb6-599866b9c2ae",
+    "parser_status": "completed",
+    "pages_processed": 1,
+    "pages_with_text": 1,
+    "pages_with_tables": 1,
+    "pages_with_pictures": 1,
+    "pages_requiring_ocr": 0,
+    "ocr_pages_processed": 0,
+    "total_blocks": 23,
+    "total_tables": 1,
+    "total_pictures": 10,
+    "page_type_counts": {
+      "mixed": 1
+    },
+    "ocr_required_pages": []
+  }
+}

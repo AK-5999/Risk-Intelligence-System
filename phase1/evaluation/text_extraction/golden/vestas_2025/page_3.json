@@ -1,0 +1,18 @@
+{
+  "page_number": 3,
+  "description": "Letter from the Chair & CEO - narrative text, no tables/diagrams",
+  "expected_headings": [
+    "Generating value amidst growing uncertainty",
+    "Dear stakeholder,",
+    "Delivering affordable, secure and sustainable energy"
+  ],
+  "required_text_fragments": [
+    "financially stronger by the end of the year",
+    "V236-15.0 MW",
+    "He Dreiht",
+    "Draghi report",
+    "COP30"
+  ],
+  "expected_tables": [],
+  "provenance_required": true
+}

@@ -1,0 +1,78 @@
+{
+  "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc:docling-adaptive-pdf-parser:3.0.0": {
+    "document_hash": "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc",
+    "file_name": "VestasAnnualReport2025.pdf",
+    "source_path": "D:\\Coding\\Vestas\\Pipeline\\data\\VestasAnnualReport2025.pdf",
+    "parser": {
+      "name": "docling-adaptive-pdf-parser",
+      "version": "3.0.0"
+    },
+    "outputs": {
+      "raw_json": "D:\\Coding\\Vestas\\Pipeline\\phase\\phase1\\output\\raw\\VestasAnnualReport2025_09aa4e8bd783.json",
+      "canonical_json": "D:\\Coding\\Vestas\\Pipeline\\phase\\phase1\\output\\normalized\\VestasAnnualReport2025_09aa4e8bd783.json"
+    },
+    "processed_pages": [
+      3,
+      7,
+      8,
+      9,
+      10,
+      13,
+      38,
+      50,
+      51,
+      68,
+      71,
+      72,
+      73,
+      74
+    ],
+    "processed_page_count": 14,
+    "current_request": null,
+    "status": "completed",
+    "created_at": "2026-08-07T08:33:11.105693+00:00",
+    "processing_started_at": "2026-08-07T09:08:01.291962+00:00",
+    "processing_completed_at": "2026-08-07T09:08:38.738786+00:00",
+    "last_successful_at": "2026-08-07T09:08:38.738786+00:00",
+    "error": null,
+    "document_id": "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc",
+    "parser_status": "completed",
+    "last_request": {
+      "page_range": [
+        68,
+        68
+      ],
+      "requested_pages": [
+        68
+      ],
+      "force_reprocess": null
+    },
+    "extraction_summary": {
+      "pages_processed": 14,
+      "pages_with_text": 13,
+      "pages_with_tables": 7,
+      "pages_with_pictures": 11,
+      "pages_requiring_ocr": 1,
+      "ocr_pages_processed": 1,
+      "empty_pages": 0,
+      "total_blocks": 219,
+      "total_tables": 13,
+      "total_pictures": 56,
+      "label_counts": {
+        "section_header": 61,
+        "picture": 56,
+        "text": 76,
+        "table": 13,
+        "caption": 4,
+        "list_item": 9
+      },
+      "page_type_counts": {
+        "mixed": 13,
+        "scanned_or_image_based": 1
+      },
+      "ocr_required_pages": [
+        38
+      ]
+    }
+  }
+}

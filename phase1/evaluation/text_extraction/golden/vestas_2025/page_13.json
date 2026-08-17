@@ -1,0 +1,22 @@
+{
+  "page_number": 13,
+  "description": "Vision and strategy - narrative text and bullet lists; page also contains a circular 'wind energy value drivers' infographic (known limitation: circular diagrams) whose visual-only content is intentionally excluded",
+  "expected_headings": [
+    "Vision and strategy",
+    "Our vision and purpose",
+    "A sustainable transition must be both affordable and secure",
+    "Wind energy value drivers",
+    "Energy affordability",
+    "Energy security",
+    "Energy sustainability"
+  ],
+  "required_text_fragments": [
+    "Global Leader in Sustainable Energy Solutions",
+    "201 GW capacity installed in 88 countries",
+    "Levelised cost of electricity",
+    "non-depletable source of energy",
+    "Decentralised power generation is more resilient to cyber or military threats"
+  ],
+  "expected_tables": [],
+  "provenance_required": true
+}

@@ -1,0 +1,95 @@
+2026-08-12 11:43:24,123 | INFO | PIPELINE | run_id=20260812_114324 | STARTED
+2026-08-12 11:43:24,123 | INFO | PIPELINE | log_file=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\logger\run_20260812_114324.log
+2026-08-12 11:43:24,123 | INFO | PIPELINE | run_id=20260812_114324 | STEP_1 | STARTED
+2026-08-12 11:43:24,123 | INFO | STEP_1 | risk_analysis | STARTED
+2026-08-12 11:43:24,123 | INFO | STEP_1 | input_load | STARTED
+2026-08-12 11:43:24,125 | INFO | STEP_1 | input_file=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\InputJson\VestasAnnualReport2025.json
+2026-08-12 11:43:24,125 | INFO | STEP_1 | input_load | SUCCESS | pages=6
+2026-08-12 11:43:24,125 | INFO | STEP_1 | enterprise_table | page=51 | block=block-5 | rows=3
+2026-08-12 11:43:24,134 | INFO | STEP_1 | topic_detected | page=71 | code=E1 | topic=Climate Change | block=block-3
+2026-08-12 11:43:24,134 | INFO | STEP_1 | topic_detected | page=72 | code=E4 | topic=Biodiversity and ecosystems | block=block-1
+2026-08-12 11:43:24,134 | INFO | STEP_1 | topic_detected | page=72 | code=E5 | topic=Circular economy and resource use | block=block-2
+2026-08-12 11:43:24,134 | INFO | STEP_1 | topic_detected | page=73 | code=S1 | topic=Own Workforce | block=block-1
+2026-08-12 11:43:24,134 | INFO | STEP_1 | topic_detected | page=73 | code=S2 | topic=Workers in the value chain | block=block-6
+2026-08-12 11:43:24,134 | INFO | STEP_1 | topic_detected | page=74 | code=S3 | topic=Affected communities | block=block-1
+2026-08-12 11:43:24,134 | INFO | STEP_1 | topic_detected | page=74 | code=G1 | topic=Business Conduct | block=block-7
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_detected | page=71 | block=block-13 | rows=5
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_detected | page=72 | block=block-9 | rows=1
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_detected | page=72 | block=block-10 | rows=3
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_detected | page=73 | block=block-12 | rows=3
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_detected | page=73 | block=block-13 | rows=3
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_detected | page=74 | block=block-15 | rows=2
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_detected | page=74 | block=block-16 | rows=1
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_detected | page=74 | block=block-17 | rows=3
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_match | page=71 | table=block-13 | topic=E1 | distance=36.35 | overlap=1.00
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_attached | topic=E1 | page=71 | block=block-13 | rows=5
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_match | page=72 | table=block-9 | topic=E4 | distance=17.61 | overlap=1.00
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_attached | topic=E4 | page=72 | block=block-9 | rows=1
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_match | page=72 | table=block-10 | topic=E5 | distance=32.82 | overlap=1.00
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_attached | topic=E5 | page=72 | block=block-10 | rows=3
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_match | page=73 | table=block-12 | topic=S1 | distance=35.06 | overlap=1.00
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_attached | topic=S1 | page=73 | block=block-12 | rows=3
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_match | page=73 | table=block-13 | topic=S2 | distance=34.15 | overlap=1.00
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_attached | topic=S2 | page=73 | block=block-13 | rows=3
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_match | page=74 | table=block-15 | topic=S3 | distance=35.02 | overlap=0.57
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_attached | topic=S3 | page=74 | block=block-15 | rows=2
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_match | page=74 | table=block-16 | topic=S3 | distance=35.38 | overlap=0.00
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_attached | topic=S3 | page=74 | block=block-16 | rows=1
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_match | page=74 | table=block-17 | topic=G1 | distance=35.54 | overlap=1.00
+2026-08-12 11:43:24,134 | INFO | STEP_1 | table_attached | topic=G1 | page=74 | block=block-17 | rows=3
+2026-08-12 11:43:24,134 | INFO | STEP_1 | risk_analysis | SUCCESS | topics=7 | material_tables=8 | topics_without_tables=0
+2026-08-12 11:43:24,134 | INFO | STEP_1 | output_write | SUCCESS | output=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\output\risk_analysis.json
+2026-08-12 11:43:24,134 | INFO | PIPELINE | run_id=20260812_114324 | STEP_1 | SUCCESS
+2026-08-12 11:43:24,134 | INFO | PIPELINE | run_id=20260812_114324 | STEP_2 | STARTED
+2026-08-12 11:43:24,134 | INFO | STEP_2 | generation | STARTED
+2026-08-12 11:43:24,134 | INFO | STEP_2 | analysis_load | STARTED | file=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\output\risk_analysis.json
+2026-08-12 11:43:24,146 | INFO | STEP_2 | analysis_load | SUCCESS
+2026-08-12 11:43:24,146 | INFO | STEP_2 | llm_health | STARTED | provider=openrouter | model=google/gemma-4-26b-a4b-it:free
+2026-08-12 11:43:24,425 | INFO | STEP_2 | llm_health | SUCCESS | status=200 | latency_ms=270.08
+2026-08-12 11:43:24,425 | INFO | STEP_2 | prompt_load | name=risk_extraction | version=1.0 | hash=1f0b1e5735af
+2026-08-12 11:43:24,425 | INFO | STEP_2 | contexts | count=8
+2026-08-12 11:43:24,425 | INFO | STEP_2 | context_generation | STARTED | 1/8 | source_type=enterprise_main_risks | topic=Main risks
+2026-08-12 11:43:24,425 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_extraction
+2026-08-12 11:43:51,851 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=27433.65 | prompt_tokens=1616 | completion_tokens=396
+2026-08-12 11:43:51,851 | INFO | STEP_2 | raw_response_shape | topic=Main risks | type=dict | keys=['risks']
+2026-08-12 11:43:51,851 | INFO | STEP_2 | raw_risk_item | topic=Main risks | index=0 | type=dict | preview='{"category": "geopolitical", "description": "Shifting geopolitical tensions and conflicts in regions like Ukraine and the Middle East disrupt global supply chains and business operations. These dynamics create market uncertainty, increase costs through tariffs, and may weaken project economics and competitiveness.", "mitigation": "We manage geopolitical risks by continuously monitoring global developments and implementing appropriate mitigations. By maintaining a global and regionalised manufacturing footprint, Vestas can effectively respond to geopolitical shifts and regulatory changes. Proactive advocacy ensures alignment and compliance with evolving policies and the regulatory climate. Additionally, we exercise commercial discipline and utilise indexation and financial hedging strategies to minimise exposure.", "page": 51, "section": "Risk management", "source_block_ids": ["block-5"], "title": "Geopolitics and regulatory framework"}'
+2026-08-12 11:43:51,851 | INFO | STEP_2 | raw_risk_item | topic=Main risks | index=1 | type=dict | preview='{"category": "operational", "description": "Delivering complex onshore and offshore projects is subject to delays in production capacity ramp-up, quality control issues, and supply chain disruptions. These challenges can lead to cost overruns, margin erosion, and reputational damage, particularly as project scale and complexity increase.", "mitigation": "We mitigate execution risks through project governance, enhanced planning functions, and continuous alignment between commercial and delivery teams. We invest in scalable manufacturing capacity and maintain close coordination with suppliers to secure timely component availability.", "page": 51, "section": "Risk management", "source_block_ids": ["block-5"], "title": "Project execution"}'
+2026-08-12 11:43:51,851 | INFO | STEP_2 | raw_risk_item | topic=Main risks | index=2 | type=dict | preview='{"category": "cyber", "description": "Vestas\' digital and critical assets are targets for cyber-criminal and geopolitical actors seeking to extort or destabilise energy generation. A successful attack could cause electricity outages, physical damage to assets, and significant economic and reputational loss.", "mitigation": "We are developing cyber security services aimed at helping our customers navigate cyber risks effectively, fulfil industry requirements and standards, and uphold their responsibilities.", "page": 51, "section": "Risk management", "source_block_ids": ["block-5"], "title": "Cyber attacks"}'
+2026-08-12 11:43:51,851 | INFO | STEP_2 | category_resolution | source=llm | topic=Main risks | index=0 | category=geopolitical
+2026-08-12 11:43:51,851 | INFO | STEP_2 | category_resolution | source=llm | topic=Main risks | index=1 | category=operational
+2026-08-12 11:43:51,851 | INFO | STEP_2 | category_resolution | source=llm | topic=Main risks | index=2 | category=cyber
+2026-08-12 11:43:51,851 | INFO | STEP_2 | context_generation | SUCCESS | topic=Main risks | risks=3
+2026-08-12 11:43:51,851 | INFO | STEP_2 | context_generation | STARTED | 2/8 | source_type=material_iro | topic=E1 Climate Change
+2026-08-12 11:43:51,851 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_extraction
+2026-08-12 11:44:05,987 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=14126.59 | prompt_tokens=1275 | completion_tokens=242
+2026-08-12 11:44:05,987 | INFO | STEP_2 | raw_response_shape | topic=E1 Climate Change | type=dict | keys=['risks']
+2026-08-12 11:44:05,987 | INFO | STEP_2 | raw_risk_item | topic=E1 Climate Change | index=0 | type=dict | preview='{"title": "GHG emissions from operations and value chain", "description": "Scope 1, 2, & 3 GHG emissions from Vestas\' own operations and value chain have a negative impact on the global climate and environment.", "mitigation": null, "page": 71, "section": "Material impacts, risks, and opportunities", "source_block_ids": ["block-13"], "category": "climate"}'
+2026-08-12 11:44:05,987 | INFO | STEP_2 | raw_risk_item | topic=E1 Climate Change | index=1 | type=dict | preview='{"title": "Carbon taxes and tariffs", "description": "High carbon taxes and tariffs increase the price of GHG intense materials such as steel, which increases the overall cost to produce wind turbines.", "mitigation": null, "page": 71, "section": "Material impacts, risks, and opportunities", "source_block_ids": ["block-13"], "category": "climate"}'
+2026-08-12 11:44:05,987 | INFO | STEP_2 | category_resolution | source=llm | topic=E1 Climate Change | index=0 | category=climate
+2026-08-12 11:44:05,987 | INFO | STEP_2 | category_resolution | source=llm | topic=E1 Climate Change | index=1 | category=climate
+2026-08-12 11:44:05,987 | INFO | STEP_2 | context_generation | SUCCESS | topic=E1 Climate Change | risks=2
+2026-08-12 11:44:05,987 | INFO | STEP_2 | context_generation | STARTED | 3/8 | source_type=material_iro | topic=E4 Biodiversity and ecosystems
+2026-08-12 11:44:05,987 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_extraction
+2026-08-12 11:44:06,489 | ERROR | STEP_2 | llm_call | FAILED | status=429 | response={"error":{"message":"Provider returned error","code":429,"metadata":{"raw":"google/gemma-4-26b-a4b-it:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations","provider_name":"Darkbloom","is_byok":false,"provider_error_code":"rate_limit_exceeded","limit_source":"upstream_provider_shared_pool","remedy_hint":"Retry shortly, add your own provider key (https://openrouter.ai/settings/integrations), or route to another provider with provider routing: https://openrouter.ai/docs/features/provider-routing","retry_after_seconds":22,"retry_after_seconds_raw":22,"headers":{"Retry-After":"22"}}},"user_id":"user_3Ekv1OZHz17nrBytNpaHjKRsZu1"}
+2026-08-12 11:44:06,489 | ERROR | STEP_2 | llm_call | EXCEPTION
+Traceback (most recent call last):
+  File "D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\src\llm_client.py", line 421, in generate_structured
+    response.raise_for_status()
+  File "D:\Coding\Vestas\Pipeline\.venv\lib\site-packages\httpx\_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '429 Too Many Requests' for url 'https://openrouter.ai/api/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429
+2026-08-12 11:44:06,489 | ERROR | PIPELINE | run_id=20260812_114324 | FAILED
+Traceback (most recent call last):
+  File "D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\main.py", line 136, in main
+    generator.generate()
+  File "D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\src\risk_generator.py", line 845, in generate
+    self._generate_context(
+  File "D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\src\risk_generator.py", line 560, in _generate_context
+    self.llm_client
+  File "D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\src\llm_client.py", line 421, in generate_structured
+    response.raise_for_status()
+  File "D:\Coding\Vestas\Pipeline\.venv\lib\site-packages\httpx\_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Client error '429 Too Many Requests' for url 'https://openrouter.ai/api/v1/chat/completions'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429

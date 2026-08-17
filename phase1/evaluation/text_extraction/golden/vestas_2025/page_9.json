@@ -1,0 +1,37 @@
+{
+  "page_number": 9,
+  "description": "Sustainability key figures - Environmental and Social tables",
+  "expected_headings": [
+    "Sustainability key figures"
+  ],
+  "required_text_fragments": [
+    "Vestas' progress indicator",
+    "Women in Top Management",
+    "LM Wind Power Blades"
+  ],
+  "expected_tables": [
+    {
+      "row_count": 20,
+      "column_count": 6,
+      "columns": ["Environmental", "2025", "2024", "2023", "2022", "2021"],
+      "required_row_labels": [
+        "Utilisation of resources",
+        "Waste",
+        "GHG emissions",
+        "Products"
+      ]
+    },
+    {
+      "row_count": 20,
+      "column_count": 6,
+      "columns": ["Social", "2025", "2024", "2023", "2022", "2021"],
+      "required_row_labels": [
+        "Employees",
+        "Diversity and inclusion",
+        "Human rights",
+        "Governance"
+      ]
+    }
+  ],
+  "provenance_required": true
+}

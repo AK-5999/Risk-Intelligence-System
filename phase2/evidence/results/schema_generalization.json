@@ -1,0 +1,57 @@
+{
+  "suite": "schema_generalization",
+  "total_cases": 4,
+  "passed_cases": 4,
+  "failed_cases": 0,
+  "pass_rate": 1.0,
+  "cases": [
+    {
+      "case_id": "gen_001",
+      "description": "Generic financial risk should be retained.",
+      "passed": true,
+      "checks": {
+        "candidate_count_match": true,
+        "excluded_count_match": true,
+        "candidate_content_match": true
+      },
+      "actual_candidate_count": 1,
+      "actual_excluded_count": 0
+    },
+    {
+      "case_id": "gen_002",
+      "description": "Financial opportunity should be excluded.",
+      "passed": true,
+      "checks": {
+        "candidate_count_match": true,
+        "excluded_count_match": true,
+        "exclusion_reason_match": true
+      },
+      "actual_candidate_count": 0,
+      "actual_excluded_count": 1
+    },
+    {
+      "case_id": "gen_003",
+      "description": "Immaterial financial entry should be excluded.",
+      "passed": true,
+      "checks": {
+        "candidate_count_match": true,
+        "excluded_count_match": true,
+        "exclusion_reason_match": true
+      },
+      "actual_candidate_count": 0,
+      "actual_excluded_count": 1
+    },
+    {
+      "case_id": "gen_004",
+      "description": "Blank financial side should not convert environmental impact into a risk.",
+      "passed": true,
+      "checks": {
+        "candidate_count_match": true,
+        "excluded_count_match": true,
+        "exclusion_reason_match": true
+      },
+      "actual_candidate_count": 0,
+      "actual_excluded_count": 1
+    }
+  ]
+}

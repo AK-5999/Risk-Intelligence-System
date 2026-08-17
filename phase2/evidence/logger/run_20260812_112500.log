@@ -1,0 +1,101 @@
+2026-08-12 11:25:00,453 | INFO | PIPELINE | run_id=20260812_112500 | STARTED
+2026-08-12 11:25:00,453 | INFO | PIPELINE | log_file=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\logger\run_20260812_112500.log
+2026-08-12 11:25:00,453 | INFO | PIPELINE | run_id=20260812_112500 | STEP_1 | STARTED
+2026-08-12 11:25:00,453 | INFO | STEP_1 | risk_analysis | STARTED
+2026-08-12 11:25:00,453 | INFO | STEP_1 | input_load | STARTED
+2026-08-12 11:25:00,453 | INFO | STEP_1 | input_file=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\InputJson\VestasAnnualReport2025.json
+2026-08-12 11:25:00,464 | INFO | STEP_1 | input_load | SUCCESS | pages=6
+2026-08-12 11:25:00,464 | INFO | STEP_1 | enterprise_table | page=51 | block=block-5 | rows=3
+2026-08-12 11:25:00,464 | INFO | STEP_1 | topic_detected | page=71 | code=E1 | topic=Climate Change | block=block-3
+2026-08-12 11:25:00,464 | INFO | STEP_1 | topic_detected | page=72 | code=E4 | topic=Biodiversity and ecosystems | block=block-1
+2026-08-12 11:25:00,464 | INFO | STEP_1 | topic_detected | page=72 | code=E5 | topic=Circular economy and resource use | block=block-2
+2026-08-12 11:25:00,464 | INFO | STEP_1 | topic_detected | page=73 | code=S1 | topic=Own Workforce | block=block-1
+2026-08-12 11:25:00,464 | INFO | STEP_1 | topic_detected | page=73 | code=S2 | topic=Workers in the value chain | block=block-6
+2026-08-12 11:25:00,464 | INFO | STEP_1 | topic_detected | page=74 | code=S3 | topic=Affected communities | block=block-1
+2026-08-12 11:25:00,464 | INFO | STEP_1 | topic_detected | page=74 | code=G1 | topic=Business Conduct | block=block-7
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_detected | page=71 | block=block-13 | rows=5
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_detected | page=72 | block=block-9 | rows=1
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_detected | page=72 | block=block-10 | rows=3
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_detected | page=73 | block=block-12 | rows=3
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_detected | page=73 | block=block-13 | rows=3
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_detected | page=74 | block=block-15 | rows=2
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_detected | page=74 | block=block-16 | rows=1
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_detected | page=74 | block=block-17 | rows=3
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_match | page=71 | table=block-13 | topic=E1 | distance=36.35 | overlap=1.00
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_attached | topic=E1 | page=71 | block=block-13 | rows=5
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_match | page=72 | table=block-9 | topic=E4 | distance=17.61 | overlap=1.00
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_attached | topic=E4 | page=72 | block=block-9 | rows=1
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_match | page=72 | table=block-10 | topic=E5 | distance=32.82 | overlap=1.00
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_attached | topic=E5 | page=72 | block=block-10 | rows=3
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_match | page=73 | table=block-12 | topic=S1 | distance=35.06 | overlap=1.00
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_attached | topic=S1 | page=73 | block=block-12 | rows=3
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_match | page=73 | table=block-13 | topic=S2 | distance=34.15 | overlap=1.00
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_attached | topic=S2 | page=73 | block=block-13 | rows=3
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_match | page=74 | table=block-15 | topic=S3 | distance=35.02 | overlap=0.57
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_attached | topic=S3 | page=74 | block=block-15 | rows=2
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_match | page=74 | table=block-16 | topic=S3 | distance=35.38 | overlap=0.00
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_attached | topic=S3 | page=74 | block=block-16 | rows=1
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_match | page=74 | table=block-17 | topic=G1 | distance=35.54 | overlap=1.00
+2026-08-12 11:25:00,464 | INFO | STEP_1 | table_attached | topic=G1 | page=74 | block=block-17 | rows=3
+2026-08-12 11:25:00,464 | INFO | STEP_1 | risk_analysis | SUCCESS | topics=7 | material_tables=8 | topics_without_tables=0
+2026-08-12 11:25:00,464 | INFO | STEP_1 | output_write | SUCCESS | output=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\output\risk_analysis.json
+2026-08-12 11:25:00,464 | INFO | PIPELINE | run_id=20260812_112500 | STEP_1 | SUCCESS
+2026-08-12 11:25:00,464 | INFO | PIPELINE | run_id=20260812_112500 | STEP_2 | STARTED
+2026-08-12 11:25:00,464 | INFO | STEP_2 | generation | STARTED
+2026-08-12 11:25:00,464 | INFO | STEP_2 | analysis_load | STARTED | file=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\output\risk_analysis.json
+2026-08-12 11:25:00,480 | INFO | STEP_2 | analysis_load | SUCCESS
+2026-08-12 11:25:00,480 | INFO | STEP_2 | llm_health | STARTED | provider=openrouter | model=google/gemma-4-26b-a4b-it:free
+2026-08-12 11:25:00,759 | INFO | STEP_2 | llm_health | SUCCESS | status=200 | latency_ms=287.86
+2026-08-12 11:25:00,759 | INFO | STEP_2 | prompt_load | name=risk_extraction | version=1.0 | hash=824e864f1b04
+2026-08-12 11:25:00,759 | INFO | STEP_2 | contexts | count=8
+2026-08-12 11:25:00,759 | INFO | STEP_2 | context_generation | STARTED | 1/8 | source_type=enterprise_main_risks | topic=Main risks
+2026-08-12 11:25:00,775 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_extraction
+2026-08-12 11:25:11,494 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=10720.61 | prompt_tokens=1736 | completion_tokens=388
+2026-08-12 11:25:11,513 | INFO | STEP_2 | context_generation | SUCCESS | topic=Main risks | risks=3
+2026-08-12 11:25:11,513 | INFO | STEP_2 | context_generation | STARTED | 2/8 | source_type=material_iro | topic=E1 Climate Change
+2026-08-12 11:25:11,513 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_extraction
+2026-08-12 11:25:18,680 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=7180.07 | prompt_tokens=1395 | completion_tokens=77
+2026-08-12 11:25:18,696 | INFO | STEP_2 | context_generation | SUCCESS | topic=E1 Climate Change | risks=1
+2026-08-12 11:25:18,696 | INFO | STEP_2 | context_generation | STARTED | 3/8 | source_type=material_iro | topic=E4 Biodiversity and ecosystems
+2026-08-12 11:25:18,698 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_extraction
+2026-08-12 11:25:21,669 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=2974.33 | prompt_tokens=1040 | completion_tokens=6
+2026-08-12 11:25:21,669 | INFO | STEP_2 | context_generation | SUCCESS | topic=E4 Biodiversity and ecosystems | risks=0
+2026-08-12 11:25:21,669 | INFO | STEP_2 | context_generation | STARTED | 4/8 | source_type=material_iro | topic=E5 Circular economy and resource use
+2026-08-12 11:25:21,673 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_extraction
+2026-08-12 11:25:34,501 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=12827.89 | prompt_tokens=1196 | completion_tokens=88
+2026-08-12 11:25:34,503 | INFO | STEP_2 | context_generation | SUCCESS | topic=E5 Circular economy and resource use | risks=1
+2026-08-12 11:25:34,503 | INFO | STEP_2 | context_generation | STARTED | 5/8 | source_type=material_iro | topic=S1 Own Workforce
+2026-08-12 11:25:34,510 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_extraction
+2026-08-12 11:25:38,637 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=4136.06 | prompt_tokens=1186 | completion_tokens=83
+2026-08-12 11:25:38,637 | INFO | STEP_2 | context_generation | SUCCESS | topic=S1 Own Workforce | risks=1
+2026-08-12 11:25:38,637 | INFO | STEP_2 | context_generation | STARTED | 6/8 | source_type=material_iro | topic=S2 Workers in the value chain
+2026-08-12 11:25:38,647 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_extraction
+2026-08-12 11:25:50,484 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=11835.43 | prompt_tokens=1253 | completion_tokens=180
+2026-08-12 11:25:50,484 | ERROR | STEP_2 | llm_call | EXCEPTION
+Traceback (most recent call last):
+  File "D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\src\llm_client.py", line 224, in generate_structured
+    return json.loads(content)
+  File "C:\Program Files\Python310\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\Python310\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\Python310\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 464 (char 463)
+2026-08-12 11:25:50,520 | ERROR | PIPELINE | run_id=20260812_112500 | FAILED
+Traceback (most recent call last):
+  File "D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\main.py", line 136, in main
+    generator.generate()
+  File "D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\src\risk_generator.py", line 387, in generate
+    self._generate_context(
+  File "D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\src\risk_generator.py", line 302, in _generate_context
+    self.llm_client
+  File "D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\src\llm_client.py", line 224, in generate_structured
+    return json.loads(content)
+  File "C:\Program Files\Python310\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "C:\Program Files\Python310\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Program Files\Python310\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 1 column 464 (char 463)

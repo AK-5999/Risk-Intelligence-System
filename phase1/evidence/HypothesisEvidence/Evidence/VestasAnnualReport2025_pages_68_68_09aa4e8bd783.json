@@ -1,0 +1,1304 @@
+{
+  "document_id": "297dc417-54b2-4bb6-adc2-aef440b886c1",
+  "document_hash": "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc",
+  "source": {
+    "file_name": "VestasAnnualReport2025.pdf",
+    "file_type": "pdf",
+    "file_size_bytes": 7656538,
+    "source_path": "D:\\Coding\\Vestas\\Pipeline\\data\\VestasAnnualReport2025.pdf"
+  },
+  "document_metadata": {
+    "page_count": 1,
+    "processed_page_range": [
+      68,
+      68
+    ],
+    "title": "VestasAnnualReport2025"
+  },
+  "processing": {
+    "parser_name": "docling-adaptive-pdf-parser",
+    "parser_version": "3.0.0",
+    "processing_started_at": "2026-08-06T14:54:53.026669+00:00",
+    "processing_completed_at": "2026-08-06T14:55:18.297508+00:00",
+    "status": "completed",
+    "strategy": "adaptive_two_pass",
+    "pass_1": {
+      "purpose": "Layout and native-content detection",
+      "ocr_enabled": false
+    },
+    "pass_2": {
+      "purpose": "OCR only on candidate pages",
+      "ocr_enabled": true,
+      "candidate_pages": [],
+      "processed_pages": []
+    }
+  },
+  "content_summary": {
+    "total_blocks": 14,
+    "total_tables": 0,
+    "total_pictures": 1,
+    "label_counts": {
+      "text": 7,
+      "section_header": 3,
+      "picture": 1,
+      "caption": 3
+    },
+    "page_type_counts": {
+      "mixed": 1
+    },
+    "ocr_required_page_count": 0,
+    "ocr_required_pages": []
+  },
+  "pages": [
+    {
+      "page_number": 68,
+      "page_type": "mixed",
+      "contains": {
+        "text": true,
+        "table": false,
+        "picture": true,
+        "chart": true,
+        "diagram": false
+      },
+      "native_text": "SBM-1\nThe value chain that supports our business model\nAt the core of our business model are Onshore, Offshore, Development, and Service. The following outlines the additional steps that are integral to Vestas' value chain.\nThe main features of the upstream value chain are related to suppliers of raw materials and wind turbine components, project developers and transportation companies. The main features in the downstream value chain are related to selling wind power plants and providing service to customers and asset managers.\nInputs\nKey inputs to Vestas' value chain include raw materials, capital employed, energy and employee working hours. Vestas utilises these raw materials and components for manufacturing of wind turbines and related service to our primary downstream stakeholders, customers and asset managers.\nInputs are sourced through business relationships within the supply chain and own operations, encompassing both our internal workforce and external contractors. Development and procurement are primarily managed through improvement initiatives, contractual agreements and risk mitigation frameworks. The main upstream business actors include suppliers of raw materials and wind turbine components, project developers and transportation providers.\nThese activities form the core of Vestas' operations and products. Our position in the value chain is defined as 'Own operations'.\nKey outputs and value creation\nThe key outputs of our value chain are wind turbines installed and serviced. The benefits we generate for our employees, investors, customers, and other stakeholders comprises, are among other things, salaries, shareholder returns, safety and GHG emission avoidance and reduction. Critical contributors to this value creation include our employees, customers, and partners involved in transportation, decommissioning, recycling, and waste management.\nCustomers/Asset managers\nDecommissioning\nWaste and end of life",
+      "ocr_text": "",
+      "final_text": "SBM-1\nThe value chain that supports our business model\nAt the core of our business model are Onshore, Offshore, Development, and Service. The following outlines the additional steps that are integral to Vestas' value chain.\nThe main features of the upstream value chain are related to suppliers of raw materials and wind turbine components, project developers and transportation companies. The main features in the downstream value chain are related to selling wind power plants and providing service to customers and asset managers.\nInputs\nKey inputs to Vestas' value chain include raw materials, capital employed, energy and employee working hours. Vestas utilises these raw materials and components for manufacturing of wind turbines and related service to our primary downstream stakeholders, customers and asset managers.\nInputs are sourced through business relationships within the supply chain and own operations, encompassing both our internal workforce and external contractors. Development and procurement are primarily managed through improvement initiatives, contractual agreements and risk mitigation frameworks. The main upstream business actors include suppliers of raw materials and wind turbine components, project developers and transportation providers.\nThese activities form the core of Vestas' operations and products. Our position in the value chain is defined as 'Own operations'.\nKey outputs and value creation\nThe key outputs of our value chain are wind turbines installed and serviced. The benefits we generate for our employees, investors, customers, and other stakeholders comprises, are among other things, salaries, shareholder returns, safety and GHG emission avoidance and reduction. Critical contributors to this value creation include our employees, customers, and partners involved in transportation, decommissioning, recycling, and waste management.\nCustomers/Asset managers\nDecommissioning\nWaste and end of life",
+      "ocr": {
+        "required": false,
+        "reason": null,
+        "applied": false,
+        "success": false,
+        "error": null
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "SBM-1",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 68,
+              "bbox": {
+                "l": 34.0157,
+                "t": 532.2817009765625,
+                "r": 54.259699999999995,
+                "b": 526.5175517924134,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                5
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "The value chain that supports our business model",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 68,
+              "bbox": {
+                "l": 34.0157,
+                "t": 518.9533009765626,
+                "r": 789.0719000000003,
+                "b": 486.3291702881144,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                48
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "At the core of our business model are Onshore, Offshore, Development, and Service. The following outlines the additional steps that are integral to Vestas' value chain.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 68,
+              "bbox": {
+                "l": 34.01100000000008,
+                "t": 447.2776009765626,
+                "r": 216.02849999999995,
+                "b": 423.9154517924135,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                168
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "The main features of the upstream value chain are related to suppliers of raw materials and wind turbine components, project developers and transportation companies. The main features in the downstream value chain are related to selling wind power plants and providing service to customers and asset managers.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 68,
+              "bbox": {
+                "l": 34.01100000000008,
+                "t": 412.08160097656264,
+                "r": 215.9410000000003,
+                "b": 362.3224517924136,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                309
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Inputs",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 68,
+              "bbox": {
+                "l": 34.01100000000008,
+                "t": 350.48860097656274,
+                "r": 53.93860000000007,
+                "b": 344.7042971790944,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                6
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Key inputs to Vestas' value chain include raw materials, capital employed, energy and employee working hours. Vestas utilises these raw materials and components for manufacturing of wind turbines and related service to our primary downstream stakeholders, customers and asset managers.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 68,
+              "bbox": {
+                "l": 34.01100000000008,
+                "t": 341.68960097656276,
+                "r": 215.89760000000012,
+                "b": 300.72945179241367,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                285
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "Inputs are sourced through business relationships within the supply chain and own operations, encompassing both our internal workforce and external contractors. Development and procurement are primarily managed through improvement initiatives, contractual agreements and risk mitigation frameworks. The main upstream business actors include suppliers of raw materials and wind turbine components, project developers and transportation providers.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 68,
+              "bbox": {
+                "l": 34.01100000000008,
+                "t": 288.89560097656283,
+                "r": 211.1159000000001,
+                "b": 221.5384517924137,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                445
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "These activities form the core of Vestas' operations and products. Our position in the value chain is defined as 'Own operations'.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 68,
+              "bbox": {
+                "l": 34.01100000000008,
+                "t": 209.70460097656286,
+                "r": 196.82890000000015,
+                "b": 186.34245179241367,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                130
+              ]
+            }
+          ]
+        },
+        {
+          "type": "section_header",
+          "text": "Key outputs and value creation",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 68,
+              "bbox": {
+                "l": 34.01100000000008,
+                "t": 174.50860097656283,
+                "r": 128.9618000000001,
+                "b": 168.7242971790945,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                30
+              ]
+            }
+          ]
+        },
+        {
+          "type": "text",
+          "text": "The key outputs of our value chain are wind turbines installed and serviced. The benefits we generate for our employees, investors, customers, and other stakeholders comprises, are among other things, salaries, shareholder returns, safety and GHG emission avoidance and reduction. Critical contributors to this value creation include our employees, customers, and partners involved in transportation, decommissioning, recycling, and waste management.",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 68,
+              "bbox": {
+                "l": 34.01100000000008,
+                "t": 165.7096009765628,
+                "r": 216.02570000000037,
+                "b": 98.3524517924136,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                450
+              ]
+            }
+          ]
+        },
+        {
+          "type": "caption",
+          "text": "Customers/Asset managers",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 68,
+              "bbox": {
+                "l": 326.14200000000005,
+                "t": 66.56160097656266,
+                "r": 408.2309999999998,
+                "b": 60.797451792413426,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                24
+              ]
+            }
+          ]
+        },
+        {
+          "type": "caption",
+          "text": "Decommissioning",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 68,
+              "bbox": {
+                "l": 461.83000000000004,
+                "t": 66.26060097656261,
+                "r": 513.9869999999999,
+                "b": 60.49645179241338,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                15
+              ]
+            }
+          ]
+        },
+        {
+          "type": "caption",
+          "text": "Waste and end of life",
+          "extraction_method": "native_pdf_text",
+          "provenance": [
+            {
+              "page_number": 68,
+              "bbox": {
+                "l": 687.118,
+                "t": 66.26060097656261,
+                "r": 747.9262999999999,
+                "b": 60.49645179241338,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                21
+              ]
+            }
+          ]
+        },
+        {
+          "type": "flow_chart",
+          "classification": {
+            "primary_label": "flow_chart",
+            "labels": [
+              "flow_chart",
+              "bar_chart",
+              "full_page_image",
+              "engineering_drawing",
+              "icon",
+              "pie_chart",
+              "line_chart",
+              "other",
+              "geographical_map",
+              "screenshot_from_manual",
+              "calendar",
+              "page_thumbnail",
+              "logo",
+              "table",
+              "box_plot",
+              "music",
+              "chemistry_structure",
+              "screenshot_from_computer",
+              "scatter_plot",
+              "crossword_puzzle",
+              "photograph",
+              "stamp",
+              "qr_code",
+              "signature",
+              "topographical_map",
+              "bar_code",
+              "chart",
+              "photo"
+            ],
+            "confidence_scores": [
+              0.7157592177391052,
+              0.1887977421283722,
+              0.027311308309435844,
+              0.02064848318696022,
+              0.013166112825274467,
+              0.011361882090568542,
+              0.005947296041995287,
+              0.0044676135294139385,
+              0.003173148026689887,
+              0.0026384510565549135,
+              0.002265204908326268,
+              0.001034233020618558,
+              0.0007464700029231608,
+              0.000652191461995244,
+              0.0005803189123980701,
+              0.0003209030837751925,
+              0.00029651919612661004,
+              0.00029206633917056024,
+              0.00017526729789096862,
+              8.644215995445848e-05,
+              8.061560947680846e-05,
+              6.422108708648011e-05,
+              5.729421172873117e-05,
+              5.175853948458098e-05,
+              1.902264375530649e-05,
+              6.261120233830297e-06
+            ]
+          },
+          "annotations": [
+            {
+              "kind": "classification",
+              "provenance": "DocumentPictureClassifier",
+              "predicted_classes": [
+                {
+                  "class_name": "flow_chart",
+                  "confidence": 0.7157592177391052
+                },
+                {
+                  "class_name": "bar_chart",
+                  "confidence": 0.1887977421283722
+                },
+                {
+                  "class_name": "full_page_image",
+                  "confidence": 0.027311308309435844
+                },
+                {
+                  "class_name": "engineering_drawing",
+                  "confidence": 0.02064848318696022
+                },
+                {
+                  "class_name": "icon",
+                  "confidence": 0.013166112825274467
+                },
+                {
+                  "class_name": "pie_chart",
+                  "confidence": 0.011361882090568542
+                },
+                {
+                  "class_name": "line_chart",
+                  "confidence": 0.005947296041995287
+                },
+                {
+                  "class_name": "other",
+                  "confidence": 0.0044676135294139385
+                },
+                {
+                  "class_name": "geographical_map",
+                  "confidence": 0.003173148026689887
+                },
+                {
+                  "class_name": "screenshot_from_manual",
+                  "confidence": 0.0026384510565549135
+                },
+                {
+                  "class_name": "calendar",
+                  "confidence": 0.002265204908326268
+                },
+                {
+                  "class_name": "page_thumbnail",
+                  "confidence": 0.001034233020618558
+                },
+                {
+                  "class_name": "logo",
+                  "confidence": 0.0007464700029231608
+                },
+                {
+                  "class_name": "table",
+                  "confidence": 0.000652191461995244
+                },
+                {
+                  "class_name": "box_plot",
+                  "confidence": 0.0005803189123980701
+                },
+                {
+                  "class_name": "music",
+                  "confidence": 0.0003209030837751925
+                },
+                {
+                  "class_name": "chemistry_structure",
+                  "confidence": 0.00029651919612661004
+                },
+                {
+                  "class_name": "screenshot_from_computer",
+                  "confidence": 0.00029206633917056024
+                },
+                {
+                  "class_name": "scatter_plot",
+                  "confidence": 0.00017526729789096862
+                },
+                {
+                  "class_name": "crossword_puzzle",
+                  "confidence": 8.644215995445848e-05
+                },
+                {
+                  "class_name": "photograph",
+                  "confidence": 8.061560947680846e-05
+                },
+                {
+                  "class_name": "stamp",
+                  "confidence": 6.422108708648011e-05
+                },
+                {
+                  "class_name": "qr_code",
+                  "confidence": 5.729421172873117e-05
+                },
+                {
+                  "class_name": "signature",
+                  "confidence": 5.175853948458098e-05
+                },
+                {
+                  "class_name": "topographical_map",
+                  "confidence": 1.902264375530649e-05
+                },
+                {
+                  "class_name": "bar_code",
+                  "confidence": 6.261120233830297e-06
+                }
+              ]
+            }
+          ],
+          "extraction_method": "docling_picture_analysis",
+          "provenance": [
+            {
+              "page_number": 68,
+              "bbox": {
+                "l": 228.8986090305604,
+                "t": 448.91001185551283,
+                "r": 808.2426769717678,
+                "b": 73.25149250626566,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ],
+      "block_ids": [
+        "#/texts/4",
+        "#/texts/5",
+        "#/texts/6",
+        "#/texts/7",
+        "#/texts/8",
+        "#/texts/9",
+        "#/texts/10",
+        "#/texts/11",
+        "#/texts/12",
+        "#/texts/13",
+        "#/pictures/0",
+        "#/texts/14",
+        "#/texts/29",
+        "#/texts/30"
+      ],
+      "table_ids": [],
+      "picture_ids": [
+        "#/pictures/0"
+      ],
+      "metadata": {
+        "block_count": 14,
+        "text_block_count": 13,
+        "table_count": 0,
+        "picture_count": 1,
+        "chart_count": 1,
+        "diagram_count": 0
+      },
+      "warnings": []
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "#/texts/4",
+      "sequence_number": 1,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "SBM-1",
+      "character_count": 5,
+      "word_count": 1,
+      "page_numbers": [
+        68
+      ],
+      "provenance": [
+        {
+          "page_number": 68,
+          "bbox": {
+            "l": 34.0157,
+            "t": 532.2817009765625,
+            "r": 54.259699999999995,
+            "b": 526.5175517924134,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            5
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/5",
+      "sequence_number": 2,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "The value chain that supports our business model",
+      "character_count": 48,
+      "word_count": 8,
+      "page_numbers": [
+        68
+      ],
+      "provenance": [
+        {
+          "page_number": 68,
+          "bbox": {
+            "l": 34.0157,
+            "t": 518.9533009765626,
+            "r": 789.0719000000003,
+            "b": 486.3291702881144,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            48
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/6",
+      "sequence_number": 3,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "At the core of our business model are Onshore, Offshore, Development, and Service. The following outlines the additional steps that are integral to Vestas' value chain.",
+      "character_count": 168,
+      "word_count": 26,
+      "page_numbers": [
+        68
+      ],
+      "provenance": [
+        {
+          "page_number": 68,
+          "bbox": {
+            "l": 34.01100000000008,
+            "t": 447.2776009765626,
+            "r": 216.02849999999995,
+            "b": 423.9154517924135,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            168
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/7",
+      "sequence_number": 4,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "The main features of the upstream value chain are related to suppliers of raw materials and wind turbine components, project developers and transportation companies. The main features in the downstream value chain are related to selling wind power plants and providing service to customers and asset managers.",
+      "character_count": 309,
+      "word_count": 47,
+      "page_numbers": [
+        68
+      ],
+      "provenance": [
+        {
+          "page_number": 68,
+          "bbox": {
+            "l": 34.01100000000008,
+            "t": 412.08160097656264,
+            "r": 215.9410000000003,
+            "b": 362.3224517924136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            309
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/8",
+      "sequence_number": 5,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Inputs",
+      "character_count": 6,
+      "word_count": 1,
+      "page_numbers": [
+        68
+      ],
+      "provenance": [
+        {
+          "page_number": 68,
+          "bbox": {
+            "l": 34.01100000000008,
+            "t": 350.48860097656274,
+            "r": 53.93860000000007,
+            "b": 344.7042971790944,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            6
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/9",
+      "sequence_number": 6,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "Key inputs to Vestas' value chain include raw materials, capital employed, energy and employee working hours. Vestas utilises these raw materials and components for manufacturing of wind turbines and related service to our primary downstream stakeholders, customers and asset managers.",
+      "character_count": 285,
+      "word_count": 40,
+      "page_numbers": [
+        68
+      ],
+      "provenance": [
+        {
+          "page_number": 68,
+          "bbox": {
+            "l": 34.01100000000008,
+            "t": 341.68960097656276,
+            "r": 215.89760000000012,
+            "b": 300.72945179241367,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            285
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/10",
+      "sequence_number": 7,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "Inputs are sourced through business relationships within the supply chain and own operations, encompassing both our internal workforce and external contractors. Development and procurement are primarily managed through improvement initiatives, contractual agreements and risk mitigation frameworks. The main upstream business actors include suppliers of raw materials and wind turbine components, project developers and transportation providers.",
+      "character_count": 445,
+      "word_count": 55,
+      "page_numbers": [
+        68
+      ],
+      "provenance": [
+        {
+          "page_number": 68,
+          "bbox": {
+            "l": 34.01100000000008,
+            "t": 288.89560097656283,
+            "r": 211.1159000000001,
+            "b": 221.5384517924137,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            445
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/11",
+      "sequence_number": 8,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "These activities form the core of Vestas' operations and products. Our position in the value chain is defined as 'Own operations'.",
+      "character_count": 130,
+      "word_count": 21,
+      "page_numbers": [
+        68
+      ],
+      "provenance": [
+        {
+          "page_number": 68,
+          "bbox": {
+            "l": 34.01100000000008,
+            "t": 209.70460097656286,
+            "r": 196.82890000000015,
+            "b": 186.34245179241367,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            130
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/12",
+      "sequence_number": 9,
+      "hierarchy_level": 1,
+      "type": "section_header",
+      "text": "Key outputs and value creation",
+      "character_count": 30,
+      "word_count": 5,
+      "page_numbers": [
+        68
+      ],
+      "provenance": [
+        {
+          "page_number": 68,
+          "bbox": {
+            "l": 34.01100000000008,
+            "t": 174.50860097656283,
+            "r": 128.9618000000001,
+            "b": 168.7242971790945,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            30
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/13",
+      "sequence_number": 10,
+      "hierarchy_level": 1,
+      "type": "text",
+      "text": "The key outputs of our value chain are wind turbines installed and serviced. The benefits we generate for our employees, investors, customers, and other stakeholders comprises, are among other things, salaries, shareholder returns, safety and GHG emission avoidance and reduction. Critical contributors to this value creation include our employees, customers, and partners involved in transportation, decommissioning, recycling, and waste management.",
+      "character_count": 450,
+      "word_count": 60,
+      "page_numbers": [
+        68
+      ],
+      "provenance": [
+        {
+          "page_number": 68,
+          "bbox": {
+            "l": 34.01100000000008,
+            "t": 165.7096009765628,
+            "r": 216.02570000000037,
+            "b": 98.3524517924136,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            450
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/pictures/0",
+      "sequence_number": 11,
+      "hierarchy_level": 1,
+      "type": "picture",
+      "text": "",
+      "character_count": 0,
+      "word_count": 0,
+      "page_numbers": [
+        68
+      ],
+      "provenance": [
+        {
+          "page_number": 68,
+          "bbox": {
+            "l": 228.8986090305604,
+            "t": 448.91001185551283,
+            "r": 808.2426769717678,
+            "b": 73.25149250626566,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            0
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "kind": "classification",
+          "provenance": "DocumentPictureClassifier",
+          "predicted_classes": [
+            {
+              "class_name": "flow_chart",
+              "confidence": 0.7157592177391052
+            },
+            {
+              "class_name": "bar_chart",
+              "confidence": 0.1887977421283722
+            },
+            {
+              "class_name": "full_page_image",
+              "confidence": 0.027311308309435844
+            },
+            {
+              "class_name": "engineering_drawing",
+              "confidence": 0.02064848318696022
+            },
+            {
+              "class_name": "icon",
+              "confidence": 0.013166112825274467
+            },
+            {
+              "class_name": "pie_chart",
+              "confidence": 0.011361882090568542
+            },
+            {
+              "class_name": "line_chart",
+              "confidence": 0.005947296041995287
+            },
+            {
+              "class_name": "other",
+              "confidence": 0.0044676135294139385
+            },
+            {
+              "class_name": "geographical_map",
+              "confidence": 0.003173148026689887
+            },
+            {
+              "class_name": "screenshot_from_manual",
+              "confidence": 0.0026384510565549135
+            },
+            {
+              "class_name": "calendar",
+              "confidence": 0.002265204908326268
+            },
+            {
+              "class_name": "page_thumbnail",
+              "confidence": 0.001034233020618558
+            },
+            {
+              "class_name": "logo",
+              "confidence": 0.0007464700029231608
+            },
+            {
+              "class_name": "table",
+              "confidence": 0.000652191461995244
+            },
+            {
+              "class_name": "box_plot",
+              "confidence": 0.0005803189123980701
+            },
+            {
+              "class_name": "music",
+              "confidence": 0.0003209030837751925
+            },
+            {
+              "class_name": "chemistry_structure",
+              "confidence": 0.00029651919612661004
+            },
+            {
+              "class_name": "screenshot_from_computer",
+              "confidence": 0.00029206633917056024
+            },
+            {
+              "class_name": "scatter_plot",
+              "confidence": 0.00017526729789096862
+            },
+            {
+              "class_name": "crossword_puzzle",
+              "confidence": 8.644215995445848e-05
+            },
+            {
+              "class_name": "photograph",
+              "confidence": 8.061560947680846e-05
+            },
+            {
+              "class_name": "stamp",
+              "confidence": 6.422108708648011e-05
+            },
+            {
+              "class_name": "qr_code",
+              "confidence": 5.729421172873117e-05
+            },
+            {
+              "class_name": "signature",
+              "confidence": 5.175853948458098e-05
+            },
+            {
+              "class_name": "topographical_map",
+              "confidence": 1.902264375530649e-05
+            },
+            {
+              "class_name": "bar_code",
+              "confidence": 6.261120233830297e-06
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "block_id": "#/texts/14",
+      "sequence_number": 12,
+      "hierarchy_level": 2,
+      "type": "caption",
+      "text": "Customers/Asset managers",
+      "character_count": 24,
+      "word_count": 2,
+      "page_numbers": [
+        68
+      ],
+      "provenance": [
+        {
+          "page_number": 68,
+          "bbox": {
+            "l": 326.14200000000005,
+            "t": 66.56160097656266,
+            "r": 408.2309999999998,
+            "b": 60.797451792413426,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            24
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/29",
+      "sequence_number": 13,
+      "hierarchy_level": 1,
+      "type": "caption",
+      "text": "Decommissioning",
+      "character_count": 15,
+      "word_count": 1,
+      "page_numbers": [
+        68
+      ],
+      "provenance": [
+        {
+          "page_number": 68,
+          "bbox": {
+            "l": 461.83000000000004,
+            "t": 66.26060097656261,
+            "r": 513.9869999999999,
+            "b": 60.49645179241338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            15
+          ]
+        }
+      ],
+      "annotations": []
+    },
+    {
+      "block_id": "#/texts/30",
+      "sequence_number": 14,
+      "hierarchy_level": 1,
+      "type": "caption",
+      "text": "Waste and end of life",
+      "character_count": 21,
+      "word_count": 5,
+      "page_numbers": [
+        68
+      ],
+      "provenance": [
+        {
+          "page_number": 68,
+          "bbox": {
+            "l": 687.118,
+            "t": 66.26060097656261,
+            "r": 747.9262999999999,
+            "b": 60.49645179241338,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            21
+          ]
+        }
+      ],
+      "annotations": []
+    }
+  ],
+  "tables": [],
+  "pictures": [
+    {
+      "picture_id": "#/pictures/0",
+      "picture_number": 1,
+      "page_numbers": [
+        68
+      ],
+      "classification": {
+        "primary_label": "flow_chart",
+        "labels": [
+          "flow_chart",
+          "bar_chart",
+          "full_page_image",
+          "engineering_drawing",
+          "icon",
+          "pie_chart",
+          "line_chart",
+          "other",
+          "geographical_map",
+          "screenshot_from_manual",
+          "calendar",
+          "page_thumbnail",
+          "logo",
+          "table",
+          "box_plot",
+          "music",
+          "chemistry_structure",
+          "screenshot_from_computer",
+          "scatter_plot",
+          "crossword_puzzle",
+          "photograph",
+          "stamp",
+          "qr_code",
+          "signature",
+          "topographical_map",
+          "bar_code",
+          "chart",
+          "photo"
+        ],
+        "confidence_scores": [
+          0.7157592177391052,
+          0.1887977421283722,
+          0.027311308309435844,
+          0.02064848318696022,
+          0.013166112825274467,
+          0.011361882090568542,
+          0.005947296041995287,
+          0.0044676135294139385,
+          0.003173148026689887,
+          0.0026384510565549135,
+          0.002265204908326268,
+          0.001034233020618558,
+          0.0007464700029231608,
+          0.000652191461995244,
+          0.0005803189123980701,
+          0.0003209030837751925,
+          0.00029651919612661004,
+          0.00029206633917056024,
+          0.00017526729789096862,
+          8.644215995445848e-05,
+          8.061560947680846e-05,
+          6.422108708648011e-05,
+          5.729421172873117e-05,
+          5.175853948458098e-05,
+          1.902264375530649e-05,
+          6.261120233830297e-06
+        ]
+      },
+      "provenance": [
+        {
+          "page_number": 68,
+          "bbox": {
+            "l": 228.8986090305604,
+            "t": 448.91001185551283,
+            "r": 808.2426769717678,
+            "b": 73.25149250626566,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            0
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "kind": "classification",
+          "provenance": "DocumentPictureClassifier",
+          "predicted_classes": [
+            {
+              "class_name": "flow_chart",
+              "confidence": 0.7157592177391052
+            },
+            {
+              "class_name": "bar_chart",
+              "confidence": 0.1887977421283722
+            },
+            {
+              "class_name": "full_page_image",
+              "confidence": 0.027311308309435844
+            },
+            {
+              "class_name": "engineering_drawing",
+              "confidence": 0.02064848318696022
+            },
+            {
+              "class_name": "icon",
+              "confidence": 0.013166112825274467
+            },
+            {
+              "class_name": "pie_chart",
+              "confidence": 0.011361882090568542
+            },
+            {
+              "class_name": "line_chart",
+              "confidence": 0.005947296041995287
+            },
+            {
+              "class_name": "other",
+              "confidence": 0.0044676135294139385
+            },
+            {
+              "class_name": "geographical_map",
+              "confidence": 0.003173148026689887
+            },
+            {
+              "class_name": "screenshot_from_manual",
+              "confidence": 0.0026384510565549135
+            },
+            {
+              "class_name": "calendar",
+              "confidence": 0.002265204908326268
+            },
+            {
+              "class_name": "page_thumbnail",
+              "confidence": 0.001034233020618558
+            },
+            {
+              "class_name": "logo",
+              "confidence": 0.0007464700029231608
+            },
+            {
+              "class_name": "table",
+              "confidence": 0.000652191461995244
+            },
+            {
+              "class_name": "box_plot",
+              "confidence": 0.0005803189123980701
+            },
+            {
+              "class_name": "music",
+              "confidence": 0.0003209030837751925
+            },
+            {
+              "class_name": "chemistry_structure",
+              "confidence": 0.00029651919612661004
+            },
+            {
+              "class_name": "screenshot_from_computer",
+              "confidence": 0.00029206633917056024
+            },
+            {
+              "class_name": "scatter_plot",
+              "confidence": 0.00017526729789096862
+            },
+            {
+              "class_name": "crossword_puzzle",
+              "confidence": 8.644215995445848e-05
+            },
+            {
+              "class_name": "photograph",
+              "confidence": 8.061560947680846e-05
+            },
+            {
+              "class_name": "stamp",
+              "confidence": 6.422108708648011e-05
+            },
+            {
+              "class_name": "qr_code",
+              "confidence": 5.729421172873117e-05
+            },
+            {
+              "class_name": "signature",
+              "confidence": 5.175853948458098e-05
+            },
+            {
+              "class_name": "topographical_map",
+              "confidence": 1.902264375530649e-05
+            },
+            {
+              "class_name": "bar_code",
+              "confidence": 6.261120233830297e-06
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "markdown": "SBM-1\n\n## The value chain that supports our business model\n\nAt the core of our business model are Onshore, Offshore, Development, and Service. The following outlines the additional steps that are integral to Vestas' value chain.\n\nThe main features of the upstream value chain are related to suppliers of raw materials and wind turbine components, project developers and transportation companies. The main features in the downstream value chain are related to selling wind power plants and providing service to customers and asset managers.\n\n## Inputs\n\nKey inputs to Vestas' value chain include raw materials, capital employed, energy and employee working hours. Vestas utilises these raw materials and components for manufacturing of wind turbines and related service to our primary downstream stakeholders, customers and asset managers.\n\nInputs are sourced through business relationships within the supply chain and own operations, encompassing both our internal workforce and external contractors. Development and procurement are primarily managed through improvement initiatives, contractual agreements and risk mitigation frameworks. The main upstream business actors include suppliers of raw materials and wind turbine components, project developers and transportation providers.\n\nThese activities form the core of Vestas' operations and products. Our position in the value chain is defined as 'Own operations'.\n\n## Key outputs and value creation\n\nThe key outputs of our value chain are wind turbines installed and serviced. The benefits we generate for our employees, investors, customers, and other stakeholders comprises, are among other things, salaries, shareholder returns, safety and GHG emission avoidance and reduction. Critical contributors to this value creation include our employees, customers, and partners involved in transportation, decommissioning, recycling, and waste management.\n\nCustomers/Asset managers\n\n<!-- image -->\n\nFlow chart\n\nDecommissioning\n\nWaste and end of life",
+  "quality": {
+    "pages_processed": 1,
+    "pages_with_text": 1,
+    "pages_with_tables": 0,
+    "pages_with_pictures": 1,
+    "pages_requiring_ocr": 0,
+    "ocr_pages_processed": 0,
+    "empty_pages": 0,
+    "failed_pages": 0,
+    "overall_quality_score": 1.0
+  },
+  "warnings": [],
+  "errors": []
+}

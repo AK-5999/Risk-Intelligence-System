@@ -1,0 +1,29 @@
+{
+  "page_number": 71,
+  "description": "Material impacts, risks, and opportunities (E1 Climate Change) - narrative plus double-materiality table; page also has an impact/financial-materiality icon legend (known limitation: infographics) which is intentionally excluded",
+  "expected_headings": [
+    "Material impacts, risks, and opportunities",
+    "E1 Climate Change",
+    "Sub-topic",
+    "Impacts on people and environment",
+    "Financial risks or opportunities"
+  ],
+  "required_text_fragments": [
+    "material impacts, risk and opportunities",
+    "identified in Vestas' DMA are presented in the tables below",
+    "describes how negative and positive impacts affect"
+  ],
+  "expected_tables": [
+    {
+      "row_count": 5,
+      "column_count": 5,
+      "columns": ["", "Name and description", "Value chain", "Name and description", "Value chain"],
+      "required_row_labels": [
+        "Double materiality Climate change mitigation",
+        "Impact materiality Energy consumption",
+        "Financial materiality Climate change adaptation"
+      ]
+    }
+  ],
+  "provenance_required": true
+}

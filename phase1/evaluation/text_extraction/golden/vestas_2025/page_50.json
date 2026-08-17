@@ -1,0 +1,21 @@
+{
+  "page_number": 50,
+  "description": "Risk management narrative and governance lines; page also contains an 'ERM annual wheel' circular diagram (known limitation: circular governance diagrams) whose quadrant labels are intentionally excluded",
+  "expected_headings": [
+    "Risk management",
+    "Enterprise Risk Management",
+    "Our risk management governance",
+    "Audit (3rd line)",
+    "Assurance (2nd line)",
+    "Operational (1st line)"
+  ],
+  "required_text_fragments": [
+    "integral part of business operations and strategy",
+    "structured approach to identifying, assessing, mitigating",
+    "Responsible for providing assurance on the design",
+    "Responsible for designing and supervising risk management systems",
+    "responsible for managing risks on a day-to-day basis"
+  ],
+  "expected_tables": [],
+  "provenance_required": true
+}

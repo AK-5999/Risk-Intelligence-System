@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "description": "Known PoC boundary cases outside the current normalized-schema contract.",
+  "cases": [
+    {
+      "id": "limit_001",
+      "description": "Alternate table orientation: risks are rows instead of the financial-risk semantic column.",
+      "expected_behavior": "unsupported_current_poc"
+    },
+    {
+      "id": "limit_002",
+      "description": "Opportunity expressed as 'strategic upside' without the word opportunity.",
+      "expected_behavior": "may_require_broader_terminology_adapter"
+    },
+    {
+      "id": "limit_003",
+      "description": "Immateriality expressed as 'below threshold' rather than 'immaterial'.",
+      "expected_behavior": "may_require_broader_materiality_vocabulary"
+    },
+    {
+      "id": "limit_004",
+      "description": "Risk and opportunity described together in the same financial cell.",
+      "expected_behavior": "requires_semantic_disambiguation"
+    }
+  ]
+}

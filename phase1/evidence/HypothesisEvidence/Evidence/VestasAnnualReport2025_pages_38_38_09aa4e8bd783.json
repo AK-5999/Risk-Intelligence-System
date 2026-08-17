@@ -1,0 +1,651 @@
+{
+  "document_id": "cf9acfc1-2873-4a33-9965-2c6c71a26312",
+  "document_hash": "09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc",
+  "source": {
+    "file_name": "VestasAnnualReport2025.pdf",
+    "file_type": "pdf",
+    "file_size_bytes": 7656538,
+    "source_path": "D:\\Coding\\Vestas\\Pipeline\\data\\VestasAnnualReport2025.pdf"
+  },
+  "document_metadata": {
+    "page_count": 1,
+    "processed_page_range": [
+      38,
+      38
+    ],
+    "title": "VestasAnnualReport2025"
+  },
+  "processing": {
+    "parser_name": "docling-adaptive-pdf-parser",
+    "parser_version": "3.0.0",
+    "processing_started_at": "2026-08-06T14:52:23.118463+00:00",
+    "processing_completed_at": "2026-08-06T14:52:49.261295+00:00",
+    "status": "completed_with_warnings",
+    "strategy": "adaptive_two_pass",
+    "pass_1": {
+      "purpose": "Layout and native-content detection",
+      "ocr_enabled": false
+    },
+    "pass_2": {
+      "purpose": "OCR only on candidate pages",
+      "ocr_enabled": true,
+      "candidate_pages": [
+        38
+      ],
+      "processed_pages": []
+    }
+  },
+  "content_summary": {
+    "total_blocks": 1,
+    "total_tables": 0,
+    "total_pictures": 1,
+    "label_counts": {
+      "picture": 1
+    },
+    "page_type_counts": {
+      "scanned_or_image_based": 1
+    },
+    "ocr_required_page_count": 1,
+    "ocr_required_pages": [
+      38
+    ]
+  },
+  "pages": [
+    {
+      "page_number": 38,
+      "page_type": "scanned_or_image_based",
+      "contains": {
+        "text": false,
+        "table": false,
+        "picture": true,
+        "chart": true,
+        "diagram": false
+      },
+      "native_text": "",
+      "ocr_text": "",
+      "final_text": "",
+      "ocr": {
+        "required": true,
+        "reason": "No native text was extracted.",
+        "applied": true,
+        "success": false,
+        "error": "ImportError: onnxruntime is not installed."
+      },
+      "content": [
+        {
+          "type": "ocr_text",
+          "text": "",
+          "extraction_method": "ocr"
+        },
+        {
+          "type": "geographical_map",
+          "classification": {
+            "primary_label": "geographical_map",
+            "labels": [
+              "geographical_map",
+              "line_chart",
+              "screenshot_from_computer",
+              "bar_chart",
+              "scatter_plot",
+              "full_page_image",
+              "pie_chart",
+              "table",
+              "engineering_drawing",
+              "flow_chart",
+              "topographical_map",
+              "calendar",
+              "other",
+              "music",
+              "logo",
+              "chemistry_structure",
+              "crossword_puzzle",
+              "icon",
+              "page_thumbnail",
+              "qr_code",
+              "screenshot_from_manual",
+              "box_plot",
+              "signature",
+              "stamp",
+              "photograph",
+              "bar_code",
+              "chart",
+              "photo"
+            ],
+            "confidence_scores": [
+              0.9967716336250305,
+              0.0019031584961339831,
+              0.0004551255260594189,
+              0.00021128074149601161,
+              0.00012722241808660328,
+              0.00012141211482230574,
+              9.408253390574828e-05,
+              6.772446795366704e-05,
+              6.373852374963462e-05,
+              6.217669579200447e-05,
+              3.9065340388333425e-05,
+              3.895927147823386e-05,
+              9.735490493767429e-06,
+              8.358299055544194e-06,
+              5.576686362473993e-06,
+              4.468936822377145e-06,
+              3.7926290588075062e-06,
+              3.12943984681624e-06,
+              2.6434681785758585e-06,
+              2.474221673764987e-06,
+              1.4388156159839127e-06,
+              1.3339586075744592e-06,
+              8.316249591189262e-07,
+              3.225361240311031e-07,
+              2.138940686791102e-07,
+              1.2473964261516812e-07
+            ]
+          },
+          "annotations": [
+            {
+              "kind": "classification",
+              "provenance": "DocumentPictureClassifier",
+              "predicted_classes": [
+                {
+                  "class_name": "geographical_map",
+                  "confidence": 0.9967716336250305
+                },
+                {
+                  "class_name": "line_chart",
+                  "confidence": 0.0019031584961339831
+                },
+                {
+                  "class_name": "screenshot_from_computer",
+                  "confidence": 0.0004551255260594189
+                },
+                {
+                  "class_name": "bar_chart",
+                  "confidence": 0.00021128074149601161
+                },
+                {
+                  "class_name": "scatter_plot",
+                  "confidence": 0.00012722241808660328
+                },
+                {
+                  "class_name": "full_page_image",
+                  "confidence": 0.00012141211482230574
+                },
+                {
+                  "class_name": "pie_chart",
+                  "confidence": 9.408253390574828e-05
+                },
+                {
+                  "class_name": "table",
+                  "confidence": 6.772446795366704e-05
+                },
+                {
+                  "class_name": "engineering_drawing",
+                  "confidence": 6.373852374963462e-05
+                },
+                {
+                  "class_name": "flow_chart",
+                  "confidence": 6.217669579200447e-05
+                },
+                {
+                  "class_name": "topographical_map",
+                  "confidence": 3.9065340388333425e-05
+                },
+                {
+                  "class_name": "calendar",
+                  "confidence": 3.895927147823386e-05
+                },
+                {
+                  "class_name": "other",
+                  "confidence": 9.735490493767429e-06
+                },
+                {
+                  "class_name": "music",
+                  "confidence": 8.358299055544194e-06
+                },
+                {
+                  "class_name": "logo",
+                  "confidence": 5.576686362473993e-06
+                },
+                {
+                  "class_name": "chemistry_structure",
+                  "confidence": 4.468936822377145e-06
+                },
+                {
+                  "class_name": "crossword_puzzle",
+                  "confidence": 3.7926290588075062e-06
+                },
+                {
+                  "class_name": "icon",
+                  "confidence": 3.12943984681624e-06
+                },
+                {
+                  "class_name": "page_thumbnail",
+                  "confidence": 2.6434681785758585e-06
+                },
+                {
+                  "class_name": "qr_code",
+                  "confidence": 2.474221673764987e-06
+                },
+                {
+                  "class_name": "screenshot_from_manual",
+                  "confidence": 1.4388156159839127e-06
+                },
+                {
+                  "class_name": "box_plot",
+                  "confidence": 1.3339586075744592e-06
+                },
+                {
+                  "class_name": "signature",
+                  "confidence": 8.316249591189262e-07
+                },
+                {
+                  "class_name": "stamp",
+                  "confidence": 3.225361240311031e-07
+                },
+                {
+                  "class_name": "photograph",
+                  "confidence": 2.138940686791102e-07
+                },
+                {
+                  "class_name": "bar_code",
+                  "confidence": 1.2473964261516812e-07
+                }
+              ]
+            }
+          ],
+          "extraction_method": "docling_picture_analysis",
+          "provenance": [
+            {
+              "page_number": 38,
+              "bbox": {
+                "l": 26.555925543814887,
+                "t": 522.6750175997615,
+                "r": 810.9123721454389,
+                "b": 57.5263059824706,
+                "coord_origin": "BOTTOMLEFT"
+              },
+              "character_span": [
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      ],
+      "block_ids": [
+        "#/pictures/0"
+      ],
+      "table_ids": [],
+      "picture_ids": [
+        "#/pictures/0"
+      ],
+      "metadata": {
+        "block_count": 1,
+        "text_block_count": 0,
+        "table_count": 0,
+        "picture_count": 1,
+        "chart_count": 1,
+        "diagram_count": 0
+      },
+      "warnings": [
+        "OCR was applied but no text was extracted."
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "block_id": "#/pictures/0",
+      "sequence_number": 1,
+      "hierarchy_level": 1,
+      "type": "picture",
+      "text": "",
+      "character_count": 0,
+      "word_count": 0,
+      "page_numbers": [
+        38
+      ],
+      "provenance": [
+        {
+          "page_number": 38,
+          "bbox": {
+            "l": 26.555925543814887,
+            "t": 522.6750175997615,
+            "r": 810.9123721454389,
+            "b": 57.5263059824706,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            0
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "kind": "classification",
+          "provenance": "DocumentPictureClassifier",
+          "predicted_classes": [
+            {
+              "class_name": "geographical_map",
+              "confidence": 0.9967716336250305
+            },
+            {
+              "class_name": "line_chart",
+              "confidence": 0.0019031584961339831
+            },
+            {
+              "class_name": "screenshot_from_computer",
+              "confidence": 0.0004551255260594189
+            },
+            {
+              "class_name": "bar_chart",
+              "confidence": 0.00021128074149601161
+            },
+            {
+              "class_name": "scatter_plot",
+              "confidence": 0.00012722241808660328
+            },
+            {
+              "class_name": "full_page_image",
+              "confidence": 0.00012141211482230574
+            },
+            {
+              "class_name": "pie_chart",
+              "confidence": 9.408253390574828e-05
+            },
+            {
+              "class_name": "table",
+              "confidence": 6.772446795366704e-05
+            },
+            {
+              "class_name": "engineering_drawing",
+              "confidence": 6.373852374963462e-05
+            },
+            {
+              "class_name": "flow_chart",
+              "confidence": 6.217669579200447e-05
+            },
+            {
+              "class_name": "topographical_map",
+              "confidence": 3.9065340388333425e-05
+            },
+            {
+              "class_name": "calendar",
+              "confidence": 3.895927147823386e-05
+            },
+            {
+              "class_name": "other",
+              "confidence": 9.735490493767429e-06
+            },
+            {
+              "class_name": "music",
+              "confidence": 8.358299055544194e-06
+            },
+            {
+              "class_name": "logo",
+              "confidence": 5.576686362473993e-06
+            },
+            {
+              "class_name": "chemistry_structure",
+              "confidence": 4.468936822377145e-06
+            },
+            {
+              "class_name": "crossword_puzzle",
+              "confidence": 3.7926290588075062e-06
+            },
+            {
+              "class_name": "icon",
+              "confidence": 3.12943984681624e-06
+            },
+            {
+              "class_name": "page_thumbnail",
+              "confidence": 2.6434681785758585e-06
+            },
+            {
+              "class_name": "qr_code",
+              "confidence": 2.474221673764987e-06
+            },
+            {
+              "class_name": "screenshot_from_manual",
+              "confidence": 1.4388156159839127e-06
+            },
+            {
+              "class_name": "box_plot",
+              "confidence": 1.3339586075744592e-06
+            },
+            {
+              "class_name": "signature",
+              "confidence": 8.316249591189262e-07
+            },
+            {
+              "class_name": "stamp",
+              "confidence": 3.225361240311031e-07
+            },
+            {
+              "class_name": "photograph",
+              "confidence": 2.138940686791102e-07
+            },
+            {
+              "class_name": "bar_code",
+              "confidence": 1.2473964261516812e-07
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "pictures": [
+    {
+      "picture_id": "#/pictures/0",
+      "picture_number": 1,
+      "page_numbers": [
+        38
+      ],
+      "classification": {
+        "primary_label": "geographical_map",
+        "labels": [
+          "geographical_map",
+          "line_chart",
+          "screenshot_from_computer",
+          "bar_chart",
+          "scatter_plot",
+          "full_page_image",
+          "pie_chart",
+          "table",
+          "engineering_drawing",
+          "flow_chart",
+          "topographical_map",
+          "calendar",
+          "other",
+          "music",
+          "logo",
+          "chemistry_structure",
+          "crossword_puzzle",
+          "icon",
+          "page_thumbnail",
+          "qr_code",
+          "screenshot_from_manual",
+          "box_plot",
+          "signature",
+          "stamp",
+          "photograph",
+          "bar_code",
+          "chart",
+          "photo"
+        ],
+        "confidence_scores": [
+          0.9967716336250305,
+          0.0019031584961339831,
+          0.0004551255260594189,
+          0.00021128074149601161,
+          0.00012722241808660328,
+          0.00012141211482230574,
+          9.408253390574828e-05,
+          6.772446795366704e-05,
+          6.373852374963462e-05,
+          6.217669579200447e-05,
+          3.9065340388333425e-05,
+          3.895927147823386e-05,
+          9.735490493767429e-06,
+          8.358299055544194e-06,
+          5.576686362473993e-06,
+          4.468936822377145e-06,
+          3.7926290588075062e-06,
+          3.12943984681624e-06,
+          2.6434681785758585e-06,
+          2.474221673764987e-06,
+          1.4388156159839127e-06,
+          1.3339586075744592e-06,
+          8.316249591189262e-07,
+          3.225361240311031e-07,
+          2.138940686791102e-07,
+          1.2473964261516812e-07
+        ]
+      },
+      "provenance": [
+        {
+          "page_number": 38,
+          "bbox": {
+            "l": 26.555925543814887,
+            "t": 522.6750175997615,
+            "r": 810.9123721454389,
+            "b": 57.5263059824706,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "character_span": [
+            0,
+            0
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "kind": "classification",
+          "provenance": "DocumentPictureClassifier",
+          "predicted_classes": [
+            {
+              "class_name": "geographical_map",
+              "confidence": 0.9967716336250305
+            },
+            {
+              "class_name": "line_chart",
+              "confidence": 0.0019031584961339831
+            },
+            {
+              "class_name": "screenshot_from_computer",
+              "confidence": 0.0004551255260594189
+            },
+            {
+              "class_name": "bar_chart",
+              "confidence": 0.00021128074149601161
+            },
+            {
+              "class_name": "scatter_plot",
+              "confidence": 0.00012722241808660328
+            },
+            {
+              "class_name": "full_page_image",
+              "confidence": 0.00012141211482230574
+            },
+            {
+              "class_name": "pie_chart",
+              "confidence": 9.408253390574828e-05
+            },
+            {
+              "class_name": "table",
+              "confidence": 6.772446795366704e-05
+            },
+            {
+              "class_name": "engineering_drawing",
+              "confidence": 6.373852374963462e-05
+            },
+            {
+              "class_name": "flow_chart",
+              "confidence": 6.217669579200447e-05
+            },
+            {
+              "class_name": "topographical_map",
+              "confidence": 3.9065340388333425e-05
+            },
+            {
+              "class_name": "calendar",
+              "confidence": 3.895927147823386e-05
+            },
+            {
+              "class_name": "other",
+              "confidence": 9.735490493767429e-06
+            },
+            {
+              "class_name": "music",
+              "confidence": 8.358299055544194e-06
+            },
+            {
+              "class_name": "logo",
+              "confidence": 5.576686362473993e-06
+            },
+            {
+              "class_name": "chemistry_structure",
+              "confidence": 4.468936822377145e-06
+            },
+            {
+              "class_name": "crossword_puzzle",
+              "confidence": 3.7926290588075062e-06
+            },
+            {
+              "class_name": "icon",
+              "confidence": 3.12943984681624e-06
+            },
+            {
+              "class_name": "page_thumbnail",
+              "confidence": 2.6434681785758585e-06
+            },
+            {
+              "class_name": "qr_code",
+              "confidence": 2.474221673764987e-06
+            },
+            {
+              "class_name": "screenshot_from_manual",
+              "confidence": 1.4388156159839127e-06
+            },
+            {
+              "class_name": "box_plot",
+              "confidence": 1.3339586075744592e-06
+            },
+            {
+              "class_name": "signature",
+              "confidence": 8.316249591189262e-07
+            },
+            {
+              "class_name": "stamp",
+              "confidence": 3.225361240311031e-07
+            },
+            {
+              "class_name": "photograph",
+              "confidence": 2.138940686791102e-07
+            },
+            {
+              "class_name": "bar_code",
+              "confidence": 1.2473964261516812e-07
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "markdown": "<!-- image -->\n\nGeographical map",
+  "quality": {
+    "pages_processed": 1,
+    "pages_with_text": 0,
+    "pages_with_tables": 0,
+    "pages_with_pictures": 1,
+    "pages_requiring_ocr": 1,
+    "ocr_pages_processed": 1,
+    "empty_pages": 0,
+    "failed_pages": 0,
+    "overall_quality_score": 1.0
+  },
+  "warnings": [
+    "OCR returned no usable text on pages: [38]"
+  ],
+  "errors": []
+}

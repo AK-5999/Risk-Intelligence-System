@@ -1,0 +1,39 @@
+2026-08-07 14:03:11 | INFO | ========================================================================
+2026-08-07 14:03:11 | INFO | PARSING COMPONENT STARTED
+2026-08-07 14:03:11 | INFO | ========================================================================
+2026-08-07 14:03:11 | INFO | Input file: D:\Coding\Vestas\Pipeline\data\VestasAnnualReport2025.pdf
+2026-08-07 14:03:11 | INFO | Requested page range: (50, 51)
+2026-08-07 14:03:11 | INFO | Force reprocess: False
+2026-08-07 14:03:11 | INFO | Input validation completed
+2026-08-07 14:03:11 | INFO | Calculating document SHA-256 hash
+2026-08-07 14:03:11 | INFO | Document hash: 09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc
+2026-08-07 14:03:11 | INFO | Raw document output: D:\Coding\Vestas\Pipeline\phase\phase1\output\raw\VestasAnnualReport2025_09aa4e8bd783.json
+2026-08-07 14:03:11 | INFO | Canonical document output: D:\Coding\Vestas\Pipeline\phase\phase1\output\normalized\VestasAnnualReport2025_09aa4e8bd783.json
+2026-08-07 14:03:11 | INFO | Existing canonical pages: []
+2026-08-07 14:03:11 | INFO | Requested pages: [50, 51]
+2026-08-07 14:03:11 | INFO | Registry key: 09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc:docling-adaptive-pdf-parser:3.0.0
+2026-08-07 14:03:11 | INFO | Registry updated: PROCESSING
+2026-08-07 14:03:11 | INFO | Starting physical extraction for requested scope
+2026-08-07 14:03:47 | INFO | Parser status: completed
+2026-08-07 14:03:47 | INFO | Pages extracted in current run: [50, 51]
+2026-08-07 14:03:47 | INFO | Merged raw document saved
+2026-08-07 14:03:47 | INFO | Normalizing current extraction only
+2026-08-07 14:03:47 | INFO | Merged canonical document saved
+2026-08-07 14:03:48 | INFO | Registry updated: COMPLETED
+2026-08-07 14:03:48 | INFO | ------------------------------------------------------------------------
+2026-08-07 14:03:48 | INFO | CANONICAL DOCUMENT SUMMARY
+2026-08-07 14:03:48 | INFO | ------------------------------------------------------------------------
+2026-08-07 14:03:48 | INFO | Stored pages: [50, 51]
+2026-08-07 14:03:48 | INFO | Page count: 2
+2026-08-07 14:03:48 | INFO | Total canonical blocks: 25
+2026-08-07 14:03:48 | INFO | Text blocks: 9
+2026-08-07 14:03:48 | INFO | Headings: 14
+2026-08-07 14:03:48 | INFO | Tables: 1
+2026-08-07 14:03:48 | INFO | Charts: 0
+2026-08-07 14:03:48 | INFO | Diagrams: 1
+2026-08-07 14:03:48 | INFO | Images: 0
+2026-08-07 14:03:48 | INFO | ------------------------------------------------------------------------
+2026-08-07 14:03:48 | INFO | Final stored pages: [50, 51]
+2026-08-07 14:03:48 | INFO | ========================================================================
+2026-08-07 14:03:48 | INFO | PARSING COMPONENT COMPLETED
+2026-08-07 14:03:48 | INFO | ========================================================================

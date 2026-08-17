@@ -1,0 +1,52 @@
+{
+  "page_number": 51,
+  "description": "Principal enterprise risks table",
+
+  "expected_block_types": {
+    "heading": 4,
+    "table": 1
+  },
+
+  "expected_headings": [
+    "Main risks",
+    "Geopolitics and regulatory framework",
+    "Project execution",
+    "Cyber attacks"
+  ],
+
+  "expected_tables": [
+    {
+      "row_count": 3,
+      "column_count": 4,
+
+      "columns": [
+        "attribute",
+        "Geopolitics and regulatory framework",
+        "Project execution",
+        "Cyber attacks"
+      ],
+
+      "required_row_labels": [
+        "Description",
+        "Potential impact",
+        "How we manage it"
+      ],
+
+      "required_text_fragments": [
+        "shifting geopolitical tensions",
+        "complex onshore and offshore projects",
+        "digital and other critical assets are exposed to cyber attacks",
+        "Geopolitical tensions and regulatory shifts",
+        "Challenges in project execution",
+        "Politically motivated cyber actors",
+        "We manage geopolitical risks",
+        "We mitigate execution risks",
+        "no critical cyber security incidents took place"
+      ],
+
+      "headers_must_be_semantic": true
+    }
+  ],
+
+  "provenance_required": true
+}

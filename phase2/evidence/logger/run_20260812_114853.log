@@ -1,0 +1,149 @@
+2026-08-12 11:48:53,728 | INFO | PIPELINE | run_id=20260812_114853 | STARTED
+2026-08-12 11:48:53,728 | INFO | PIPELINE | log_file=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\logger\run_20260812_114853.log
+2026-08-12 11:48:53,728 | INFO | PIPELINE | run_id=20260812_114853 | STEP_1 | STARTED
+2026-08-12 11:48:53,728 | INFO | STEP_1 | risk_analysis | STARTED
+2026-08-12 11:48:53,728 | INFO | STEP_1 | input_load | STARTED
+2026-08-12 11:48:53,728 | INFO | STEP_1 | input_file=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\InputJson\VestasAnnualReport2025.json
+2026-08-12 11:48:53,730 | INFO | STEP_1 | input_load | SUCCESS | pages=6
+2026-08-12 11:48:53,730 | INFO | STEP_1 | enterprise_table | page=51 | block=block-5 | rows=3
+2026-08-12 11:48:53,739 | INFO | STEP_1 | topic_detected | page=71 | code=E1 | topic=Climate Change | block=block-3
+2026-08-12 11:48:53,739 | INFO | STEP_1 | topic_detected | page=72 | code=E4 | topic=Biodiversity and ecosystems | block=block-1
+2026-08-12 11:48:53,739 | INFO | STEP_1 | topic_detected | page=72 | code=E5 | topic=Circular economy and resource use | block=block-2
+2026-08-12 11:48:53,739 | INFO | STEP_1 | topic_detected | page=73 | code=S1 | topic=Own Workforce | block=block-1
+2026-08-12 11:48:53,739 | INFO | STEP_1 | topic_detected | page=73 | code=S2 | topic=Workers in the value chain | block=block-6
+2026-08-12 11:48:53,739 | INFO | STEP_1 | topic_detected | page=74 | code=S3 | topic=Affected communities | block=block-1
+2026-08-12 11:48:53,739 | INFO | STEP_1 | topic_detected | page=74 | code=G1 | topic=Business Conduct | block=block-7
+2026-08-12 11:48:53,739 | INFO | STEP_1 | table_detected | page=71 | block=block-13 | rows=5
+2026-08-12 11:48:53,739 | INFO | STEP_1 | table_detected | page=72 | block=block-9 | rows=1
+2026-08-12 11:48:53,739 | INFO | STEP_1 | table_detected | page=72 | block=block-10 | rows=3
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_detected | page=73 | block=block-12 | rows=3
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_detected | page=73 | block=block-13 | rows=3
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_detected | page=74 | block=block-15 | rows=2
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_detected | page=74 | block=block-16 | rows=1
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_detected | page=74 | block=block-17 | rows=3
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_match | page=71 | table=block-13 | topic=E1 | distance=36.35 | overlap=1.00
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_attached | topic=E1 | page=71 | block=block-13 | rows=5
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_match | page=72 | table=block-9 | topic=E4 | distance=17.61 | overlap=1.00
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_attached | topic=E4 | page=72 | block=block-9 | rows=1
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_match | page=72 | table=block-10 | topic=E5 | distance=32.82 | overlap=1.00
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_attached | topic=E5 | page=72 | block=block-10 | rows=3
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_match | page=73 | table=block-12 | topic=S1 | distance=35.06 | overlap=1.00
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_attached | topic=S1 | page=73 | block=block-12 | rows=3
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_match | page=73 | table=block-13 | topic=S2 | distance=34.15 | overlap=1.00
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_attached | topic=S2 | page=73 | block=block-13 | rows=3
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_match | page=74 | table=block-15 | topic=S3 | distance=35.02 | overlap=0.57
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_attached | topic=S3 | page=74 | block=block-15 | rows=2
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_match | page=74 | table=block-16 | topic=S3 | distance=35.38 | overlap=0.00
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_attached | topic=S3 | page=74 | block=block-16 | rows=1
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_match | page=74 | table=block-17 | topic=G1 | distance=35.54 | overlap=1.00
+2026-08-12 11:48:53,741 | INFO | STEP_1 | table_attached | topic=G1 | page=74 | block=block-17 | rows=3
+2026-08-12 11:48:53,741 | INFO | STEP_1 | risk_analysis | SUCCESS | topics=7 | material_tables=8 | topics_without_tables=0
+2026-08-12 11:48:53,741 | INFO | STEP_1 | output_write | SUCCESS | output=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\output\risk_analysis.json
+2026-08-12 11:48:53,741 | INFO | PIPELINE | run_id=20260812_114853 | STEP_1 | SUCCESS
+2026-08-12 11:48:53,741 | INFO | PIPELINE | run_id=20260812_114853 | STEP_2 | STARTED
+2026-08-12 11:48:53,745 | INFO | STEP_2 | generation | STARTED
+2026-08-12 11:48:53,745 | INFO | STEP_2 | analysis_load | STARTED | file=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\output\risk_analysis.json
+2026-08-12 11:48:53,759 | INFO | STEP_2 | analysis_load | SUCCESS
+2026-08-12 11:48:53,759 | INFO | STEP_2 | llm_health | STARTED | provider=openrouter | model=google/gemma-4-26b-a4b-it:free
+2026-08-12 11:48:54,061 | INFO | STEP_2 | llm_health | SUCCESS | status=200 | latency_ms=299.34
+2026-08-12 11:48:54,061 | INFO | STEP_2 | prompt_load | name=risk_extraction | version=1.0 | hash=1f0b1e5735af
+2026-08-12 11:48:54,061 | INFO | STEP_2 | contexts | count=8
+2026-08-12 11:48:54,061 | INFO | STEP_2 | context_generation | STARTED | 1/8 | source_type=enterprise_main_risks | topic=Main risks
+2026-08-12 11:48:54,061 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_extraction
+2026-08-12 11:49:39,088 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=45027.58 | prompt_tokens=1616 | completion_tokens=396
+2026-08-12 11:49:39,088 | INFO | STEP_2 | raw_response_shape | topic=Main risks | type=dict | keys=['risks']
+2026-08-12 11:49:39,088 | INFO | STEP_2 | raw_risk_item | topic=Main risks | index=0 | type=dict | preview='{"category": "geopolitical", "description": "Shifting geopolitical tensions and conflicts in regions like Ukraine and the Middle East disrupt global supply chains and business operations. These dynamics create market uncertainty, increase costs through tariffs, and may weaken project economics and competitiveness.", "mitigation": "We manage geopolitical risks by continuously monitoring global developments and implementing appropriate mitigations. By maintaining a global and regionalised manufacturing footprint, Vestas can effectively respond to geopolitical shifts and regulatory changes. Proactive advocacy ensures alignment and compliance with evolving policies and the regulatory climate. Additionally, we exercise commercial discipline and utilise indexation and financial hedging strategies to minimise exposure.", "page": 51, "section": "Risk management", "source_block_ids": ["block-5"], "title": "Geopolitics and regulatory framework"}'
+2026-08-12 11:49:39,088 | INFO | STEP_2 | raw_risk_item | topic=Main risks | index=1 | type=dict | preview='{"category": "operational", "description": "Delivering complex onshore and offshore projects is subject to delays in production capacity ramp-up, quality control issues, and supply chain disruptions. These challenges can lead to cost overruns, margin erosion, and reputational damage, particularly as project scale and complexity increase.", "mitigation": "We mitigate execution risks through project governance, enhanced planning functions, and continuous alignment between commercial and delivery teams. We invest in scalable manufacturing capacity and maintain close coordination with suppliers to secure timely component availability.", "page": 51, "section": "Risk management", "source_block_ids": ["block-5"], "title": "Project execution"}'
+2026-08-12 11:49:39,088 | INFO | STEP_2 | raw_risk_item | topic=Main risks | index=2 | type=dict | preview='{"category": "cyber", "description": "Vestas\' digital and critical assets are targets for cyber-criminal and geopolitical actors seeking to extort or destabilise energy generation. A successful attack could cause electricity outages, physical damage to assets, and significant economic and reputational loss.", "mitigation": "We are developing cyber security services aimed at helping our customers navigate cyber risks effectively, fulfil industry requirements and standards, and uphold their responsibilities.", "page": 51, "section": "Risk management", "source_block_ids": ["block-5"], "title": "Cyber attacks"}'
+2026-08-12 11:49:39,090 | INFO | STEP_2 | category_resolution | source=llm | topic=Main risks | index=0 | category=geopolitical
+2026-08-12 11:49:39,090 | INFO | STEP_2 | category_resolution | source=llm | topic=Main risks | index=1 | category=operational
+2026-08-12 11:49:39,090 | INFO | STEP_2 | category_resolution | source=llm | topic=Main risks | index=2 | category=cyber
+2026-08-12 11:49:39,090 | INFO | STEP_2 | context_generation | SUCCESS | topic=Main risks | risks=3
+2026-08-12 11:49:39,090 | INFO | STEP_2 | context_generation | STARTED | 2/8 | source_type=material_iro | topic=E1 Climate Change
+2026-08-12 11:49:39,090 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_extraction
+2026-08-12 11:50:02,933 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=23843.17 | prompt_tokens=1275 | completion_tokens=233
+2026-08-12 11:50:02,933 | INFO | STEP_2 | raw_response_shape | topic=E1 Climate Change | type=dict | keys=['risks']
+2026-08-12 11:50:02,933 | INFO | STEP_2 | raw_risk_item | topic=E1 Climate Change | index=0 | type=dict | preview='{"title": "GHG emissions from operations and value chain", "description": "GHG emissions from Vestas\' own operations and value chain have a negative impact on the global climate and environment.", "category": "climate", "section": "Material impacts, risks, and opportunities", "page": 71, "mitigation": null, "source_block_ids": ["block-13"]}'
+2026-08-12 11:50:02,933 | INFO | STEP_2 | raw_risk_item | topic=E1 Climate Change | index=1 | type=dict | preview='{"title": "Carbon taxes and tariffs", "description": "High carbon taxes and tariffs increase the price of GHG intense materials such as steel, which increases the overall cost to produce wind turbines.", "category": "climate", "section": "Material impacts, risks, and opportunities", "page": 71, "mitigation": null, "source_block_ids": ["block-13"]}'
+2026-08-12 11:50:02,933 | INFO | STEP_2 | category_resolution | source=llm | topic=E1 Climate Change | index=0 | category=climate
+2026-08-12 11:50:02,933 | INFO | STEP_2 | category_resolution | source=llm | topic=E1 Climate Change | index=1 | category=climate
+2026-08-12 11:50:02,933 | INFO | STEP_2 | context_generation | SUCCESS | topic=E1 Climate Change | risks=2
+2026-08-12 11:50:02,933 | INFO | STEP_2 | context_generation | STARTED | 3/8 | source_type=material_iro | topic=E4 Biodiversity and ecosystems
+2026-08-12 11:50:02,933 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_extraction
+2026-08-12 11:50:03,842 | WARNING | STEP_2 | llm_retry | status=429 | attempt=1/5 | wait_seconds=22.66
+2026-08-12 11:50:28,580 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=25656.72 | prompt_tokens=920 | completion_tokens=6
+2026-08-12 11:50:28,580 | INFO | STEP_2 | raw_response_shape | topic=E4 Biodiversity and ecosystems | type=dict | keys=['risks']
+2026-08-12 11:50:28,580 | INFO | STEP_2 | context_generation | SUCCESS | topic=E4 Biodiversity and ecosystems | risks=0
+2026-08-12 11:50:28,580 | INFO | STEP_2 | context_generation | STARTED | 4/8 | source_type=material_iro | topic=E5 Circular economy and resource use
+2026-08-12 11:50:28,580 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_extraction
+2026-08-12 11:50:29,549 | WARNING | STEP_2 | llm_retry | status=429 | attempt=1/5 | wait_seconds=22.28
+2026-08-12 11:51:00,669 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=32082.64 | prompt_tokens=1076 | completion_tokens=132
+2026-08-12 11:51:00,669 | INFO | STEP_2 | raw_response_shape | topic=E5 Circular economy and resource use | type=dict | keys=['risks']
+2026-08-12 11:51:00,669 | INFO | STEP_2 | raw_risk_item | topic=E5 Circular economy and resource use | index=0 | type=dict | preview='{"title": "Non-recyclable materials in turbines", "description": "Non-recyclable materials used in turbines might be landfilled or incinerated. This increases the demand for virgin materials and has a negative impact on the environment.", "category": "operational", "section": "Material impacts, risks, and opportunities", "page": 72, "mitigation": null, "source_block_ids": ["block-10"]}'
+2026-08-12 11:51:00,669 | INFO | STEP_2 | category_resolution | source=llm | topic=E5 Circular economy and resource use | index=0 | category=operational
+2026-08-12 11:51:00,669 | INFO | STEP_2 | context_generation | SUCCESS | topic=E5 Circular economy and resource use | risks=1
+2026-08-12 11:51:00,669 | INFO | STEP_2 | context_generation | STARTED | 5/8 | source_type=material_iro | topic=S1 Own Workforce
+2026-08-12 11:51:00,669 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_extraction
+2026-08-12 11:51:15,068 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=14395.35 | prompt_tokens=1066 | completion_tokens=90
+2026-08-12 11:51:15,068 | INFO | STEP_2 | raw_response_shape | topic=S1 Own Workforce | type=dict | keys=['risks']
+2026-08-12 11:51:15,068 | INFO | STEP_2 | raw_risk_item | topic=S1 Own Workforce | index=0 | type=dict | preview='{"category": "workforce", "description": "Potential injuries in the own workforce can lead to delays, lost work hours, and compensation costs. These health and safety incidents pose a financial risk to the company\'s operations.", "mitigation": null, "page": 73, "section": "Material impacts, risks, and opportunities", "source_block_ids": ["block-12"], "title": "Health and safety incidents of own workforce"}'
+2026-08-12 11:51:15,068 | INFO | STEP_2 | category_resolution | source=llm | topic=S1 Own Workforce | index=0 | category=workforce
+2026-08-12 11:51:15,068 | INFO | STEP_2 | context_generation | SUCCESS | topic=S1 Own Workforce | risks=1
+2026-08-12 11:51:15,068 | INFO | STEP_2 | context_generation | STARTED | 6/8 | source_type=material_iro | topic=S2 Workers in the value chain
+2026-08-12 11:51:15,072 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_extraction
+2026-08-12 11:51:40,304 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=25233.19 | prompt_tokens=1133 | completion_tokens=169
+2026-08-12 11:51:40,304 | INFO | STEP_2 | raw_response_shape | topic=S2 Workers in the value chain | type=dict | keys=['risks']
+2026-08-12 11:51:40,304 | INFO | STEP_2 | raw_risk_item | topic=S2 Workers in the value chain | index=0 | type=dict | preview='{"title": "Injuries to contractors and sub-contractors", "description": "Potential injuries to contractors and sub-contractors working on Vestas sites in manufacturing, construction, and service. These injuries can lead to delays, lost work hours, and compensation costs.", "category": "operational", "section": "Material impacts, risks, and opportunities", "page": 73, "mitigation": null, "source_block_ids": ["block-13"]}'
+2026-08-12 11:51:40,304 | INFO | STEP_2 | category_resolution | source=llm | topic=S2 Workers in the value chain | index=0 | category=operational
+2026-08-12 11:51:40,304 | INFO | STEP_2 | context_generation | SUCCESS | topic=S2 Workers in the value chain | risks=1
+2026-08-12 11:51:40,304 | INFO | STEP_2 | context_generation | STARTED | 7/8 | source_type=material_iro | topic=S3 Affected communities
+2026-08-12 11:51:40,304 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_extraction
+2026-08-12 11:51:59,034 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=18731.61 | prompt_tokens=1153 | completion_tokens=244
+2026-08-12 11:51:59,038 | INFO | STEP_2 | raw_response_shape | topic=S3 Affected communities | type=dict | keys=['risks']
+2026-08-12 11:51:59,038 | INFO | STEP_2 | raw_risk_item | topic=S3 Affected communities | index=0 | type=dict | preview='{"title": "Land-use restrictions and displacement", "description": "Land-use restrictions during wind farm construction may lead to temporary physical and economic displacement of local communities, such as income losses.", "category": "other", "section": "Material impacts, risks, and opportunities", "page": 74, "mitigation": null, "source_block_ids": ["block-15"]}'
+2026-08-12 11:51:59,038 | INFO | STEP_2 | raw_risk_item | topic=S3 Affected communities | index=1 | type=dict | preview='{"title": "Impacts on indigenous peoples\' rights", "description": "Failure to respect the rights of indigenous peoples to own, control, and use their lands during the development, construction, and operation of wind farms is a potential negative impact.", "category": "other", "section": "Material impacts, risks, and opportunities", "page": 74, "mitigation": null, "source_block_ids": ["block-15"]}'
+2026-08-12 11:51:59,038 | INFO | STEP_2 | category_resolution | source=llm | topic=S3 Affected communities | index=0 | category=other
+2026-08-12 11:51:59,038 | INFO | STEP_2 | category_resolution | source=llm | topic=S3 Affected communities | index=1 | category=other
+2026-08-12 11:51:59,038 | INFO | STEP_2 | context_generation | SUCCESS | topic=S3 Affected communities | risks=2
+2026-08-12 11:51:59,038 | INFO | STEP_2 | context_generation | STARTED | 8/8 | source_type=material_iro | topic=G1 Business Conduct
+2026-08-12 11:51:59,038 | INFO | STEP_2 | llm_call | STARTED | model=google/gemma-4-26b-a4b-it:free | schema=risk_extraction
+2026-08-12 11:52:06,334 | INFO | STEP_2 | llm_call | SUCCESS | requested_model=google/gemma-4-26b-a4b-it:free | resolved_model=google/gemma-4-26b-a4b-it:free | latency_ms=7298.40 | prompt_tokens=1085 | completion_tokens=140
+2026-08-12 11:52:06,334 | INFO | STEP_2 | raw_response_shape | topic=G1 Business Conduct | type=dict | keys=['risks']
+2026-08-12 11:52:06,334 | INFO | STEP_2 | raw_risk_item | topic=G1 Business Conduct | index=0 | type=dict | preview='{"title": "Insufficient market conditions", "description": "Inadequate grid expansion, ineffective auction design, and permit delays could increase costs, hinder investments, and reduce the viability of wind deployment.", "category": "market", "section": "Material impacts, risks, and opportunities", "page": 74, "mitigation": null, "source_block_ids": ["block-17"]}'
+2026-08-12 11:52:06,334 | INFO | STEP_2 | category_resolution | source=llm | topic=G1 Business Conduct | index=0 | category=market
+2026-08-12 11:52:06,334 | INFO | STEP_2 | context_generation | SUCCESS | topic=G1 Business Conduct | risks=1
+2026-08-12 11:52:06,334 | INFO | STEP_2 | generation | SUCCESS | candidate_risks=11
+2026-08-12 11:52:06,337 | INFO | STEP_2 | output_write | SUCCESS | output=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\output\raw_generation.json
+2026-08-12 11:52:06,337 | INFO | PIPELINE | run_id=20260812_114853 | STEP_2 | SUCCESS
+2026-08-12 11:52:06,337 | INFO | PIPELINE | run_id=20260812_114853 | STEP_3 | STARTED
+2026-08-12 11:52:06,337 | INFO | STEP_3 | validation | STARTED
+2026-08-12 11:52:06,343 | INFO | STEP_3 | schema_validation | PASS | title=Geopolitics and regulatory framework
+2026-08-12 11:52:06,343 | INFO | STEP_3 | page_validation | PASS | title=Geopolitics and regulatory framework | page=51
+2026-08-12 11:52:06,355 | INFO | STEP_3 | schema_validation | PASS | title=Project execution
+2026-08-12 11:52:06,355 | INFO | STEP_3 | page_validation | PASS | title=Project execution | page=51
+2026-08-12 11:52:06,355 | INFO | STEP_3 | schema_validation | PASS | title=Cyber attacks
+2026-08-12 11:52:06,355 | INFO | STEP_3 | page_validation | PASS | title=Cyber attacks | page=51
+2026-08-12 11:52:06,355 | INFO | STEP_3 | schema_validation | PASS | title=GHG emissions from operations and value chain
+2026-08-12 11:52:06,355 | INFO | STEP_3 | page_validation | PASS | title=GHG emissions from operations and value chain | page=71
+2026-08-12 11:52:06,355 | WARNING | STEP_3 | description_check | WARNING | title=GHG emissions from operations and value chain | sentences=1
+2026-08-12 11:52:06,355 | INFO | STEP_3 | schema_validation | PASS | title=Carbon taxes and tariffs
+2026-08-12 11:52:06,355 | INFO | STEP_3 | page_validation | PASS | title=Carbon taxes and tariffs | page=71
+2026-08-12 11:52:06,355 | WARNING | STEP_3 | description_check | WARNING | title=Carbon taxes and tariffs | sentences=1
+2026-08-12 11:52:06,355 | INFO | STEP_3 | schema_validation | PASS | title=Non-recyclable materials in turbines
+2026-08-12 11:52:06,355 | INFO | STEP_3 | page_validation | PASS | title=Non-recyclable materials in turbines | page=72
+2026-08-12 11:52:06,358 | INFO | STEP_3 | schema_validation | PASS | title=Health and safety incidents of own workforce
+2026-08-12 11:52:06,358 | INFO | STEP_3 | page_validation | PASS | title=Health and safety incidents of own workforce | page=73
+2026-08-12 11:52:06,358 | INFO | STEP_3 | schema_validation | PASS | title=Injuries to contractors and sub-contractors
+2026-08-12 11:52:06,358 | INFO | STEP_3 | page_validation | PASS | title=Injuries to contractors and sub-contractors | page=73
+2026-08-12 11:52:06,358 | INFO | STEP_3 | schema_validation | PASS | title=Land-use restrictions and displacement
+2026-08-12 11:52:06,358 | INFO | STEP_3 | page_validation | PASS | title=Land-use restrictions and displacement | page=74
+2026-08-12 11:52:06,358 | WARNING | STEP_3 | description_check | WARNING | title=Land-use restrictions and displacement | sentences=1
+2026-08-12 11:52:06,358 | INFO | STEP_3 | schema_validation | PASS | title=Impacts on indigenous peoples' rights
+2026-08-12 11:52:06,358 | INFO | STEP_3 | page_validation | PASS | title=Impacts on indigenous peoples' rights | page=74
+2026-08-12 11:52:06,358 | WARNING | STEP_3 | description_check | WARNING | title=Impacts on indigenous peoples' rights | sentences=1
+2026-08-12 11:52:06,358 | INFO | STEP_3 | schema_validation | PASS | title=Insufficient market conditions
+2026-08-12 11:52:06,358 | INFO | STEP_3 | page_validation | PASS | title=Insufficient market conditions | page=74
+2026-08-12 11:52:06,358 | WARNING | STEP_3 | description_check | WARNING | title=Insufficient market conditions | sentences=1
+2026-08-12 11:52:06,358 | INFO | STEP_3 | validation | SUCCESS | final_risks=11
+2026-08-12 11:52:06,361 | INFO | PIPELINE | run_id=20260812_114853 | STEP_3 | SUCCESS
+2026-08-12 11:52:06,361 | INFO | PIPELINE | run_id=20260812_114853 | COMPLETED | output=D:\Coding\Vestas\Pipeline\Risk-Intelligence-System\phase2\output\risks.json

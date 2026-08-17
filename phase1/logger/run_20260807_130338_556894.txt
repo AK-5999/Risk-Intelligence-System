@@ -1,0 +1,40 @@
+2026-08-07 13:03:38 | INFO | ========================================================================
+2026-08-07 13:03:38 | INFO | PARSING COMPONENT STARTED
+2026-08-07 13:03:38 | INFO | ========================================================================
+2026-08-07 13:03:38 | INFO | Input file: D:\Coding\Vestas\Pipeline\data\VestasAnnualReport2025.pdf
+2026-08-07 13:03:38 | INFO | Page range: (71, 74)
+2026-08-07 13:03:38 | INFO | Force reprocess: False
+2026-08-07 13:03:38 | INFO | Input validation completed
+2026-08-07 13:03:38 | INFO | Calculating document SHA-256 hash
+2026-08-07 13:03:38 | INFO | Document hash: 09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc
+2026-08-07 13:03:38 | INFO | Registry key: 09aa4e8bd783ba4b964322945e3c24f1a1140045cc4e499f518a613ab707cfdc:pages-71-74:docling-adaptive-pdf-parser:3.0.0
+2026-08-07 13:03:38 | INFO | Raw output path: D:\Coding\Vestas\Pipeline\phase\phase1\output\raw\VestasAnnualReport2025_pages_71_74_09aa4e8bd783.json
+2026-08-07 13:03:38 | INFO | Canonical output path: D:\Coding\Vestas\Pipeline\phase\phase1\output\normalized\VestasAnnualReport2025_pages_71_74_09aa4e8bd783.json
+2026-08-07 13:03:38 | INFO | Registry path: D:\Coding\Vestas\Pipeline\phase\phase1\registry_report\processed_files.json
+2026-08-07 13:03:38 | INFO | Registry updated: PROCESSING
+2026-08-07 13:03:38 | INFO | Starting physical PDF extraction
+2026-08-07 13:04:38 | INFO | Parser status: completed
+2026-08-07 13:04:38 | INFO | Raw parser output saved successfully
+2026-08-07 13:04:38 | INFO | Starting document normalization
+2026-08-07 13:04:38 | INFO | Document normalization completed
+2026-08-07 13:04:38 | INFO | Canonical document saved successfully
+2026-08-07 13:04:38 | INFO | Registry updated: COMPLETED
+2026-08-07 13:04:38 | INFO | ------------------------------------------------------------------------
+2026-08-07 13:04:38 | INFO | CANONICAL DOCUMENT SUMMARY
+2026-08-07 13:04:38 | INFO | ------------------------------------------------------------------------
+2026-08-07 13:04:38 | INFO | Pages: 4
+2026-08-07 13:04:38 | INFO | Total canonical blocks: 55
+2026-08-07 13:04:38 | INFO | Text blocks: 21
+2026-08-07 13:04:38 | INFO | Headings: 24
+2026-08-07 13:04:38 | INFO | Tables: 8
+2026-08-07 13:04:38 | INFO | Charts: 0
+2026-08-07 13:04:38 | INFO | Diagrams: 0
+2026-08-07 13:04:38 | INFO | Images: 1
+2026-08-07 13:04:38 | INFO | ------------------------------------------------------------------------
+2026-08-07 13:04:38 | INFO | ========================================================================
+2026-08-07 13:04:38 | INFO | PARSING COMPONENT COMPLETED
+2026-08-07 13:04:38 | INFO | ========================================================================
+2026-08-07 13:04:38 | INFO | Raw output: D:\Coding\Vestas\Pipeline\phase\phase1\output\raw\VestasAnnualReport2025_pages_71_74_09aa4e8bd783.json
+2026-08-07 13:04:38 | INFO | Canonical output: D:\Coding\Vestas\Pipeline\phase\phase1\output\normalized\VestasAnnualReport2025_pages_71_74_09aa4e8bd783.json
+2026-08-07 13:04:38 | INFO | Registry: D:\Coding\Vestas\Pipeline\phase\phase1\registry_report\processed_files.json
+2026-08-07 13:04:38 | INFO | Run log: D:\Coding\Vestas\Pipeline\phase\phase1\logger\run_20260807_130338_556894.txt
